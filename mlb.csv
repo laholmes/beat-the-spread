@@ -1,0 +1,1277 @@
+id,homeTeamId,awayTeamId,homeTeamRuns,awayTeamRuns,homeTeamWin,date,awayName,homeName,538home,538away,exchangeHomePrice,bestHomeExchangeId,exchangeAwayPrice,bestAwayExchangeId
+1,2,30,2.0,1.0,1.0,2017-04-17,Pittsburgh Pirates,St. Louis Cardinals,0.510000,0.490000,0.75,1,1.10,1
+2,10,5,7.0,4.0,1.0,2017-04-17,Chicago White Sox,New York Yankees,0.560000,0.440000,0.62,1,1.35,1
+3,25,17,5.0,4.0,1.0,2017-04-17,San Diego Padres,Atlanta Braves,0.550000,0.450000,0.62,1,1.38,1
+4,1,3,3.0,6.0,0.0,2017-04-17,Milwaukee Brewers,Chicago Cubs,0.650000,0.350000,0.50,1,1.63,1
+5,4,27,3.0,0.0,1.0,2017-04-17,Los Angeles Angels,Houston Astros,0.600000,0.400000,0.62,1,1.35,1
+6,28,7,1.0,3.0,0.0,2017-04-17,Cleveland Indians,Minnesota Twins,0.440000,0.560000,1.25,1,0.67,1
+7,23,13,0.0,7.0,0.0,2017-04-17,Texas Rangers,Oakland Athletics,0.530000,0.470000,0.75,1,1.10,1
+8,16,8,2.0,4.0,0.0,2017-04-17,Arizona Diamondbacks,Los Angeles Dodgers,0.590000,0.410000,0.62,1,1.35,1
+9,12,11,6.0,1.0,1.0,2017-04-17,Miami Marlins,Seattle Mariners,0.560000,0.440000,0.67,1,1.25,1
+10,10,5,1.0,4.0,0.0,2017-04-18,Chicago White Sox,New York Yankees,0.550000,0.450000,0.50,1,1.63,1
+11,14,18,7.0,8.0,0.0,2017-04-18,Boston Red Sox,Toronto Blue Jays,0.540000,0.460000,0.57,1,1.45,1
+12,6,19,9.0,3.0,1.0,2017-04-18,Baltimore Orioles,Cincinnati Reds,0.460000,0.540000,1.35,1,0.65,1
+13,9,26,2.0,6.0,0.0,2017-04-18,Philadelphia Phillies,New York Mets,0.630000,0.370000,0.47,1,1.70,1
+14,21,29,5.0,1.0,1.0,2017-04-18,Detroit Tigers,Tampa Bay Rays,0.470000,0.530000,0.85,1,0.95,1
+15,25,15,1.0,3.0,0.0,2017-04-18,Washington Nationals,Atlanta Braves,0.390000,0.610000,1.63,1,0.50,1
+16,1,3,9.0,7.0,1.0,2017-04-18,Milwaukee Brewers,Chicago Cubs,0.590000,0.410000,0.57,1,1.45,1
+17,4,27,2.0,5.0,0.0,2017-04-18,Los Angeles Angels,Houston Astros,0.590000,0.410000,0.67,1,1.25,1
+18,28,7,4.0,11.0,1.0,2017-04-18,Cleveland Indians,Minnesota Twins,0.470000,0.530000,1.05,1,0.80,1
+19,20,24,1.0,2.0,0.0,2017-04-18,San Francisco Giants,Kansas City Royals,0.520000,0.480000,0.75,1,1.10,1
+20,2,30,2.0,1.0,1.0,2017-04-18,Pittsburgh Pirates,St. Louis Cardinals,0.530000,0.470000,0.70,1,1.20,1
+21,23,13,4.0,2.0,1.0,2017-04-18,Texas Rangers,Oakland Athletics,0.450000,0.550000,0.85,1,0.95,1
+22,16,22,3.0,4.0,0.0,2017-04-18,Colorado Rockies,Los Angeles Dodgers,0.630000,0.370000,0.57,1,1.45,1
+23,17,8,2.0,11.0,1.0,2017-04-18,Arizona Diamondbacks,San Diego Padres,0.470000,0.530000,0.95,1,0.85,1
+24,12,11,0.0,5.0,0.0,2017-04-18,Miami Marlins,Seattle Mariners,0.540000,0.460000,0.91,1,0.91,1
+25,2,30,2.0,1.0,1.0,2017-04-19,Pittsburgh Pirates,St. Louis Cardinals,0.510000,0.490000,0.75,1,1.10,1
+26,1,3,7.0,4.0,1.0,2017-04-19,Milwaukee Brewers,Chicago Cubs,0.700000,0.300000,0.47,1,1.70,1
+27,23,13,9.0,1.0,1.0,2017-04-19,Texas Rangers,Oakland Athletics,0.480000,0.520000,0.83,1,1.00,1
+28,12,11,10.0,5.0,0.0,2017-04-19,Miami Marlins,Seattle Mariners,0.570000,0.430000,0.67,1,1.25,1
+29,10,5,9.0,1.0,1.0,2017-04-19,Chicago White Sox,New York Yankees,0.620000,0.380000,0.44,1,1.80,1
+30,14,18,3.0,0.0,1.0,2017-04-19,Boston Red Sox,Toronto Blue Jays,0.450000,0.550000,1.00,1,0.83,1
+31,6,19,0.0,2.0,0.0,2017-04-19,Baltimore Orioles,Cincinnati Reds,0.520000,0.480000,0.91,1,0.91,1
+32,9,26,5.0,4.0,1.0,2017-04-19,Philadelphia Phillies,New York Mets,0.590000,0.410000,0.73,1,1.15,1
+33,21,29,8.0,7.0,1.0,2017-04-19,Detroit Tigers,Tampa Bay Rays,0.600000,0.400000,0.57,1,1.45,1
+34,25,15,4.0,14.0,1.0,2017-04-19,Washington Nationals,Atlanta Braves,0.510000,0.490000,1.05,1,0.80,1
+35,4,27,5.0,1.0,1.0,2017-04-19,Los Angeles Angels,Houston Astros,0.660000,0.340000,0.50,1,1.63,1
+36,20,24,2.0,0.0,1.0,2017-04-19,San Francisco Giants,Kansas City Royals,0.440000,0.560000,1.25,1,0.67,1
+37,16,22,4.0,2.0,1.0,2017-04-19,Colorado Rockies,Los Angeles Dodgers,0.680000,0.320000,0.41,1,2.05,1
+38,17,8,1.0,0.0,1.0,2017-04-19,Arizona Diamondbacks,San Diego Padres,0.440000,0.560000,1.10,1,0.75,1
+39,14,18,1.0,4.0,0.0,2017-04-20,Boston Red Sox,Toronto Blue Jays,0.460000,0.540000,1.35,1,0.62,1
+40,28,7,2.0,6.0,0.0,2017-04-20,Cleveland Indians,Minnesota Twins,0.520000,0.480000,1.05,1,0.80,1
+41,21,29,8.0,1.0,1.0,2017-04-20,Detroit Tigers,Tampa Bay Rays,0.550000,0.450000,0.85,1,0.95,1
+42,4,27,2.0,1.0,1.0,2017-04-20,Los Angeles Angels,Houston Astros,0.600000,0.400000,0.57,1,1.45,1
+43,6,19,1.0,2.0,0.0,2017-04-20,Baltimore Orioles,Cincinnati Reds,0.500000,0.500000,1.10,1,0.75,1
+44,9,26,4.0,6.0,0.0,2017-04-20,Philadelphia Phillies,New York Mets,0.660000,0.340000,0.50,1,1.63,1
+45,25,15,2.0,3.0,0.0,2017-04-20,Washington Nationals,Atlanta Braves,0.400000,0.600000,1.50,1,0.53,1
+46,13,20,1.0,0.0,1.0,2017-04-20,Kansas City Royals,Texas Rangers,0.510000,0.490000,0.91,1,0.91,1
+47,3,2,7.0,5.0,1.0,2017-04-20,St. Louis Cardinals,Milwaukee Brewers,0.480000,0.520000,1.05,1,0.80,1
+48,17,8,4.0,1.0,1.0,2017-04-20,Arizona Diamondbacks,San Diego Padres,0.480000,0.520000,1.05,1,0.80,1
+49,23,12,9.0,6.0,1.0,2017-04-20,Seattle Mariners,Oakland Athletics,0.420000,0.580000,1.38,1,0.62,1
+50,19,18,2.0,0.0,1.0,2017-04-21,Boston Red Sox,Baltimore Orioles,0.520000,0.480000,0.91,1,0.91,1
+51,26,25,4.0,3.0,1.0,2017-04-21,Atlanta Braves,Philadelphia Phillies,0.540000,0.460000,0.85,1,0.95,1
+52,30,10,6.0,3.0,1.0,2017-04-21,New York Yankees,Pittsburgh Pirates,0.440000,0.560000,0.95,1,0.85,1
+53,6,1,5.0,6.0,0.0,2017-04-21,Chicago Cubs,Cincinnati Reds,0.370000,0.630000,1.63,1,0.50,1
+54,9,15,3.0,4.0,0.0,2017-04-21,Washington Nationals,New York Mets,0.520000,0.480000,0.70,1,1.20,1
+55,21,4,3.0,6.0,0.0,2017-04-21,Houston Astros,Tampa Bay Rays,0.500000,0.500000,1.00,1,0.83,1
+56,13,20,6.0,2.0,1.0,2017-04-21,Kansas City Royals,Texas Rangers,0.610000,0.390000,0.62,1,1.35,1
+57,5,7,0.0,3.0,0.0,2017-04-21,Cleveland Indians,Chicago White Sox,0.420000,0.580000,1.25,1,0.67,1
+58,3,2,3.0,6.0,0.0,2017-04-21,St. Louis Cardinals,Milwaukee Brewers,0.540000,0.460000,1.00,1,0.83,1
+59,28,29,6.0,3.0,1.0,2017-04-21,Detroit Tigers,Minnesota Twins,0.460000,0.540000,1.20,1,0.70,1
+60,22,24,6.0,5.0,1.0,2017-04-21,San Francisco Giants,Colorado Rockies,0.470000,0.530000,1.00,1,0.83,1
+61,8,16,13.0,5.0,0.0,2017-04-21,Los Angeles Dodgers,Arizona Diamondbacks,0.470000,0.530000,1.20,1,0.70,1
+62,23,12,3.0,1.0,1.0,2017-04-21,Seattle Mariners,Oakland Athletics,0.520000,0.480000,0.75,1,1.10,1
+63,27,14,7.0,8.0,0.0,2017-04-21,Toronto Blue Jays,Los Angeles Angels,0.540000,0.460000,0.67,1,1.25,1
+64,17,11,5.0,3.0,1.0,2017-04-21,Miami Marlins,San Diego Padres,0.420000,0.580000,0.95,1,0.85,1
+70,21,4,6.0,3.0,1.0,2017-04-22,Houston Astros,Tampa Bay Rays,0.490000,0.510000,1.10,2,0.80,1
+73,5,7,0.0,7.0,0.0,2017-04-22,Cleveland Indians,Chicago White Sox,0.360000,0.640000,1.90,2,0.44,1
+90,27,14,2.0,6.0,0.0,2017-04-23,Toronto Blue Jays,Los Angeles Angels,0.490000,0.510000,1.10,2,0.80,1
+103,24,16,2.0,1.0,1.0,2017-04-24,Los Angeles Dodgers,San Francisco Giants,0.470000,0.530000,1.30,2,0.80,1
+106,30,1,0.0,1.0,0.0,2017-04-25,Chicago Cubs,Pittsburgh Pirates,0.400000,0.600000,1.15,2,0.75,1
+117,5,20,5.0,2.0,1.0,2017-04-26,Kansas City Royals,Chicago White Sox,0.600000,0.400000,0.74,2,1.25,1
+129,24,16,4.0,3.0,1.0,2017-04-26,Los Angeles Dodgers,San Francisco Giants,0.520000,0.480000,0.95,2,0.91,1
+134,22,15,5.0,16.0,1.0,2017-04-27,Washington Nationals,Colorado Rockies,0.470000,0.530000,1.05,2,0.85,1
+144,18,1,5.0,4.0,1.0,2017-04-28,Chicago Cubs,Boston Red Sox,0.450000,0.550000,0.91,2,0.95,1
+146,29,5,3.0,7.0,0.0,2017-04-28,Chicago White Sox,Detroit Tigers,0.570000,0.430000,0.83,2,1.10,1
+147,11,30,2.0,12.0,1.0,2017-04-28,Pittsburgh Pirates,Miami Marlins,0.530000,0.470000,0.87,2,1.00,1
+148,13,27,3.0,6.0,0.0,2017-04-28,Los Angeles Angels,Texas Rangers,0.520000,0.480000,1.05,2,0.83,1
+163,2,6,4.0,5.0,0.0,2017-04-30,Cincinnati Reds,St. Louis Cardinals,0.590000,0.410000,0.95,2,0.91,1
+174,25,9,5.0,7.0,0.0,2017-05-01,New York Mets,Atlanta Braves,0.560000,0.440000,1.15,2,0.75,1
+176,4,13,6.0,2.0,1.0,2017-05-01,Texas Rangers,Houston Astros,0.650000,0.350000,0.87,2,1.00,1
+181,15,8,3.0,6.0,0.0,2017-05-02,Arizona Diamondbacks,Washington Nationals,0.000000,0.000000,0.74,2,1.90,1
+186,25,9,9.0,7.0,1.0,2017-05-02,New York Mets,Atlanta Braves,0.000000,0.000000,0.95,2,0.91,1
+187,1,26,8.0,3.0,1.0,2017-05-02,Philadelphia Phillies,Chicago Cubs,0.000000,0.000000,0.48,2,1.80,1
+192,10,14,8.0,6.0,1.0,2017-05-03,Toronto Blue Jays,New York Yankees,0.560000,0.440000,0.91,1,0.91,1
+193,15,8,2.0,1.0,1.0,2017-05-03,Arizona Diamondbacks,Washington Nationals,0.590000,0.410000,0.74,2,1.20,1
+195,6,30,7.0,2.0,1.0,2017-05-03,Pittsburgh Pirates,Cincinnati Reds,0.420000,0.580000,1.15,2,0.75,1
+204,17,22,3.0,11.0,1.0,2017-05-03,Colorado Rockies,San Diego Padres,0.470000,0.530000,1.15,2,0.75,1
+205,12,27,8.0,7.0,1.0,2017-05-03,Los Angeles Angels,Seattle Mariners,0.550000,0.450000,0.91,2,1.00,1
+212,17,22,2.0,3.0,0.0,2017-05-04,Colorado Rockies,San Diego Padres,0.490000,0.510000,0.80,2,1.10,1
+214,21,11,5.0,1.0,1.0,2017-05-04,Miami Marlins,Tampa Bay Rays,0.510000,0.490000,0.77,2,1.15,1
+219,26,15,2.0,4.0,0.0,2017-05-05,Washington Nationals,Philadelphia Phillies,0.360000,0.640000,1.50,2,0.62,1
+227,23,29,2.0,7.0,0.0,2017-05-05,Detroit Tigers,Oakland Athletics,0.480000,0.520000,0.87,2,1.00,1
+232,21,14,6.0,1.0,1.0,2017-05-06,Toronto Blue Jays,Tampa Bay Rays,0.510000,0.490000,0.87,2,1.00,1
+235,26,15,2.0,6.0,0.0,2017-05-06,Washington Nationals,Philadelphia Phillies,0.450000,0.550000,0.91,2,0.95,1
+237,25,2,3.0,5.0,0.0,2017-05-06,St. Louis Cardinals,Atlanta Braves,0.500000,0.500000,0.91,2,1.10,1
+239,9,11,11.0,3.0,0.0,2017-05-06,Miami Marlins,New York Mets,0.520000,0.480000,0.83,1,1.00,1
+240,1,10,6.0,11.0,1.0,2017-05-06,New York Yankees,Chicago Cubs,0.540000,0.460000,0.74,2,1.20,1
+243,27,4,2.0,1.0,1.0,2017-05-06,Houston Astros,Los Angeles Angels,0.440000,0.560000,1.15,2,0.75,1
+246,21,14,1.0,2.0,0.0,2017-05-07,Toronto Blue Jays,Tampa Bay Rays,0.580000,0.420000,0.74,2,1.20,1
+247,25,2,4.0,6.0,0.0,2017-05-07,St. Louis Cardinals,Atlanta Braves,0.490000,0.510000,1.10,2,0.80,1
+248,19,5,4.0,0.0,1.0,2017-05-07,Chicago White Sox,Baltimore Orioles,0.550000,0.450000,0.83,2,1.05,1
+251,20,7,0.0,1.0,0.0,2017-05-07,Cleveland Indians,Kansas City Royals,0.460000,0.540000,0.95,2,0.91,1
+252,26,15,6.0,5.0,1.0,2017-05-07,Washington Nationals,Philadelphia Phillies,0.420000,0.580000,1.20,2,0.75,1
+254,27,4,3.0,5.0,0.0,2017-05-07,Houston Astros,Los Angeles Angels,0.500000,0.500000,0.91,2,0.95,1
+255,23,29,8.0,6.0,1.0,2017-05-07,Detroit Tigers,Oakland Athletics,0.480000,0.520000,0.91,2,0.95,1
+256,6,24,4.0,0.0,1.0,2017-05-07,San Francisco Giants,Cincinnati Reds,0.490000,0.510000,1.00,2,0.85,1
+258,1,10,4.0,5.0,0.0,2017-05-07,New York Yankees,Chicago Cubs,0.630000,0.370000,0.77,2,1.15,1
+262,6,10,4.0,10.0,1.0,2017-05-08,New York Yankees,Cincinnati Reds,0.410000,0.590000,1.25,2,0.70,1
+263,11,2,4.0,9.0,0.0,2017-05-08,St. Louis Cardinals,Miami Marlins,0.500000,0.500000,1.05,2,0.83,1
+267,17,13,5.0,1.0,1.0,2017-05-08,Texas Rangers,San Diego Padres,0.510000,0.490000,0.71,2,1.25,1
+273,6,10,5.0,3.0,1.0,2017-05-09,New York Yankees,Cincinnati Reds,0.470000,0.530000,0.95,2,0.91,1
+274,11,2,5.0,6.0,0.0,2017-05-09,St. Louis Cardinals,Miami Marlins,0.560000,0.440000,0.91,2,0.95,1
+287,22,1,3.0,0.0,1.0,2017-05-10,Chicago Cubs,Colorado Rockies,0.390000,0.610000,1.15,2,0.75,1
+288,23,27,3.0,1.0,1.0,2017-05-10,Los Angeles Angels,Oakland Athletics,0.540000,0.460000,0.67,2,1.35,1
+289,11,2,5.0,7.0,0.0,2017-05-10,St. Louis Cardinals,Miami Marlins,0.480000,0.520000,0.95,2,0.91,1
+295,8,29,7.0,1.0,1.0,2017-05-10,Detroit Tigers,Arizona Diamondbacks,0.500000,0.500000,0.74,2,1.20,1
+297,10,4,2.0,3.0,0.0,2017-05-11,Houston Astros,New York Yankees,0.620000,0.380000,0.87,2,1.05,1
+301,22,16,10.0,7.0,0.0,2017-05-11,Los Angeles Dodgers,Colorado Rockies,0.500000,0.500000,1.00,2,0.85,1
+308,7,28,0.0,1.0,0.0,2017-05-12,Minnesota Twins,Cleveland Indians,0.550000,0.450000,0.69,2,1.30,1
+310,13,23,5.0,2.0,1.0,2017-05-12,Oakland Athletics,Texas Rangers,0.550000,0.450000,0.91,2,1.00,1
+311,5,17,3.0,6.0,0.0,2017-05-12,San Diego Padres,Chicago White Sox,0.610000,0.390000,0.80,2,1.10,1
+312,3,9,7.0,4.0,1.0,2017-05-12,New York Mets,Milwaukee Brewers,0.490000,0.510000,1.00,2,0.85,1
+317,27,29,7.0,0.0,1.0,2017-05-12,Detroit Tigers,Los Angeles Angels,0.570000,0.430000,0.80,2,1.10,1
+318,24,6,3.0,2.0,1.0,2017-05-12,Cincinnati Reds,San Francisco Giants,0.550000,0.450000,0.67,2,1.35,1
+319,18,21,6.0,3.0,1.0,2017-05-13,Tampa Bay Rays,Boston Red Sox,0.660000,0.340000,0.43,2,2.00,1
+321,24,6,3.0,1.0,1.0,2017-05-13,Cincinnati Reds,San Francisco Giants,0.530000,0.470000,0.74,2,1.20,1
+322,2,1,5.0,3.0,1.0,2017-05-13,Chicago Cubs,St. Louis Cardinals,0.460000,0.540000,1.00,2,0.85,1
+325,11,25,1.0,3.0,0.0,2017-05-13,Atlanta Braves,Miami Marlins,0.520000,0.480000,0.83,2,1.05,1
+328,13,23,6.0,5.0,1.0,2017-05-13,Oakland Athletics,Texas Rangers,0.540000,0.460000,0.95,2,0.91,1
+329,8,30,3.0,4.0,0.0,2017-05-13,Pittsburgh Pirates,Arizona Diamondbacks,0.600000,0.400000,1.20,2,1.30,1
+330,22,16,0.0,4.0,0.0,2017-05-13,Los Angeles Dodgers,Colorado Rockies,0.470000,0.530000,1.05,2,0.83,1
+65,6,1,8.0,12.0,1.0,2017-04-22,Chicago Cubs,Cincinnati Reds,0.340000,0.660000,1.60,2,0.56,2
+66,28,29,4.0,5.0,0.0,2017-04-22,Detroit Tigers,Minnesota Twins,0.520000,0.480000,1.00,1,0.87,2
+67,9,15,1.0,3.0,0.0,2017-04-22,Washington Nationals,New York Mets,0.530000,0.470000,0.91,2,0.91,2
+68,23,12,4.0,3.0,1.0,2017-04-22,Seattle Mariners,Oakland Athletics,0.490000,0.510000,0.85,1,1.00,2
+69,30,10,5.0,11.0,1.0,2017-04-22,New York Yankees,Pittsburgh Pirates,0.530000,0.470000,1.00,2,0.83,2
+71,19,18,4.0,2.0,1.0,2017-04-22,Boston Red Sox,Baltimore Orioles,0.500000,0.500000,0.87,2,0.95,2
+72,26,25,4.0,3.0,1.0,2017-04-22,Atlanta Braves,Philadelphia Phillies,0.570000,0.430000,0.83,2,1.00,2
+74,3,2,1.0,4.0,0.0,2017-04-22,St. Louis Cardinals,Milwaukee Brewers,0.520000,0.480000,1.05,2,0.80,2
+75,13,20,2.0,1.0,1.0,2017-04-22,Kansas City Royals,Texas Rangers,0.510000,0.490000,0.91,1,0.95,2
+76,8,16,11.0,5.0,0.0,2017-04-22,Los Angeles Dodgers,Arizona Diamondbacks,0.490000,0.510000,1.00,2,0.83,2
+77,22,24,12.0,3.0,0.0,2017-04-22,San Francisco Giants,Colorado Rockies,0.500000,0.500000,0.87,2,0.95,2
+78,17,11,3.0,6.0,0.0,2017-04-22,Miami Marlins,San Diego Padres,0.440000,0.560000,1.20,2,0.71,2
+79,27,14,5.0,4.0,1.0,2017-04-22,Toronto Blue Jays,Los Angeles Angels,0.560000,0.440000,0.65,2,1.35,2
+88,13,20,5.0,2.0,1.0,2017-04-23,Kansas City Royals,Texas Rangers,0.650000,0.350000,0.44,2,1.85,2
+89,22,24,8.0,0.0,1.0,2017-04-23,San Francisco Giants,Colorado Rockies,0.480000,0.520000,0.87,2,0.95,2
+91,23,12,1.0,11.0,0.0,2017-04-23,Seattle Mariners,Oakland Athletics,0.540000,0.460000,0.75,1,1.15,2
+92,8,16,2.0,6.0,0.0,2017-04-23,Los Angeles Dodgers,Arizona Diamondbacks,0.480000,0.520000,1.35,2,0.65,2
+93,17,11,3.0,7.0,0.0,2017-04-23,Miami Marlins,San Diego Padres,0.460000,0.540000,1.00,2,0.83,2
+94,9,15,3.0,6.0,0.0,2017-04-23,Washington Nationals,New York Mets,0.420000,0.580000,1.40,2,0.63,2
+95,30,1,3.0,14.0,1.0,2017-04-24,Chicago Cubs,Pittsburgh Pirates,0.510000,0.490000,1.25,2,0.69,2
+96,19,21,6.0,3.0,1.0,2017-04-24,Tampa Bay Rays,Baltimore Orioles,0.510000,0.490000,1.05,1,0.87,2
+97,3,6,11.0,7.0,0.0,2017-04-24,Cincinnati Reds,Milwaukee Brewers,0.490000,0.510000,1.00,1,0.87,2
+98,13,28,2.0,3.0,0.0,2017-04-24,Minnesota Twins,Texas Rangers,0.590000,0.410000,0.71,2,1.20,2
+99,5,20,12.0,1.0,1.0,2017-04-24,Kansas City Royals,Chicago White Sox,0.560000,0.440000,0.95,2,0.87,2
+100,22,15,8.0,4.0,1.0,2017-04-24,Washington Nationals,Colorado Rockies,0.500000,0.500000,0.71,2,1.20,2
+101,8,17,7.0,6.0,1.0,2017-04-24,San Diego Padres,Arizona Diamondbacks,0.630000,0.370000,0.62,1,1.45,2
+102,27,14,2.0,1.0,1.0,2017-04-24,Toronto Blue Jays,Los Angeles Angels,0.540000,0.460000,0.77,2,1.10,2
+104,7,4,2.0,4.0,0.0,2017-04-25,Houston Astros,Cleveland Indians,0.460000,0.540000,0.95,2,0.87,2
+105,19,21,0.0,2.0,0.0,2017-04-25,Tampa Bay Rays,Baltimore Orioles,0.530000,0.470000,0.67,1,1.35,2
+107,29,12,19.0,9.0,0.0,2017-04-25,Seattle Mariners,Detroit Tigers,0.470000,0.530000,1.15,2,0.74,2
+108,3,6,9.0,1.0,1.0,2017-04-25,Cincinnati Reds,Milwaukee Brewers,0.530000,0.470000,0.83,2,1.00,2
+109,13,28,1.0,8.0,0.0,2017-04-25,Minnesota Twins,Texas Rangers,0.480000,0.520000,0.91,1,0.95,2
+110,5,20,10.0,5.0,0.0,2017-04-25,Kansas City Royals,Chicago White Sox,0.490000,0.510000,1.05,1,0.83,2
+111,2,14,5.0,6.0,0.0,2017-04-25,Toronto Blue Jays,St. Louis Cardinals,0.490000,0.510000,0.67,1,1.35,2
+112,22,15,12.0,15.0,0.0,2017-04-25,Washington Nationals,Colorado Rockies,0.460000,0.540000,1.00,2,0.83,2
+113,8,17,9.0,3.0,1.0,2017-04-25,San Diego Padres,Arizona Diamondbacks,0.590000,0.410000,0.70,1,1.25,2
+114,27,23,2.0,1.0,1.0,2017-04-25,Oakland Athletics,Los Angeles Angels,0.540000,0.460000,0.77,2,1.10,2
+115,24,16,1.0,2.0,0.0,2017-04-25,Los Angeles Dodgers,San Francisco Giants,0.380000,0.620000,1.90,2,0.87,2
+116,3,6,9.0,4.0,1.0,2017-04-26,Cincinnati Reds,Milwaukee Brewers,0.560000,0.440000,0.80,2,1.05,2
+118,7,4,7.0,6.0,1.0,2017-04-26,Houston Astros,Cleveland Indians,0.490000,0.510000,0.91,2,0.91,2
+119,18,10,1.0,3.0,0.0,2017-04-26,New York Yankees,Boston Red Sox,0.590000,0.410000,0.83,2,1.00,2
+120,19,21,5.0,4.0,1.0,2017-04-26,Tampa Bay Rays,Baltimore Orioles,0.560000,0.440000,0.67,2,1.30,2
+121,26,11,7.0,4.0,1.0,2017-04-26,Miami Marlins,Philadelphia Phillies,0.460000,0.540000,0.95,2,0.87,2
+122,30,1,6.0,5.0,1.0,2017-04-26,Chicago Cubs,Pittsburgh Pirates,0.340000,0.660000,1.40,2,0.63,2
+123,29,12,0.0,8.0,0.0,2017-04-26,Seattle Mariners,Detroit Tigers,0.480000,0.520000,1.10,1,0.80,2
+124,9,25,2.0,8.0,0.0,2017-04-26,Atlanta Braves,New York Mets,0.610000,0.390000,0.50,2,1.70,2
+125,13,28,14.0,3.0,0.0,2017-04-26,Minnesota Twins,Texas Rangers,0.580000,0.420000,0.69,2,1.25,2
+126,22,15,4.0,11.0,1.0,2017-04-26,Washington Nationals,Colorado Rockies,0.470000,0.530000,0.91,2,0.91,2
+127,8,17,5.0,8.0,0.0,2017-04-26,San Diego Padres,Arizona Diamondbacks,0.590000,0.410000,0.77,2,1.10,2
+128,27,23,8.0,5.0,1.0,2017-04-26,Oakland Athletics,Los Angeles Angels,0.540000,0.460000,0.75,1,1.15,2
+131,29,12,1.0,2.0,0.0,2017-04-27,Seattle Mariners,Detroit Tigers,0.570000,0.430000,0.69,2,1.25,2
+133,2,14,6.0,4.0,1.0,2017-04-27,Toronto Blue Jays,St. Louis Cardinals,0.590000,0.410000,0.48,2,1.75,2
+135,24,16,1.0,5.0,0.0,2017-04-27,Los Angeles Dodgers,San Francisco Giants,0.490000,0.510000,1.10,2,0.77,2
+136,7,4,4.0,3.0,1.0,2017-04-27,Houston Astros,Cleveland Indians,0.600000,0.400000,0.62,1,1.45,2
+137,18,10,0.0,3.0,0.0,2017-04-27,New York Yankees,Boston Red Sox,0.590000,0.410000,0.57,2,1.55,2
+138,2,14,,,,2017-04-27,Toronto Blue Jays,St. Louis Cardinals,0.560000,0.440000,0.59,2,1.50,2
+139,8,17,6.0,2.0,1.0,2017-04-27,San Diego Padres,Arizona Diamondbacks,0.610000,0.390000,0.57,2,1.55,2
+140,27,23,2.0,1.0,1.0,2017-04-27,Oakland Athletics,Los Angeles Angels,0.540000,0.460000,0.80,2,1.05,2
+141,10,19,14.0,11.0,1.0,2017-04-28,Baltimore Orioles,New York Yankees,0.560000,0.440000,0.87,2,0.95,2
+142,15,9,5.0,7.0,0.0,2017-04-28,New York Mets,Washington Nationals,0.630000,0.370000,0.62,1,1.45,2
+143,14,21,4.0,7.0,0.0,2017-04-28,Tampa Bay Rays,Toronto Blue Jays,0.530000,0.470000,0.75,1,1.15,2
+145,7,12,1.0,3.0,0.0,2017-04-28,Seattle Mariners,Cleveland Indians,0.620000,0.380000,0.53,1,1.67,2
+149,4,23,9.0,4.0,1.0,2017-04-28,Oakland Athletics,Houston Astros,0.610000,0.390000,0.62,1,1.45,2
+150,3,25,8.0,10.0,1.0,2017-04-28,Atlanta Braves,Milwaukee Brewers,0.580000,0.420000,0.77,2,1.10,2
+151,8,22,1.0,3.0,0.0,2017-04-28,Colorado Rockies,Arizona Diamondbacks,0.590000,0.410000,0.75,1,1.15,2
+152,16,26,5.0,3.0,1.0,2017-04-28,Philadelphia Phillies,Los Angeles Dodgers,0.590000,0.410000,0.63,2,1.35,2
+153,24,17,4.0,3.0,1.0,2017-04-28,San Diego Padres,San Francisco Giants,0.610000,0.390000,0.59,2,1.50,2
+154,10,19,4.0,7.0,0.0,2017-04-30,Baltimore Orioles,New York Yankees,0.530000,0.470000,0.52,2,1.67,2
+155,14,21,3.0,1.0,1.0,2017-04-30,Tampa Bay Rays,Toronto Blue Jays,0.520000,0.480000,0.62,1,1.50,2
+162,20,28,5.0,7.0,0.0,2017-04-30,Minnesota Twins,Kansas City Royals,0.500000,0.500000,0.50,2,1.70,2
+164,13,27,2.0,5.0,0.0,2017-04-30,Los Angeles Angels,Texas Rangers,0.540000,0.460000,0.77,2,1.10,2
+165,24,17,2.0,5.0,0.0,2017-04-30,San Diego Padres,San Francisco Giants,0.600000,0.400000,0.57,2,1.55,2
+166,8,22,2.0,0.0,1.0,2017-04-30,Colorado Rockies,Arizona Diamondbacks,0.550000,0.450000,1.00,2,0.83,2
+167,16,26,5.0,3.0,1.0,2017-04-30,Philadelphia Phillies,Los Angeles Dodgers,0.640000,0.360000,0.74,2,1.15,2
+168,18,1,6.0,2.0,1.0,2017-04-30,Chicago Cubs,Boston Red Sox,0.440000,0.560000,0.80,2,1.05,2
+169,18,19,2.0,5.0,0.0,2017-05-01,Baltimore Orioles,Boston Red Sox,0.550000,0.450000,0.50,1,1.75,2
+170,10,14,1.0,7.0,0.0,2017-05-01,Toronto Blue Jays,New York Yankees,0.520000,0.480000,0.91,2,0.91,2
+171,6,30,4.0,3.0,1.0,2017-05-01,Pittsburgh Pirates,Cincinnati Reds,0.480000,0.520000,0.71,2,1.20,2
+172,29,7,7.0,1.0,1.0,2017-05-01,Cleveland Indians,Detroit Tigers,0.470000,0.530000,0.57,2,1.55,2
+173,11,21,2.0,4.0,0.0,2017-05-01,Tampa Bay Rays,Miami Marlins,0.520000,0.480000,0.95,2,0.87,2
+175,1,26,2.0,10.0,1.0,2017-05-01,Philadelphia Phillies,Chicago Cubs,0.620000,0.380000,0.67,2,1.30,2
+177,20,5,6.0,1.0,1.0,2017-05-01,Chicago White Sox,Kansas City Royals,0.520000,0.480000,0.57,2,1.55,2
+178,2,3,5.0,7.0,0.0,2017-05-01,Milwaukee Brewers,St. Louis Cardinals,0.560000,0.440000,0.45,2,1.80,2
+179,16,24,3.0,4.0,0.0,2017-05-01,San Francisco Giants,Los Angeles Dodgers,0.660000,0.340000,0.52,2,1.67,2
+180,10,14,11.0,5.0,0.0,2017-05-02,Toronto Blue Jays,New York Yankees,0.000000,0.000000,0.63,2,1.40,2
+182,29,7,5.0,2.0,1.0,2017-05-02,Cleveland Indians,Detroit Tigers,0.000000,0.000000,1.05,1,0.83,2
+183,11,21,1.0,3.0,0.0,2017-05-02,Tampa Bay Rays,Miami Marlins,0.000000,0.000000,0.75,1,1.15,2
+184,6,30,3.0,12.0,1.0,2017-05-02,Pittsburgh Pirates,Cincinnati Reds,0.000000,0.000000,0.74,2,1.15,2
+185,18,19,5.0,2.0,1.0,2017-05-02,Baltimore Orioles,Boston Red Sox,0.000000,0.000000,0.42,2,2.00,2
+188,28,23,9.0,1.0,1.0,2017-05-02,Oakland Athletics,Minnesota Twins,0.000000,0.000000,0.75,1,1.15,2
+189,4,13,8.0,7.0,1.0,2017-05-02,Texas Rangers,Houston Astros,0.000000,0.000000,0.67,2,1.30,2
+190,20,5,0.0,6.0,0.0,2017-05-02,Chicago White Sox,Kansas City Royals,0.000000,0.000000,0.83,1,1.05,2
+191,2,3,2.0,1.0,1.0,2017-05-02,Milwaukee Brewers,St. Louis Cardinals,0.000000,0.000000,0.54,2,1.65,2
+194,18,19,4.0,2.0,1.0,2017-05-03,Baltimore Orioles,Boston Red Sox,0.560000,0.440000,0.67,2,1.30,2
+196,29,7,2.0,3.0,0.0,2017-05-03,Cleveland Indians,Detroit Tigers,0.410000,0.590000,1.40,2,0.63,2
+197,21,11,6.0,10.0,1.0,2017-05-03,Miami Marlins,Tampa Bay Rays,0.540000,0.460000,0.75,1,1.15,2
+198,25,9,5.0,16.0,1.0,2017-05-03,New York Mets,Atlanta Braves,0.460000,0.540000,1.15,2,0.74,2
+199,1,26,5.0,4.0,1.0,2017-05-03,Philadelphia Phillies,Chicago Cubs,0.660000,0.340000,0.50,2,1.70,2
+200,4,13,10.0,1.0,1.0,2017-05-03,Texas Rangers,Houston Astros,0.630000,0.370000,0.54,2,1.65,2
+201,28,23,7.0,4.0,1.0,2017-05-03,Oakland Athletics,Minnesota Twins,0.540000,0.460000,0.91,2,0.91,2
+202,20,5,6.0,1.0,1.0,2017-05-03,Chicago White Sox,Kansas City Royals,0.520000,0.480000,0.69,2,1.25,2
+203,16,24,1.0,4.0,0.0,2017-05-03,San Francisco Giants,Los Angeles Dodgers,0.610000,0.390000,0.59,2,1.50,2
+210,20,5,3.0,8.0,0.0,2017-05-04,Chicago White Sox,Kansas City Royals,0.520000,0.480000,0.65,2,1.35,2
+211,1,26,5.0,4.0,1.0,2017-05-04,Philadelphia Phillies,Chicago Cubs,0.670000,0.330000,0.54,2,1.65,2
+213,18,19,3.0,8.0,0.0,2017-05-04,Baltimore Orioles,Boston Red Sox,0.560000,0.440000,0.77,2,1.10,2
+215,2,3,4.0,5.0,0.0,2017-05-04,Milwaukee Brewers,St. Louis Cardinals,0.520000,0.480000,0.67,2,1.30,2
+216,12,27,11.0,3.0,0.0,2017-05-04,Los Angeles Angels,Seattle Mariners,0.580000,0.420000,0.80,2,1.05,2
+217,6,24,13.0,3.0,0.0,2017-05-05,San Francisco Giants,Cincinnati Reds,0.530000,0.470000,0.80,2,1.05,2
+218,19,5,4.0,2.0,1.0,2017-05-05,Chicago White Sox,Baltimore Orioles,0.550000,0.450000,0.54,2,1.65,2
+220,30,3,4.0,0.0,1.0,2017-05-05,Milwaukee Brewers,Pittsburgh Pirates,0.560000,0.440000,0.77,2,1.10,2
+221,9,11,8.0,7.0,1.0,2017-05-05,Miami Marlins,New York Mets,0.520000,0.480000,0.91,1,0.95,2
+222,21,14,4.0,8.0,0.0,2017-05-05,Toronto Blue Jays,Tampa Bay Rays,0.580000,0.420000,0.63,2,1.40,2
+223,25,2,0.0,10.0,0.0,2017-05-05,St. Louis Cardinals,Atlanta Braves,0.500000,0.500000,0.83,2,1.00,2
+224,28,18,4.0,3.0,1.0,2017-05-05,Boston Red Sox,Minnesota Twins,0.460000,0.540000,1.30,2,0.67,2
+225,20,7,3.0,1.0,1.0,2017-05-05,Cleveland Indians,Kansas City Royals,0.380000,0.620000,1.55,2,0.57,2
+226,22,8,3.0,6.0,0.0,2017-05-05,Arizona Diamondbacks,Colorado Rockies,0.480000,0.520000,0.91,2,0.91,2
+228,27,4,6.0,7.0,0.0,2017-05-05,Houston Astros,Los Angeles Angels,0.400000,0.600000,1.15,2,0.74,2
+229,17,16,2.0,8.0,0.0,2017-05-05,Los Angeles Dodgers,San Diego Padres,0.420000,0.580000,1.40,2,0.63,2
+230,12,13,1.0,3.0,0.0,2017-05-05,Texas Rangers,Seattle Mariners,0.500000,0.500000,1.05,2,0.80,2
+231,28,18,1.0,11.0,0.0,2017-05-06,Boston Red Sox,Minnesota Twins,0.450000,0.550000,1.35,2,0.65,2
+233,20,7,1.0,3.0,0.0,2017-05-06,Cleveland Indians,Kansas City Royals,0.460000,0.540000,1.00,2,0.83,2
+234,19,5,6.0,5.0,1.0,2017-05-06,Chicago White Sox,Baltimore Orioles,0.640000,0.360000,0.44,1,1.90,2
+236,30,3,2.0,1.0,1.0,2017-05-06,Milwaukee Brewers,Pittsburgh Pirates,0.590000,0.410000,0.63,2,1.40,2
+238,6,24,14.0,2.0,0.0,2017-05-06,San Francisco Giants,Cincinnati Reds,0.520000,0.480000,0.75,1,1.20,2
+241,22,8,9.0,1.0,1.0,2017-05-06,Arizona Diamondbacks,Colorado Rockies,0.550000,0.450000,0.75,1,1.15,2
+242,23,29,6.0,5.0,1.0,2017-05-06,Detroit Tigers,Oakland Athletics,0.520000,0.480000,0.71,2,1.20,2
+244,12,13,8.0,2.0,1.0,2017-05-06,Texas Rangers,Seattle Mariners,0.540000,0.460000,0.91,2,0.91,2
+245,9,11,0.0,7.0,0.0,2017-05-07,Miami Marlins,New York Mets,0.560000,0.440000,0.77,2,1.10,2
+249,30,3,2.0,6.0,0.0,2017-05-07,Milwaukee Brewers,Pittsburgh Pirates,0.520000,0.480000,0.77,2,1.10,2
+250,28,18,6.0,17.0,1.0,2017-05-07,Boston Red Sox,Minnesota Twins,0.460000,0.540000,1.55,2,0.57,2
+253,22,8,5.0,2.0,1.0,2017-05-07,Arizona Diamondbacks,Colorado Rockies,0.520000,0.480000,0.83,2,1.00,2
+259,9,24,4.0,3.0,1.0,2017-05-08,San Francisco Giants,New York Mets,0.610000,0.390000,0.67,1,1.35,2
+260,19,15,6.0,4.0,1.0,2017-05-08,Washington Nationals,Baltimore Orioles,0.480000,0.520000,0.80,2,1.05,2
+261,14,7,4.0,2.0,1.0,2017-05-08,Cleveland Indians,Toronto Blue Jays,0.500000,0.500000,0.83,2,1.00,2
+264,21,20,3.0,7.0,0.0,2017-05-08,Kansas City Royals,Tampa Bay Rays,0.610000,0.390000,0.69,2,1.25,2
+265,23,27,3.0,2.0,1.0,2017-05-08,Los Angeles Angels,Oakland Athletics,0.520000,0.480000,0.77,2,1.10,2
+266,16,30,12.0,1.0,1.0,2017-05-08,Pittsburgh Pirates,Los Angeles Dodgers,0.630000,0.370000,0.44,1,1.90,2
+268,22,1,1.0,8.0,0.0,2017-05-09,Chicago Cubs,Colorado Rockies,0.430000,0.570000,1.25,1,0.71,2
+269,17,13,0.0,11.0,0.0,2017-05-09,Texas Rangers,San Diego Padres,0.450000,0.550000,1.10,1,0.80,2
+270,19,15,5.0,4.0,1.0,2017-05-09,Washington Nationals,Baltimore Orioles,0.410000,0.590000,1.35,2,0.65,2
+271,26,12,9.0,10.0,1.0,2017-05-09,Seattle Mariners,Philadelphia Phillies,0.480000,0.520000,0.95,2,0.87,2
+272,14,7,0.0,6.0,0.0,2017-05-09,Cleveland Indians,Toronto Blue Jays,0.380000,0.620000,1.50,2,0.59,2
+275,9,24,6.0,1.0,1.0,2017-05-09,San Francisco Giants,New York Mets,0.560000,0.440000,0.85,1,1.00,2
+276,21,20,6.0,7.0,0.0,2017-05-09,Kansas City Royals,Tampa Bay Rays,0.640000,0.360000,0.63,2,1.40,2
+277,3,18,11.0,7.0,0.0,2017-05-09,Boston Red Sox,Milwaukee Brewers,0.450000,0.550000,1.20,2,0.71,2
+278,5,28,2.0,7.0,0.0,2017-05-09,Minnesota Twins,Chicago White Sox,0.490000,0.510000,0.91,2,0.91,2
+279,4,25,8.0,3.0,1.0,2017-05-09,Atlanta Braves,Houston Astros,0.650000,0.350000,0.53,1,1.70,2
+280,22,1,,,,2017-05-09,Chicago Cubs,Colorado Rockies,0.440000,0.560000,1.20,2,0.71,2
+281,8,29,3.0,7.0,0.0,2017-05-09,Detroit Tigers,Arizona Diamondbacks,0.480000,0.520000,0.91,2,0.91,2
+282,23,27,3.0,7.0,0.0,2017-05-09,Los Angeles Angels,Oakland Athletics,0.540000,0.460000,0.71,2,1.20,2
+283,16,30,4.0,3.0,1.0,2017-05-09,Pittsburgh Pirates,Los Angeles Dodgers,0.580000,0.420000,0.50,1,1.75,2
+290,15,19,7.0,6.0,1.0,2017-05-10,Baltimore Orioles,Washington Nationals,0.610000,0.390000,0.62,1,1.45,2
+291,14,7,8.0,7.0,1.0,2017-05-10,Cleveland Indians,Toronto Blue Jays,0.460000,0.540000,1.35,1,0.69,2
+292,21,20,12.0,1.0,1.0,2017-05-10,Kansas City Royals,Tampa Bay Rays,0.630000,0.370000,0.54,2,1.65,2
+293,28,17,,,,2017-05-10,San Diego Padres,Minnesota Twins,0.660000,0.340000,0.50,2,1.70,2
+294,3,18,7.0,4.0,1.0,2017-05-10,Boston Red Sox,Milwaukee Brewers,0.530000,0.470000,0.75,1,1.15,2
+296,16,30,5.0,2.0,1.0,2017-05-10,Pittsburgh Pirates,Los Angeles Dodgers,0.620000,0.380000,0.44,1,1.90,2
+298,14,12,7.0,2.0,1.0,2017-05-11,Seattle Mariners,Toronto Blue Jays,0.560000,0.440000,0.70,1,1.35,2
+299,13,17,5.0,2.0,1.0,2017-05-11,San Diego Padres,Texas Rangers,0.630000,0.370000,0.73,1,1.20,2
+300,5,28,6.0,7.0,0.0,2017-05-11,Minnesota Twins,Chicago White Sox,0.560000,0.440000,0.83,2,1.00,2
+302,8,30,2.0,1.0,1.0,2017-05-11,Pittsburgh Pirates,Arizona Diamondbacks,0.560000,0.440000,0.80,1,1.10,2
+303,27,29,1.0,7.0,0.0,2017-05-11,Detroit Tigers,Los Angeles Angels,0.480000,0.520000,0.91,1,0.95,2
+304,24,6,2.0,3.0,0.0,2017-05-11,Cincinnati Reds,San Francisco Giants,0.510000,0.490000,0.83,2,1.00,2
+305,10,4,1.0,5.0,0.0,2017-05-12,Houston Astros,New York Yankees,0.460000,0.540000,1.10,2,0.77,2
+306,14,12,4.0,0.0,1.0,2017-05-12,Seattle Mariners,Toronto Blue Jays,0.510000,0.490000,0.71,2,1.20,2
+307,18,21,4.0,5.0,0.0,2017-05-12,Tampa Bay Rays,Boston Red Sox,0.590000,0.410000,0.62,1,1.45,2
+309,11,25,4.0,8.0,0.0,2017-05-12,Atlanta Braves,Miami Marlins,0.580000,0.420000,0.75,1,1.15,2
+313,20,19,3.0,2.0,1.0,2017-05-12,Baltimore Orioles,Kansas City Royals,0.440000,0.560000,0.87,2,0.95,2
+314,2,1,2.0,3.0,0.0,2017-05-12,Chicago Cubs,St. Louis Cardinals,0.560000,0.440000,0.70,1,1.25,2
+315,22,16,2.0,6.0,0.0,2017-05-12,Los Angeles Dodgers,Colorado Rockies,0.390000,0.610000,1.60,2,0.56,2
+316,8,30,11.0,4.0,0.0,2017-05-12,Pittsburgh Pirates,Arizona Diamondbacks,0.550000,0.450000,0.70,1,1.25,2
+323,7,28,1.0,4.0,0.0,2017-05-13,Minnesota Twins,Cleveland Indians,0.640000,0.360000,0.70,1,1.25,2
+324,5,17,5.0,4.0,1.0,2017-05-13,San Diego Padres,Chicago White Sox,0.530000,0.470000,1.20,2,0.71,2
+326,3,9,11.0,4.0,0.0,2017-05-13,New York Mets,Milwaukee Brewers,0.540000,0.460000,0.95,2,0.87,2
+327,20,19,4.0,3.0,1.0,2017-05-13,Baltimore Orioles,Kansas City Royals,0.450000,0.550000,0.95,2,0.87,2
+331,27,29,3.0,4.0,0.0,2017-05-13,Detroit Tigers,Los Angeles Angels,0.540000,0.460000,0.83,2,1.00,2
+332,14,12,3.0,2.0,1.0,2017-05-14,Seattle Mariners,Toronto Blue Jays,0.550000,0.450000,0.69,2,1.25,2
+333,7,28,8.0,3.0,1.0,2017-05-14,Minnesota Twins,Cleveland Indians,0.570000,0.430000,0.61,2,1.45,2
+334,11,25,3.0,1.0,1.0,2017-05-14,Atlanta Braves,Miami Marlins,0.540000,0.460000,0.77,2,1.10,2
+335,18,21,2.0,11.0,1.0,2017-05-14,Tampa Bay Rays,Boston Red Sox,0.570000,0.430000,0.57,2,1.55,2
+336,15,26,6.0,5.0,1.0,2017-05-14,Philadelphia Phillies,Washington Nationals,0.630000,0.370000,0.57,2,1.55,2
+337,10,4,7.0,10.0,1.0,2017-05-14,Houston Astros,New York Yankees,0.510000,0.490000,0.65,2,1.35,2
+338,5,17,9.0,3.0,1.0,2017-05-14,San Diego Padres,Chicago White Sox,0.650000,0.350000,0.50,2,1.70,2
+339,3,9,11.0,9.0,0.0,2017-05-14,New York Mets,Milwaukee Brewers,0.470000,0.530000,1.30,2,0.67,2
+340,20,19,9.0,8.0,1.0,2017-05-14,Baltimore Orioles,Kansas City Royals,0.410000,0.590000,1.15,2,0.74,2
+341,2,1,5.0,0.0,1.0,2017-05-14,Chicago Cubs,St. Louis Cardinals,0.450000,0.550000,1.10,2,0.77,2
+342,13,23,6.0,4.0,1.0,2017-05-14,Oakland Athletics,Texas Rangers,0.570000,0.430000,0.77,2,1.10,2
+343,22,16,9.0,6.0,1.0,2017-05-14,Los Angeles Dodgers,Colorado Rockies,0.460000,0.540000,1.15,2,0.74,2
+344,27,29,4.0,1.0,1.0,2017-05-14,Detroit Tigers,Los Angeles Angels,0.430000,0.570000,0.95,2,0.87,2
+345,24,6,8.0,3.0,1.0,2017-05-14,Cincinnati Reds,San Francisco Giants,0.540000,0.460000,0.69,2,1.25,2
+346,8,30,4.0,6.0,0.0,2017-05-14,Pittsburgh Pirates,Arizona Diamondbacks,0.530000,0.470000,0.71,2,1.20,2
+347,15,26,,,,2017-05-14,Philadelphia Phillies,Washington Nationals,0.710000,0.290000,0.48,2,1.75,2
+348,10,4,,,,2017-05-14,Houston Astros,New York Yankees,0.540000,0.460000,0.83,2,1.00,2
+349,7,21,8.0,7.0,1.0,2017-05-15,Tampa Bay Rays,Cleveland Indians,0.610000,0.390000,0.67,2,1.30,2
+350,11,4,2.0,7.0,0.0,2017-05-15,Houston Astros,Miami Marlins,0.490000,0.510000,0.95,2,0.87,2
+351,14,25,6.0,10.0,1.0,2017-05-15,Atlanta Braves,Toronto Blue Jays,0.570000,0.430000,0.74,2,1.15,2
+352,8,9,7.0,3.0,1.0,2017-05-15,New York Mets,Arizona Diamondbacks,0.500000,0.500000,0.87,2,0.95,2
+353,27,5,5.0,3.0,1.0,2017-05-15,Chicago White Sox,Los Angeles Angels,0.590000,0.410000,0.74,2,1.55,2
+354,17,3,6.0,5.0,1.0,2017-05-15,Milwaukee Brewers,San Diego Padres,0.450000,0.550000,0.87,2,0.95,2
+355,12,23,6.0,5.0,1.0,2017-05-15,Oakland Athletics,Seattle Mariners,0.570000,0.430000,0.83,2,1.00,2
+356,24,16,8.0,4.0,1.0,2017-05-15,Los Angeles Dodgers,San Francisco Giants,0.410000,0.590000,1.25,2,0.69,2
+357,14,25,5.0,9.0,0.0,2017-05-16,Atlanta Braves,Toronto Blue Jays,0.640000,0.360000,0.71,2,1.20,2
+358,7,21,4.0,6.0,0.0,2017-05-16,Tampa Bay Rays,Cleveland Indians,0.560000,0.440000,0.57,2,1.55,2
+359,30,15,4.0,8.0,0.0,2017-05-16,Washington Nationals,Pittsburgh Pirates,0.400000,0.600000,1.45,2,0.61,2
+360,29,19,11.0,13.0,0.0,2017-05-16,Baltimore Orioles,Detroit Tigers,0.490000,0.510000,0.87,2,0.95,2
+361,11,4,2.0,12.0,1.0,2017-05-16,Houston Astros,Miami Marlins,0.360000,0.640000,1.65,2,0.54,2
+362,1,6,9.0,5.0,1.0,2017-05-16,Cincinnati Reds,Chicago Cubs,0.650000,0.350000,0.52,2,1.67,2
+363,13,26,5.0,1.0,1.0,2017-05-16,Philadelphia Phillies,Texas Rangers,0.650000,0.350000,0.52,2,1.67,2
+364,20,10,1.0,7.0,0.0,2017-05-16,New York Yankees,Kansas City Royals,0.430000,0.570000,0.95,2,0.87,2
+365,2,18,3.0,6.0,0.0,2017-05-16,Boston Red Sox,St. Louis Cardinals,0.520000,0.480000,0.91,2,0.91,2
+366,8,9,5.0,4.0,1.0,2017-05-16,New York Mets,Arizona Diamondbacks,0.600000,0.400000,0.59,2,1.50,2
+367,27,5,7.0,6.0,1.0,2017-05-16,Chicago White Sox,Los Angeles Angels,0.560000,0.440000,0.56,2,1.60,2
+368,17,3,2.0,6.0,0.0,2017-05-16,Milwaukee Brewers,San Diego Padres,0.460000,0.540000,0.83,2,1.00,2
+369,12,23,6.0,9.0,0.0,2017-05-16,Oakland Athletics,Seattle Mariners,0.550000,0.450000,0.91,2,0.91,2
+370,24,16,2.0,1.0,1.0,2017-05-16,Los Angeles Dodgers,San Francisco Giants,0.400000,0.600000,1.50,2,0.59,2
+371,28,22,3.0,7.0,0.0,2017-05-16,Colorado Rockies,Minnesota Twins,0.510000,0.490000,0.83,2,1.00,2
+551,8,9,5.0,4.0,1.0,2017-05-17,New York Mets,Arizona Diamondbacks,0.520000,0.480000,0.71,2,1.20,2
+552,30,15,6.0,1.0,1.0,2017-05-17,Washington Nationals,Pittsburgh Pirates,0.540000,0.460000,0.74,2,1.15,2
+553,29,19,5.0,4.0,1.0,2017-05-17,Baltimore Orioles,Detroit Tigers,0.580000,0.420000,0.71,2,1.20,2
+554,25,14,8.0,4.0,1.0,2017-05-17,Toronto Blue Jays,Atlanta Braves,0.500000,0.500000,0.83,2,1.00,2
+555,2,18,4.0,5.0,0.0,2017-05-17,Boston Red Sox,St. Louis Cardinals,0.510000,0.490000,0.95,2,0.87,2
+556,1,6,7.0,5.0,1.0,2017-05-17,Cincinnati Reds,Chicago Cubs,0.660000,0.340000,0.59,2,1.50,2
+557,13,26,9.0,3.0,1.0,2017-05-17,Philadelphia Phillies,Texas Rangers,0.580000,0.420000,0.71,2,1.20,2
+558,28,22,,,,2017-05-17,Colorado Rockies,Minnesota Twins,0.570000,0.430000,0.71,2,1.20,2
+559,20,10,7.0,11.0,1.0,2017-05-17,New York Yankees,Kansas City Royals,0.440000,0.560000,1.20,2,0.71,2
+560,27,5,12.0,8.0,0.0,2017-05-17,Chicago White Sox,Los Angeles Angels,0.560000,0.440000,0.59,2,1.50,2
+561,17,3,1.0,3.0,0.0,2017-05-17,Milwaukee Brewers,San Diego Padres,0.480000,0.520000,0.74,2,1.15,2
+562,12,23,4.0,0.0,1.0,2017-05-17,Oakland Athletics,Seattle Mariners,0.570000,0.430000,0.87,2,0.95,2
+566,13,26,8.0,4.0,1.0,2017-05-18,Philadelphia Phillies,Texas Rangers,0.630000,0.370000,0.67,2,1.30,2
+567,1,6,9.0,5.0,1.0,2017-05-18,Cincinnati Reds,Chicago Cubs,0.670000,0.330000,0.43,2,1.90,2
+568,17,3,2.0,4.0,0.0,2017-05-18,Milwaukee Brewers,San Diego Padres,0.440000,0.560000,0.91,2,0.91,2
+569,28,22,,,,2017-05-18,Colorado Rockies,Minnesota Twins,0.470000,0.530000,0.83,2,1.00,2
+570,25,14,0.0,9.0,0.0,2017-05-18,Toronto Blue Jays,Atlanta Braves,0.510000,0.490000,1.05,2,0.80,2
+571,20,10,5.0,1.0,1.0,2017-05-18,New York Yankees,Kansas City Royals,0.460000,0.540000,1.05,2,0.80,2
+572,23,18,8.0,3.0,1.0,2017-05-18,Boston Red Sox,Oakland Athletics,0.470000,0.530000,0.91,2,0.91,2
+573,16,11,7.0,2.0,1.0,2017-05-18,Miami Marlins,Los Angeles Dodgers,0.620000,0.380000,0.48,2,1.75,2
+574,12,5,5.0,4.0,1.0,2017-05-18,Chicago White Sox,Seattle Mariners,0.640000,0.360000,0.48,2,1.45,2
+575,1,3,3.0,6.0,0.0,2017-05-19,Milwaukee Brewers,Chicago Cubs,0.570000,0.430000,0.63,2,1.40,2
+576,19,14,5.0,3.0,1.0,2017-05-19,Toronto Blue Jays,Baltimore Orioles,0.530000,0.470000,0.87,2,0.95,2
+577,30,26,2.0,7.0,0.0,2017-05-19,Philadelphia Phillies,Pittsburgh Pirates,0.550000,0.450000,0.74,2,1.15,2
+578,6,22,6.0,12.0,1.0,2017-05-19,Colorado Rockies,Cincinnati Reds,0.480000,0.520000,0.91,2,0.91,2
+579,29,13,3.0,5.0,0.0,2017-05-19,Texas Rangers,Detroit Tigers,0.570000,0.430000,0.69,2,1.25,2
+580,9,27,3.0,0.0,1.0,2017-05-19,Los Angeles Angels,New York Mets,0.560000,0.440000,0.67,2,1.30,2
+581,21,10,5.0,4.0,1.0,2017-05-19,New York Yankees,Tampa Bay Rays,0.530000,0.470000,1.05,2,0.80,2
+582,25,15,7.0,4.0,1.0,2017-05-19,Washington Nationals,Atlanta Braves,0.430000,0.570000,1.50,2,0.59,2
+583,4,7,3.0,5.0,0.0,2017-05-19,Cleveland Indians,Houston Astros,0.580000,0.420000,0.74,2,1.15,2
+584,28,20,4.0,3.0,1.0,2017-05-19,Kansas City Royals,Minnesota Twins,0.560000,0.440000,0.95,2,0.87,2
+585,2,24,5.0,6.0,0.0,2017-05-19,San Francisco Giants,St. Louis Cardinals,0.570000,0.430000,0.67,2,1.30,2
+586,23,18,3.0,2.0,1.0,2017-05-19,Boston Red Sox,Oakland Athletics,0.390000,0.610000,1.65,2,0.54,2
+587,16,11,7.0,2.0,1.0,2017-05-19,Miami Marlins,Los Angeles Dodgers,0.660000,0.340000,0.37,2,2.20,2
+588,17,8,1.0,10.0,0.0,2017-05-19,Arizona Diamondbacks,San Diego Padres,0.410000,0.590000,1.30,2,0.67,2
+589,12,5,1.0,2.0,0.0,2017-05-19,Chicago White Sox,Seattle Mariners,0.560000,0.440000,0.83,2,1.00,2
+3336,1,3,,,,2017-05-20,Milwaukee Brewers,Chicago Cubs,0.610000,0.390000,0.50,2,1.70,2
+3337,23,18,8.0,3.0,1.0,2017-05-20,Boston Red Sox,Oakland Athletics,0.500000,0.500000,0.95,2,0.86,2
+3338,30,26,6.0,3.0,1.0,2017-05-20,Philadelphia Phillies,Pittsburgh Pirates,0.600000,0.400000,0.80,2,1.05,2
+3339,25,15,5.0,2.0,1.0,2017-05-20,Washington Nationals,Atlanta Braves,0.360000,0.640000,1.80,2,0.45,2
+3340,6,22,12.0,8.0,0.0,2017-05-20,Colorado Rockies,Cincinnati Reds,0.490000,0.510000,0.86,2,0.95,2
+3341,4,7,0.0,3.0,0.0,2017-05-20,Cleveland Indians,Houston Astros,0.560000,0.440000,0.80,2,1.05,2
+3342,21,10,9.0,5.0,1.0,2017-05-20,New York Yankees,Tampa Bay Rays,0.490000,0.510000,1.10,2,0.76,2
+3350,6,22,4.0,6.0,0.0,2017-05-21,Colorado Rockies,Cincinnati Reds,0.500000,0.500000,1.00,2,0.83,2
+3351,9,27,5.0,12.0,1.0,2017-05-21,Los Angeles Angels,New York Mets,0.520000,0.480000,0.95,2,0.87,2
+3352,21,10,2.0,3.0,0.0,2017-05-21,New York Yankees,Tampa Bay Rays,0.540000,0.460000,0.71,2,1.20,2
+3353,25,15,2.0,3.0,0.0,2017-05-21,Washington Nationals,Atlanta Braves,0.400000,0.600000,1.60,2,0.56,2
+3354,19,14,1.0,3.0,0.0,2017-05-21,Toronto Blue Jays,Baltimore Orioles,0.510000,0.490000,0.80,2,1.05,2
+3355,30,26,1.0,0.0,1.0,2017-05-21,Philadelphia Phillies,Pittsburgh Pirates,0.560000,0.440000,1.00,2,0.83,2
+3356,4,7,6.0,8.0,0.0,2017-05-21,Cleveland Indians,Houston Astros,0.550000,0.450000,0.87,2,0.95,2
+3358,2,24,8.0,3.0,1.0,2017-05-21,San Francisco Giants,St. Louis Cardinals,0.570000,0.430000,0.67,2,1.30,2
+3359,1,3,13.0,6.0,0.0,2017-05-21,Milwaukee Brewers,Chicago Cubs,0.610000,0.390000,0.52,2,1.67,2
+3360,23,18,3.0,12.0,1.0,2017-05-21,Boston Red Sox,Oakland Athletics,0.490000,0.510000,1.00,2,0.83,2
+3363,17,8,5.0,1.0,1.0,2017-05-21,Arizona Diamondbacks,San Diego Padres,0.430000,0.570000,1.05,2,0.80,2
+3368,23,11,4.0,1.0,1.0,2017-05-24,Miami Marlins,Oakland Athletics,0.530000,0.470000,0.74,2,1.15,2
+3369,8,5,8.0,6.0,1.0,2017-05-24,Chicago White Sox,Arizona Diamondbacks,0.510000,0.490000,0.80,2,1.05,2
+3370,7,6,3.0,4.0,0.0,2017-05-24,Cincinnati Reds,Cleveland Indians,0.620000,0.380000,0.47,2,1.75,2
+3371,10,20,3.0,0.0,1.0,2017-05-24,Kansas City Royals,New York Yankees,0.640000,0.360000,0.48,2,1.75,2
+3372,26,22,2.0,7.0,0.0,2017-05-24,Colorado Rockies,Philadelphia Phillies,0.470000,0.530000,1.15,2,0.74,2
+3373,15,12,5.0,1.0,1.0,2017-05-24,Seattle Mariners,Washington Nationals,0.590000,0.410000,0.65,2,1.35,2
+3374,18,13,9.0,4.0,1.0,2017-05-24,Texas Rangers,Boston Red Sox,0.630000,0.370000,0.36,2,2.30,2
+3375,9,17,5.0,6.0,0.0,2017-05-24,San Diego Padres,New York Mets,0.600000,0.400000,0.69,2,1.20,2
+3376,21,27,5.0,2.0,1.0,2017-05-24,Los Angeles Angels,Tampa Bay Rays,0.550000,0.450000,0.91,2,0.91,2
+3377,25,30,5.0,12.0,1.0,2017-05-24,Pittsburgh Pirates,Atlanta Braves,0.560000,0.440000,0.71,2,1.20,2
+3378,1,24,5.0,4.0,1.0,2017-05-24,San Francisco Giants,Chicago Cubs,0.660000,0.340000,0.52,2,1.67,2
+3379,4,29,3.0,6.0,0.0,2017-05-24,Detroit Tigers,Houston Astros,0.610000,0.390000,0.56,2,1.60,2
+3380,16,2,1.0,6.0,0.0,2017-05-24,St. Louis Cardinals,Los Angeles Dodgers,0.620000,0.380000,0.65,2,1.35,2
+3385,7,6,,,,2017-05-25,Cincinnati Reds,Cleveland Indians,0.620000,0.380000,0.54,2,1.65,2
+3386,18,13,6.0,2.0,1.0,2017-05-25,Texas Rangers,Boston Red Sox,0.590000,0.410000,0.48,2,1.75,2
+3387,9,17,3.0,4.0,0.0,2017-05-25,San Diego Padres,New York Mets,0.650000,0.350000,0.48,2,1.75,2
+3388,4,29,7.0,6.0,1.0,2017-05-25,Detroit Tigers,Houston Astros,0.540000,0.460000,0.77,2,1.10,2
+3389,3,8,0.0,4.0,0.0,2017-05-25,Arizona Diamondbacks,Milwaukee Brewers,0.510000,0.490000,0.95,2,0.87,2
+3390,16,2,7.0,3.0,1.0,2017-05-25,St. Louis Cardinals,Los Angeles Dodgers,0.580000,0.420000,0.65,2,1.35,2
+3391,5,29,8.0,2.0,1.0,2017-05-26,Detroit Tigers,Chicago White Sox,0.540000,0.460000,0.95,2,0.87,2
+3392,10,23,1.0,4.0,0.0,2017-05-26,Oakland Athletics,New York Yankees,0.600000,0.400000,0.63,2,1.40,2
+3393,26,6,2.0,5.0,0.0,2017-05-26,Cincinnati Reds,Philadelphia Phillies,0.500000,0.500000,0.69,2,1.25,2
+3394,30,9,1.0,8.0,0.0,2017-05-26,New York Mets,Pittsburgh Pirates,0.480000,0.520000,1.25,2,0.69,2
+3395,15,17,5.0,1.0,1.0,2017-05-26,San Diego Padres,Washington Nationals,0.730000,0.270000,0.38,2,2.15,2
+3396,14,13,7.0,6.0,1.0,2017-05-26,Texas Rangers,Toronto Blue Jays,0.510000,0.490000,0.65,2,1.35,2
+3397,18,12,3.0,0.0,1.0,2017-05-26,Seattle Mariners,Boston Red Sox,0.600000,0.400000,0.57,2,1.55,2
+3398,7,20,4.0,6.0,0.0,2017-05-26,Kansas City Royals,Cleveland Indians,0.630000,0.370000,0.56,2,1.60,2
+3399,11,27,8.0,5.0,1.0,2017-05-26,Los Angeles Angels,Miami Marlins,0.550000,0.450000,0.77,2,1.10,2
+3400,5,29,,,,2017-05-26,Detroit Tigers,Chicago White Sox,0.530000,0.470000,1.00,2,0.83,2
+3401,4,19,2.0,0.0,1.0,2017-05-26,Baltimore Orioles,Houston Astros,0.580000,0.420000,0.74,2,1.15,2
+3403,28,21,2.0,5.0,0.0,2017-05-26,Tampa Bay Rays,Minnesota Twins,0.480000,0.520000,1.20,2,0.71,2
+3404,22,2,10.0,0.0,1.0,2017-05-26,St. Louis Cardinals,Colorado Rockies,0.490000,0.510000,1.00,2,0.83,2
+3405,16,1,4.0,0.0,1.0,2017-05-26,Chicago Cubs,Los Angeles Dodgers,0.540000,0.460000,0.77,2,1.10,2
+3406,24,25,0.0,2.0,0.0,2017-05-26,Atlanta Braves,San Francisco Giants,0.520000,0.480000,0.83,2,1.00,2
+3407,10,23,3.0,2.0,1.0,2017-05-27,Oakland Athletics,New York Yankees,0.620000,0.380000,0.71,2,1.20,2
+3408,14,13,3.0,1.0,1.0,2017-05-27,Texas Rangers,Toronto Blue Jays,0.530000,0.470000,0.91,2,0.91,2
+3409,5,29,3.0,4.0,0.0,2017-05-27,Detroit Tigers,Chicago White Sox,0.580000,0.420000,1.25,2,0.69,2
+3410,28,21,5.0,3.0,1.0,2017-05-27,Tampa Bay Rays,Minnesota Twins,0.460000,0.540000,0.95,2,0.87,2
+3411,18,12,6.0,0.0,1.0,2017-05-27,Seattle Mariners,Boston Red Sox,0.540000,0.460000,0.67,2,1.30,2
+3412,26,6,4.0,3.0,1.0,2017-05-27,Cincinnati Reds,Philadelphia Phillies,0.520000,0.480000,0.80,2,1.05,2
+3413,15,17,3.0,0.0,1.0,2017-05-27,San Diego Padres,Washington Nationals,0.720000,0.280000,0.43,2,1.95,2
+3414,7,20,2.0,5.0,0.0,2017-05-27,Kansas City Royals,Cleveland Indians,0.610000,0.390000,0.57,2,1.55,2
+3415,11,27,2.0,5.0,0.0,2017-05-27,Los Angeles Angels,Miami Marlins,0.500000,0.500000,1.00,2,0.83,2
+3416,3,8,6.0,1.0,1.0,2017-05-27,Arizona Diamondbacks,Milwaukee Brewers,0.450000,0.550000,1.15,2,0.74,2
+3417,5,29,,,,2017-05-27,Detroit Tigers,Chicago White Sox,0.450000,0.550000,0.91,2,0.91,2
+3418,4,19,5.0,2.0,1.0,2017-05-27,Baltimore Orioles,Houston Astros,0.650000,0.350000,0.52,2,1.67,2
+3419,16,1,5.0,0.0,1.0,2017-05-27,Chicago Cubs,Los Angeles Dodgers,0.530000,0.470000,0.83,2,1.00,2
+3420,30,9,5.0,4.0,1.0,2017-05-27,New York Mets,Pittsburgh Pirates,0.540000,0.460000,0.74,2,1.15,2
+3421,22,2,0.0,3.0,0.0,2017-05-27,St. Louis Cardinals,Colorado Rockies,0.550000,0.450000,0.91,2,0.91,2
+3422,24,25,6.0,3.0,1.0,2017-05-27,Atlanta Braves,San Francisco Giants,0.540000,0.460000,0.80,2,1.05,2
+3423,10,23,9.0,5.0,1.0,2017-05-28,Oakland Athletics,New York Yankees,0.600000,0.400000,0.59,2,1.50,2
+3424,14,13,1.0,3.0,0.0,2017-05-28,Texas Rangers,Toronto Blue Jays,0.550000,0.450000,0.57,2,1.55,2
+3425,7,20,10.0,1.0,1.0,2017-05-28,Kansas City Royals,Cleveland Indians,0.580000,0.420000,0.77,2,1.10,2
+3426,11,27,9.0,2.0,1.0,2017-05-28,Los Angeles Angels,Miami Marlins,0.470000,0.530000,0.95,2,0.87,2
+3427,18,12,0.0,5.0,0.0,2017-05-28,Seattle Mariners,Boston Red Sox,0.610000,0.390000,0.50,2,1.70,2
+3428,26,6,4.0,8.0,0.0,2017-05-28,Cincinnati Reds,Philadelphia Phillies,0.450000,0.550000,1.05,2,0.80,2
+3429,15,17,3.0,5.0,0.0,2017-05-28,San Diego Padres,Washington Nationals,0.670000,0.330000,0.65,2,1.35,2
+3430,5,29,7.0,3.0,1.0,2017-05-28,Detroit Tigers,Chicago White Sox,0.570000,0.430000,1.00,2,0.83,2
+3431,4,19,8.0,4.0,1.0,2017-05-28,Baltimore Orioles,Houston Astros,0.640000,0.360000,0.43,2,1.90,2
+3432,3,8,9.0,5.0,1.0,2017-05-28,Arizona Diamondbacks,Milwaukee Brewers,0.530000,0.470000,0.77,2,1.10,2
+3433,28,21,6.0,8.0,0.0,2017-05-28,Tampa Bay Rays,Minnesota Twins,0.460000,0.540000,0.95,2,0.87,2
+3434,22,2,8.0,4.0,1.0,2017-05-28,St. Louis Cardinals,Colorado Rockies,0.530000,0.470000,0.77,2,1.10,2
+3435,24,25,7.0,1.0,1.0,2017-05-28,Atlanta Braves,San Francisco Giants,0.600000,0.400000,0.50,2,1.70,2
+3436,16,1,9.0,4.0,1.0,2017-05-28,Chicago Cubs,Los Angeles Dodgers,0.590000,0.410000,0.61,2,1.45,2
+3437,30,9,2.0,7.0,0.0,2017-05-28,New York Mets,Pittsburgh Pirates,0.490000,0.510000,0.87,2,0.95,2
+3448,20,29,7.0,10.0,1.0,2017-05-29,Detroit Tigers,Kansas City Royals,0.470000,0.530000,0.91,2,0.91,2
+3449,14,6,17.0,2.0,0.0,2017-05-29,Cincinnati Reds,Toronto Blue Jays,0.600000,0.400000,0.50,2,1.70,2
+3450,11,26,4.0,1.0,1.0,2017-05-29,Philadelphia Phillies,Miami Marlins,0.560000,0.440000,0.61,2,1.45,2
+3451,13,21,8.0,10.0,1.0,2017-05-29,Tampa Bay Rays,Texas Rangers,0.520000,0.480000,0.65,2,1.35,2
+3452,27,25,3.0,6.0,0.0,2017-05-29,Atlanta Braves,Los Angeles Angels,0.560000,0.440000,0.80,2,1.05,2
+3453,7,23,9.0,4.0,1.0,2017-05-30,Oakland Athletics,Cleveland Indians,0.610000,0.390000,0.59,2,1.50,2
+3454,2,16,4.0,9.0,0.0,2017-05-30,Los Angeles Dodgers,St. Louis Cardinals,0.450000,0.550000,1.10,2,0.77,2
+3455,19,10,3.0,8.0,0.0,2017-05-30,New York Yankees,Baltimore Orioles,0.520000,0.480000,1.20,2,0.71,2
+3456,30,8,0.0,3.0,0.0,2017-05-30,Arizona Diamondbacks,Pittsburgh Pirates,0.520000,0.480000,0.91,2,0.91,2
+3457,14,6,6.0,4.0,1.0,2017-05-30,Cincinnati Reds,Toronto Blue Jays,0.610000,0.390000,0.50,2,1.70,2
+3458,22,12,4.0,10.0,1.0,2017-05-30,Seattle Mariners,Colorado Rockies,0.550000,0.450000,0.71,2,1.20,2
+3459,11,26,7.0,2.0,1.0,2017-05-30,Philadelphia Phillies,Miami Marlins,0.560000,0.440000,0.87,2,0.95,2
+3460,9,3,5.0,4.0,1.0,2017-05-30,Milwaukee Brewers,New York Mets,0.540000,0.460000,0.83,2,1.00,2
+3461,13,21,9.0,5.0,1.0,2017-05-30,Tampa Bay Rays,Texas Rangers,0.480000,0.520000,0.95,2,0.87,2
+3462,5,18,7.0,13.0,1.0,2017-05-30,Boston Red Sox,Chicago White Sox,0.440000,0.560000,1.50,2,0.59,2
+3463,28,4,2.0,7.0,0.0,2017-05-30,Houston Astros,Minnesota Twins,0.430000,0.570000,0.91,2,0.91,2
+3464,20,29,1.0,0.0,1.0,2017-05-30,Detroit Tigers,Kansas City Royals,0.420000,0.580000,1.15,2,0.74,2
+3465,24,15,3.0,6.0,0.0,2017-05-30,Washington Nationals,San Francisco Giants,0.480000,0.520000,0.83,2,1.00,2
+3466,27,25,9.0,3.0,1.0,2017-05-30,Atlanta Braves,Los Angeles Angels,0.570000,0.430000,0.74,2,1.15,2
+3467,17,1,6.0,2.0,1.0,2017-05-30,Chicago Cubs,San Diego Padres,0.450000,0.550000,1.20,2,0.71,2
+3468,30,8,5.0,6.0,0.0,2017-05-31,Arizona Diamondbacks,Pittsburgh Pirates,0.510000,0.490000,0.91,2,0.91,2
+3469,14,6,5.0,4.0,1.0,2017-05-31,Cincinnati Reds,Toronto Blue Jays,0.530000,0.470000,0.77,2,1.10,2
+3470,11,26,10.0,2.0,0.0,2017-05-31,Philadelphia Phillies,Miami Marlins,0.620000,0.380000,0.77,2,1.10,2
+3471,28,4,6.0,17.0,1.0,2017-05-31,Houston Astros,Minnesota Twins,0.430000,0.570000,1.25,2,0.69,2
+3472,17,1,2.0,1.0,1.0,2017-05-31,Chicago Cubs,San Diego Padres,0.370000,0.630000,1.55,2,0.57,2
+3473,7,23,1.0,3.0,0.0,2017-05-31,Oakland Athletics,Cleveland Indians,0.590000,0.410000,0.63,2,1.40,2
+3474,19,10,10.0,4.0,0.0,2017-05-31,New York Yankees,Baltimore Orioles,0.480000,0.520000,0.91,2,0.91,2
+3475,9,3,1.0,7.0,0.0,2017-05-31,Milwaukee Brewers,New York Mets,0.540000,0.460000,0.56,2,1.60,2
+3476,13,21,5.0,7.0,0.0,2017-05-31,Tampa Bay Rays,Texas Rangers,0.480000,0.520000,1.15,2,0.74,2
+3477,5,18,1.0,4.0,0.0,2017-05-31,Boston Red Sox,Chicago White Sox,0.450000,0.550000,1.35,2,0.65,2
+3478,20,29,5.0,6.0,0.0,2017-05-31,Detroit Tigers,Kansas City Royals,0.540000,0.460000,0.83,2,1.00,2
+3479,2,16,2.0,1.0,1.0,2017-05-31,Los Angeles Dodgers,St. Louis Cardinals,0.510000,0.490000,0.83,2,1.00,2
+3480,27,25,2.0,1.0,1.0,2017-05-31,Atlanta Braves,Los Angeles Angels,0.550000,0.450000,0.77,2,1.10,2
+3481,12,22,5.0,0.0,1.0,2017-05-31,Colorado Rockies,Seattle Mariners,0.570000,0.430000,0.54,2,1.65,2
+3482,24,15,1.0,3.0,0.0,2017-05-31,Washington Nationals,San Francisco Giants,0.350000,0.650000,1.67,2,0.52,2
+3485,19,18,7.0,5.0,1.0,2017-06-01,Boston Red Sox,Baltimore Orioles,0.480000,0.520000,1.05,2,0.80,2
+3486,14,10,2.0,12.0,1.0,2017-06-01,New York Yankees,Toronto Blue Jays,0.570000,0.430000,0.65,2,1.35,2
+3487,11,8,2.0,3.0,0.0,2017-06-01,Arizona Diamondbacks,Miami Marlins,0.450000,0.550000,1.00,2,0.83,2
+3488,27,28,2.0,4.0,0.0,2017-06-01,Minnesota Twins,Los Angeles Angels,0.570000,0.430000,0.77,2,1.10,2
+3490,19,18,3.0,2.0,1.0,2017-06-02,Boston Red Sox,Baltimore Orioles,0.490000,0.510000,1.10,2,0.77,2
+3491,26,24,0.0,10.0,0.0,2017-06-02,San Francisco Giants,Philadelphia Phillies,0.500000,0.500000,0.80,2,1.05,2
+3492,14,10,7.0,5.0,1.0,2017-06-02,New York Yankees,Toronto Blue Jays,0.470000,0.530000,1.05,2,0.80,2
+3493,6,25,3.0,2.0,1.0,2017-06-02,Atlanta Braves,Cincinnati Reds,0.530000,0.470000,0.83,2,1.00,2
+3494,29,5,15.0,5.0,0.0,2017-06-02,Chicago White Sox,Detroit Tigers,0.590000,0.410000,0.52,2,1.67,2
+3495,11,8,7.0,5.0,1.0,2017-06-02,Arizona Diamondbacks,Miami Marlins,0.540000,0.460000,0.87,2,0.95,2
+3496,9,30,7.0,12.0,1.0,2017-06-02,Pittsburgh Pirates,New York Mets,0.530000,0.470000,0.87,2,0.95,2
+3497,13,4,1.0,7.0,0.0,2017-06-02,Houston Astros,Texas Rangers,0.450000,0.550000,1.10,2,0.77,2
+3498,3,16,1.0,2.0,0.0,2017-06-02,Los Angeles Dodgers,Milwaukee Brewers,0.360000,0.640000,1.85,2,0.44,2
+3499,20,7,4.0,0.0,1.0,2017-06-02,Cleveland Indians,Kansas City Royals,0.460000,0.540000,0.95,2,0.87,2
+3500,23,15,3.0,13.0,1.0,2017-06-02,Washington Nationals,Oakland Athletics,0.390000,0.610000,1.25,2,0.69,2
+3501,27,28,5.0,11.0,1.0,2017-06-02,Minnesota Twins,Los Angeles Angels,0.600000,0.400000,0.80,2,1.05,2
+3502,17,22,8.0,5.0,1.0,2017-06-02,Colorado Rockies,San Diego Padres,0.440000,0.560000,1.00,2,0.83,2
+3503,12,21,12.0,4.0,0.0,2017-06-02,Tampa Bay Rays,Seattle Mariners,0.490000,0.510000,1.05,2,0.80,2
+3504,14,10,0.0,7.0,0.0,2017-06-03,New York Yankees,Toronto Blue Jays,0.510000,0.490000,0.71,2,1.20,2
+3505,20,7,12.0,5.0,0.0,2017-06-03,Cleveland Indians,Kansas City Royals,0.360000,0.640000,1.70,2,0.50,2
+3506,1,2,5.0,3.0,1.0,2017-06-03,St. Louis Cardinals,Chicago Cubs,0.610000,0.390000,0.61,2,1.45,2
+3507,23,15,10.0,4.0,0.0,2017-06-03,Washington Nationals,Oakland Athletics,0.410000,0.590000,1.15,2,0.74,2
+3509,6,25,5.0,6.0,0.0,2017-06-03,Atlanta Braves,Cincinnati Reds,0.580000,0.420000,0.67,2,1.30,2
+3510,29,5,10.0,1.0,1.0,2017-06-03,Chicago White Sox,Detroit Tigers,0.500000,0.500000,0.77,2,1.10,2
+3511,11,8,3.0,0.0,1.0,2017-06-03,Arizona Diamondbacks,Miami Marlins,0.500000,0.500000,0.91,2,0.91,2
+3512,3,16,8.0,10.0,1.0,2017-06-03,Los Angeles Dodgers,Milwaukee Brewers,0.400000,0.600000,1.45,2,0.61,2
+3513,17,22,1.0,10.0,0.0,2017-06-03,Colorado Rockies,San Diego Padres,0.450000,0.550000,1.05,2,0.80,2
+3514,19,18,2.0,5.0,0.0,2017-06-03,Boston Red Sox,Baltimore Orioles,0.510000,0.490000,1.15,2,0.74,2
+3515,9,30,4.0,2.0,1.0,2017-06-03,Pittsburgh Pirates,New York Mets,0.560000,0.440000,0.80,2,1.05,2
+3516,13,4,5.0,6.0,0.0,2017-06-03,Houston Astros,Texas Rangers,0.380000,0.620000,1.60,2,0.56,2
+3517,27,28,7.0,2.0,1.0,2017-06-03,Minnesota Twins,Los Angeles Angels,0.500000,0.500000,0.87,2,0.95,2
+3518,12,21,9.0,2.0,1.0,2017-06-03,Tampa Bay Rays,Seattle Mariners,0.530000,0.470000,1.00,2,0.83,2
+3519,14,10,3.0,2.0,1.0,2017-06-04,New York Yankees,Toronto Blue Jays,0.520000,0.480000,0.95,2,0.87,2
+3520,6,25,8.0,13.0,1.0,2017-06-04,Atlanta Braves,Cincinnati Reds,0.510000,0.490000,0.80,2,1.05,2
+3521,29,5,7.0,4.0,1.0,2017-06-04,Chicago White Sox,Detroit Tigers,0.620000,0.380000,0.52,2,1.67,2
+3523,9,30,1.0,11.0,0.0,2017-06-04,Pittsburgh Pirates,New York Mets,0.550000,0.450000,0.87,2,0.95,2
+3524,19,18,3.0,7.0,0.0,2017-06-04,Boston Red Sox,Baltimore Orioles,0.430000,0.570000,1.70,2,0.50,2
+3525,26,24,9.0,7.0,1.0,2017-06-04,San Francisco Giants,Philadelphia Phillies,0.480000,0.520000,1.10,2,0.77,2
+3526,3,16,3.0,0.0,1.0,2017-06-04,Los Angeles Dodgers,Milwaukee Brewers,0.440000,0.560000,1.25,2,0.69,2
+3527,20,7,0.0,8.0,0.0,2017-06-04,Cleveland Indians,Kansas City Royals,0.450000,0.550000,1.30,2,0.67,2
+3528,13,4,2.0,7.0,0.0,2017-06-04,Houston Astros,Texas Rangers,0.450000,0.550000,1.20,2,0.71,2
+3529,27,28,2.0,3.0,0.0,2017-06-04,Minnesota Twins,Los Angeles Angels,0.570000,0.430000,1.10,2,0.77,2
+3530,23,15,10.0,11.0,0.0,2017-06-04,Washington Nationals,Oakland Athletics,0.420000,0.580000,0.95,2,0.87,2
+3531,12,21,7.0,1.0,1.0,2017-06-04,Tampa Bay Rays,Seattle Mariners,0.550000,0.450000,0.77,2,1.10,2
+3533,1,2,7.0,6.0,1.0,2017-06-04,St. Louis Cardinals,Chicago Cubs,0.650000,0.350000,0.59,2,1.50,2
+3534,6,2,4.0,2.0,1.0,2017-06-05,St. Louis Cardinals,Cincinnati Reds,0.450000,0.550000,1.20,2,0.71,2
+3535,25,26,4.0,11.0,1.0,2017-06-05,Philadelphia Phillies,Atlanta Braves,0.570000,0.430000,0.80,2,1.05,2
+3536,3,24,2.0,7.0,0.0,2017-06-05,San Francisco Giants,Milwaukee Brewers,0.590000,0.410000,1.00,2,0.83,2
+3537,1,11,3.0,1.0,1.0,2017-06-05,Miami Marlins,Chicago Cubs,0.520000,0.480000,0.80,2,1.05,2
+3538,20,4,3.0,7.0,0.0,2017-06-05,Houston Astros,Kansas City Royals,0.410000,0.590000,1.20,2,0.69,2
+3539,16,15,2.0,4.0,0.0,2017-06-05,Washington Nationals,Los Angeles Dodgers,0.530000,0.470000,0.71,2,1.20,2
+3540,23,14,5.0,3.0,1.0,2017-06-05,Toronto Blue Jays,Oakland Athletics,0.500000,0.500000,0.91,2,0.91,2
+3541,19,30,6.0,5.0,1.0,2017-06-06,Pittsburgh Pirates,Baltimore Orioles,0.510000,0.490000,0.77,2,1.10,2
+3542,10,18,4.0,5.0,0.0,2017-06-06,Boston Red Sox,New York Yankees,0.530000,0.470000,0.87,2,0.95,2
+3543,6,2,13.0,1.0,1.0,2017-06-06,St. Louis Cardinals,Cincinnati Reds,0.510000,0.490000,1.05,2,0.80,2
+3542,10,18,4.0,5.0,0.0,2017-06-06,Boston Red Sox,New York Yankees,0.530000,0.470000,0.87,2,0.95,2
+3541,19,30,6.0,5.0,1.0,2017-06-06,Pittsburgh Pirates,Baltimore Orioles,0.510000,0.490000,0.77,2,1.10,2
+3545,21,5,2.0,4.0,0.0,2017-06-06,Chicago White Sox,Tampa Bay Rays,0.590000,0.410000,0.58,2,1.50,2
+3544,29,27,3.0,5.0,0.0,2017-06-06,Los Angeles Angels,Detroit Tigers,0.560000,0.440000,0.64,2,1.35,2
+3546,25,26,1.0,3.0,0.0,2017-06-06,Philadelphia Phillies,Atlanta Braves,0.580000,0.420000,0.90,2,0.90,2
+3547,3,24,5.0,2.0,1.0,2017-06-06,San Francisco Giants,Milwaukee Brewers,0.590000,0.410000,0.71,2,1.20,2
+3548,1,11,10.0,2.0,0.0,2017-06-06,Miami Marlins,Chicago Cubs,0.640000,0.360000,0.50,2,1.70,2
+3549,13,9,10.0,8.0,0.0,2017-06-06,New York Mets,Texas Rangers,0.490000,0.510000,1.30,2,0.66,2
+3550,20,4,9.0,7.0,1.0,2017-06-06,Houston Astros,Kansas City Royals,0.380000,0.620000,1.20,2,0.71,2
+3551,22,7,11.0,3.0,0.0,2017-06-06,Cleveland Indians,Colorado Rockies,0.520000,0.480000,1.00,2,0.83,2
+3552,8,17,10.0,2.0,0.0,2017-06-06,San Diego Padres,Arizona Diamondbacks,0.640000,0.360000,0.52,2,1.67,2
+3553,23,14,4.0,1.0,1.0,2017-06-06,Toronto Blue Jays,Oakland Athletics,0.440000,0.560000,1.15,2,0.74,2
+3555,12,28,12.0,3.0,0.0,2017-06-06,Minnesota Twins,Seattle Mariners,0.650000,0.350000,0.45,2,1.80,2
+3554,16,15,1.0,2.0,0.0,2017-06-06,Washington Nationals,Los Angeles Dodgers,0.480000,0.520000,1.00,2,0.83,2
+3556,22,7,8.0,1.0,1.0,2017-06-07,Cleveland Indians,Colorado Rockies,0.500000,0.500000,1.00,2,0.83,2
+3557,16,15,2.0,1.0,1.0,2017-06-07,Washington Nationals,Los Angeles Dodgers,0.580000,0.420000,0.60,2,1.45,2
+3558,23,14,5.0,7.0,0.0,2017-06-07,Toronto Blue Jays,Oakland Athletics,0.490000,0.510000,0.86,2,0.95,2
+3560,10,18,8.0,0.0,1.0,2017-06-07,Boston Red Sox,New York Yankees,0.530000,0.470000,0.86,2,0.95,2
+3559,19,30,9.0,6.0,1.0,2017-06-07,Pittsburgh Pirates,Baltimore Orioles,0.570000,0.430000,0.66,2,1.30,2
+3563,21,5,3.0,1.0,1.0,2017-06-07,Chicago White Sox,Tampa Bay Rays,0.560000,0.440000,0.62,2,1.40,2
+3562,29,27,4.0,0.0,1.0,2017-06-07,Los Angeles Angels,Detroit Tigers,0.520000,0.480000,0.74,2,1.15,2
+3561,6,2,6.0,4.0,1.0,2017-06-07,St. Louis Cardinals,Cincinnati Reds,0.490000,0.510000,1.05,2,0.80,2
+3564,25,26,14.0,1.0,1.0,2017-06-07,Philadelphia Phillies,Atlanta Braves,0.560000,0.440000,0.76,2,1.10,2
+3565,1,11,5.0,6.0,0.0,2017-06-07,Miami Marlins,Chicago Cubs,0.630000,0.370000,0.45,2,1.80,2
+3566,13,9,3.0,4.0,0.0,2017-06-07,New York Mets,Texas Rangers,0.590000,0.410000,0.62,2,1.40,2
+3567,3,24,6.0,3.0,1.0,2017-06-07,San Francisco Giants,Milwaukee Brewers,0.550000,0.450000,0.74,2,1.15,2
+3568,20,4,7.0,5.0,1.0,2017-06-07,Houston Astros,Kansas City Royals,0.360000,0.640000,1.50,2,0.58,2
+3569,8,17,7.0,4.0,1.0,2017-06-07,San Diego Padres,Arizona Diamondbacks,0.670000,0.330000,0.47,2,1.75,2
+3570,12,28,6.0,5.0,1.0,2017-06-07,Minnesota Twins,Seattle Mariners,0.570000,0.430000,0.83,2,1.00,2
+3571,6,2,5.0,2.0,1.0,2017-06-08,St. Louis Cardinals,Cincinnati Reds,0.510000,0.490000,0.90,2,0.90,2
+3572,29,27,4.0,11.0,1.0,2017-06-08,Los Angeles Angels,Detroit Tigers,0.610000,0.390000,0.55,2,1.60,2
+3573,3,24,5.0,9.0,0.0,2017-06-08,San Francisco Giants,Milwaukee Brewers,0.500000,0.500000,1.00,2,0.83,2
+3574,8,17,15.0,3.0,0.0,2017-06-08,San Diego Padres,Arizona Diamondbacks,0.590000,0.410000,0.68,2,1.25,2
+3577,15,19,6.0,1.0,1.0,2017-06-08,Baltimore Orioles,Washington Nationals,0.550000,0.450000,0.64,2,1.35,2
+3575,10,18,9.0,1.0,1.0,2017-06-08,Boston Red Sox,New York Yankees,0.520000,0.480000,0.83,2,1.00,2
+3576,30,11,1.0,7.0,0.0,2017-06-08,Miami Marlins,Pittsburgh Pirates,0.540000,0.460000,0.74,2,1.15,2
+3578,21,5,7.0,5.0,1.0,2017-06-08,Chicago White Sox,Tampa Bay Rays,0.580000,0.420000,0.58,2,1.50,2
+3579,25,26,3.0,1.0,1.0,2017-06-08,Philadelphia Phillies,Atlanta Braves,0.560000,0.440000,0.80,2,1.05,2
+3580,1,22,1.0,4.0,0.0,2017-06-08,Colorado Rockies,Chicago Cubs,0.600000,0.400000,0.57,2,1.55,2
+3581,20,4,1.0,6.0,0.0,2017-06-08,Houston Astros,Kansas City Royals,0.340000,0.660000,1.70,2,0.50,2
+3582,12,28,1.0,2.0,0.0,2017-06-08,Minnesota Twins,Seattle Mariners,0.600000,0.400000,0.76,2,1.10,2
+3584,30,11,7.0,12.0,1.0,2017-06-09,Miami Marlins,Pittsburgh Pirates,0.490000,0.510000,0.86,2,0.95,2
+3585,15,13,2.0,5.0,0.0,2017-06-09,Texas Rangers,Washington Nationals,0.630000,0.370000,0.57,2,1.55,2
+3587,7,5,7.0,3.0,1.0,2017-06-09,Chicago White Sox,Cleveland Indians,0.650000,0.350000,0.40,2,2.10,2
+3586,18,29,5.0,3.0,1.0,2017-06-09,Detroit Tigers,Boston Red Sox,0.600000,0.400000,0.68,2,1.25,2
+3588,21,23,13.0,4.0,0.0,2017-06-09,Oakland Athletics,Tampa Bay Rays,0.570000,0.430000,0.86,2,0.95,2
+3590,10,19,8.0,2.0,1.0,2017-06-09,Baltimore Orioles,New York Yankees,0.550000,0.450000,0.74,2,1.15,2
+3589,25,9,3.0,2.0,1.0,2017-06-09,New York Mets,Atlanta Braves,0.520000,0.480000,1.05,2,0.80,2
+3591,4,27,4.0,9.0,0.0,2017-06-09,Los Angeles Angels,Houston Astros,0.610000,0.390000,0.54,2,1.65,2
+3592,2,26,3.0,2.0,1.0,2017-06-09,Philadelphia Phillies,St. Louis Cardinals,0.570000,0.430000,0.58,2,1.50,2
+3593,8,3,6.0,8.0,0.0,2017-06-09,Milwaukee Brewers,Arizona Diamondbacks,0.570000,0.430000,0.71,2,1.20,2
+3594,16,6,7.0,2.0,1.0,2017-06-09,Cincinnati Reds,Los Angeles Dodgers,0.700000,0.300000,0.50,2,1.70,2
+3595,17,20,6.0,3.0,1.0,2017-06-09,Kansas City Royals,San Diego Padres,0.500000,0.500000,0.86,2,0.95,2
+3596,12,14,4.0,2.0,1.0,2017-06-09,Toronto Blue Jays,Seattle Mariners,0.560000,0.440000,1.05,2,0.80,2
+3597,24,28,0.0,4.0,0.0,2017-06-09,Minnesota Twins,San Francisco Giants,0.480000,0.520000,0.95,2,0.86,2
+3598,15,13,3.0,6.0,0.0,2017-06-10,Texas Rangers,Washington Nationals,0.600000,0.400000,0.57,2,1.55,2
+3599,25,9,1.0,8.0,0.0,2017-06-10,New York Mets,Atlanta Braves,0.530000,0.470000,1.15,2,0.86,2
+3600,21,23,2.0,7.0,0.0,2017-06-10,Oakland Athletics,Tampa Bay Rays,0.590000,0.410000,0.83,2,1.05,2
+3601,2,26,7.0,0.0,1.0,2017-06-10,Philadelphia Phillies,St. Louis Cardinals,0.660000,0.340000,0.41,2,2.00,2
+3602,1,22,1.0,9.0,0.0,2017-06-10,Colorado Rockies,Chicago Cubs,0.520000,0.480000,0.86,2,0.95,2
+3603,30,11,7.0,6.0,1.0,2017-06-10,Miami Marlins,Pittsburgh Pirates,0.490000,0.510000,0.95,2,0.86,2
+3604,24,28,2.0,3.0,0.0,2017-06-10,Minnesota Twins,San Francisco Giants,0.580000,0.420000,0.66,2,1.30,2
+3606,17,20,6.0,12.0,1.0,2017-06-10,Kansas City Royals,San Diego Padres,0.490000,0.510000,1.00,2,0.83,2
+3605,4,27,3.0,1.0,1.0,2017-06-10,Los Angeles Angels,Houston Astros,0.610000,0.390000,0.55,2,1.60,2
+3611,10,19,16.0,3.0,0.0,2017-06-10,Baltimore Orioles,New York Yankees,0.590000,0.410000,0.42,2,1.95,2
+3610,7,5,3.0,5.0,0.0,2017-06-10,Chicago White Sox,Cleveland Indians,0.610000,0.390000,0.45,2,1.80,2
+3609,18,29,11.0,3.0,0.0,2017-06-10,Detroit Tigers,Boston Red Sox,0.610000,0.390000,0.50,2,1.70,2
+3613,16,6,5.0,4.0,1.0,2017-06-10,Cincinnati Reds,Los Angeles Dodgers,0.660000,0.340000,0.38,2,2.15,2
+3612,8,3,3.0,2.0,1.0,2017-06-10,Milwaukee Brewers,Arizona Diamondbacks,0.500000,0.500000,0.64,2,1.35,2
+3614,12,14,2.0,4.0,0.0,2017-06-10,Toronto Blue Jays,Seattle Mariners,0.560000,0.440000,1.05,2,0.80,2
+3631,7,5,4.0,2.0,1.0,2017-06-11,Chicago White Sox,Cleveland Indians,0.620000,0.380000,0.50,2,1.70,2
+3632,21,23,5.0,4.0,1.0,2017-06-11,Oakland Athletics,Tampa Bay Rays,0.620000,0.380000,0.55,2,1.60,2
+3634,30,11,3.0,1.0,1.0,2017-06-11,Miami Marlins,Pittsburgh Pirates,0.570000,0.430000,0.68,2,1.25,2
+3633,25,9,1.0,2.0,0.0,2017-06-11,New York Mets,Atlanta Braves,0.490000,0.510000,0.86,2,0.95,2
+3635,4,27,6.0,12.0,1.0,2017-06-11,Los Angeles Angels,Houston Astros,0.620000,0.380000,0.55,2,1.60,2
+3636,2,26,6.0,5.0,1.0,2017-06-11,Philadelphia Phillies,St. Louis Cardinals,0.590000,0.410000,0.71,2,1.20,2
+3637,1,22,7.0,5.0,1.0,2017-06-11,Colorado Rockies,Chicago Cubs,0.560000,0.440000,0.57,2,1.55,2
+3638,24,28,13.0,8.0,0.0,2017-06-11,Minnesota Twins,San Francisco Giants,0.500000,0.500000,0.86,2,0.95,2
+3641,16,6,9.0,7.0,1.0,2017-06-11,Cincinnati Reds,Los Angeles Dodgers,0.600000,0.400000,0.57,2,1.55,2
+3640,8,3,11.0,1.0,1.0,2017-06-11,Milwaukee Brewers,Arizona Diamondbacks,0.570000,0.430000,0.66,2,1.30,2
+3642,12,14,0.0,4.0,0.0,2017-06-11,Toronto Blue Jays,Seattle Mariners,0.580000,0.420000,0.62,2,1.40,2
+3643,17,20,3.0,8.0,0.0,2017-06-11,Kansas City Royals,San Diego Padres,0.510000,0.490000,0.83,2,1.00,2
+3644,18,29,3.0,8.0,0.0,2017-06-11,Detroit Tigers,Boston Red Sox,0.600000,0.400000,0.62,2,1.40,2
+3646,15,25,10.0,11.0,0.0,2017-06-12,Atlanta Braves,Washington Nationals,0.670000,0.330000,0.42,2,1.95,2
+3645,30,22,7.0,2.0,1.0,2017-06-12,Colorado Rockies,Pittsburgh Pirates,0.530000,0.470000,0.66,2,1.30,2
+3648,9,1,6.0,1.0,1.0,2017-06-12,Chicago Cubs,New York Mets,0.500000,0.500000,0.68,2,1.25,2
+3647,18,26,6.0,5.0,1.0,2017-06-12,Philadelphia Phillies,Boston Red Sox,0.660000,0.340000,0.43,2,1.90,2
+3649,5,19,10.0,7.0,0.0,2017-06-12,Baltimore Orioles,Chicago White Sox,0.490000,0.510000,0.90,2,0.90,2
+3651,28,12,3.0,14.0,1.0,2017-06-12,Seattle Mariners,Minnesota Twins,0.500000,0.500000,0.76,2,1.10,2
+3650,4,13,1.0,6.0,0.0,2017-06-12,Texas Rangers,Houston Astros,0.540000,0.460000,0.86,2,0.95,2
+3652,27,10,3.0,5.0,0.0,2017-06-12,New York Yankees,Los Angeles Angels,0.480000,0.520000,1.25,2,0.68,2
+3653,17,6,9.0,3.0,1.0,2017-06-12,Cincinnati Reds,San Diego Padres,0.480000,0.520000,0.80,2,1.05,2
+3654,2,3,5.0,8.0,0.0,2017-06-13,Milwaukee Brewers,St. Louis Cardinals,0.570000,0.430000,0.76,2,1.40,2
+3656,15,25,10.0,5.0,0.0,2017-06-13,Atlanta Braves,Washington Nationals,0.620000,0.380000,0.52,2,1.67,2
+3655,30,22,5.0,2.0,1.0,2017-06-13,Colorado Rockies,Pittsburgh Pirates,0.480000,0.520000,0.83,2,1.00,2
+3657,14,21,1.0,8.0,0.0,2017-06-13,Tampa Bay Rays,Toronto Blue Jays,0.580000,0.420000,0.64,2,1.35,2
+3660,29,8,6.0,7.0,0.0,2017-06-13,Arizona Diamondbacks,Detroit Tigers,0.460000,0.540000,0.90,2,0.90,2
+3662,9,1,3.0,14.0,1.0,2017-06-13,Chicago Cubs,New York Mets,0.470000,0.530000,1.15,2,0.74,2
+3659,7,16,5.0,7.0,0.0,2017-06-13,Los Angeles Dodgers,Cleveland Indians,0.410000,0.590000,1.40,2,0.62,2
+3661,11,23,8.0,1.0,1.0,2017-06-13,Oakland Athletics,Miami Marlins,0.560000,0.440000,0.80,2,1.05,2
+3658,18,26,4.0,3.0,1.0,2017-06-13,Philadelphia Phillies,Boston Red Sox,0.680000,0.320000,0.38,2,2.15,2
+3663,5,19,6.0,1.0,1.0,2017-06-13,Baltimore Orioles,Chicago White Sox,0.500000,0.500000,0.95,2,0.86,2
+3665,28,12,20.0,7.0,0.0,2017-06-13,Seattle Mariners,Minnesota Twins,0.470000,0.530000,0.86,2,0.95,2
+3664,4,13,2.0,4.0,0.0,2017-06-13,Texas Rangers,Houston Astros,0.630000,0.370000,0.55,2,1.60,2
+3667,27,10,3.0,2.0,1.0,2017-06-13,New York Yankees,Los Angeles Angels,0.450000,0.550000,1.10,2,0.76,2
+3668,17,6,6.0,2.0,1.0,2017-06-13,Cincinnati Reds,San Diego Padres,0.450000,0.550000,0.90,2,0.90,2
+3669,24,20,1.0,8.0,0.0,2017-06-13,Kansas City Royals,San Francisco Giants,0.530000,0.470000,0.83,2,1.00,2
+3671,17,6,4.0,2.0,1.0,2017-06-14,Cincinnati Reds,San Diego Padres,0.530000,0.470000,0.74,2,1.15,2
+3672,24,20,2.0,7.0,0.0,2017-06-14,Kansas City Royals,San Francisco Giants,0.590000,0.410000,0.60,2,1.45,2
+3673,15,25,2.0,13.0,1.0,2017-06-14,Atlanta Braves,Washington Nationals,0.630000,0.370000,0.60,2,1.45,2
+3674,26,18,3.0,7.0,0.0,2017-06-14,Boston Red Sox,Philadelphia Phillies,0.420000,0.580000,1.15,2,0.74,2
+3675,30,22,1.0,5.0,0.0,2017-06-14,Colorado Rockies,Pittsburgh Pirates,0.500000,0.500000,0.95,2,0.86,2
+3676,14,21,7.0,6.0,1.0,2017-06-14,Tampa Bay Rays,Toronto Blue Jays,0.500000,0.500000,0.71,2,1.20,2
+3678,29,8,1.0,2.0,0.0,2017-06-14,Arizona Diamondbacks,Detroit Tigers,0.470000,0.530000,0.83,2,1.00,2
+3679,9,1,9.0,4.0,1.0,2017-06-14,Chicago Cubs,New York Mets,0.500000,0.500000,1.10,2,0.76,2
+3677,7,16,4.0,6.0,0.0,2017-06-14,Los Angeles Dodgers,Cleveland Indians,0.540000,0.460000,0.68,2,1.25,2
+3680,5,19,6.0,10.0,1.0,2017-06-14,Baltimore Orioles,Chicago White Sox,0.490000,0.510000,1.05,2,0.80,2
+3682,28,12,4.0,6.0,0.0,2017-06-14,Seattle Mariners,Minnesota Twins,0.550000,0.450000,0.74,2,1.15,2
+3681,4,13,13.0,2.0,0.0,2017-06-14,Texas Rangers,Houston Astros,0.590000,0.410000,0.64,2,1.35,2
+3683,2,3,6.0,7.0,0.0,2017-06-14,Milwaukee Brewers,St. Louis Cardinals,0.570000,0.430000,0.55,2,1.60,2
+3684,27,10,7.0,5.0,1.0,2017-06-14,New York Yankees,Los Angeles Angels,0.480000,0.520000,1.20,2,0.71,2
+3685,7,16,12.0,5.0,0.0,2017-06-15,Los Angeles Dodgers,Cleveland Indians,0.450000,0.550000,1.15,2,0.74,2
+3686,28,12,6.0,2.0,1.0,2017-06-15,Seattle Mariners,Minnesota Twins,0.440000,0.560000,0.95,2,0.86,2
+3687,5,19,5.0,2.0,1.0,2017-06-15,Baltimore Orioles,Chicago White Sox,0.530000,0.470000,1.00,2,0.83,2
+3688,26,18,1.0,0.0,1.0,2017-06-15,Boston Red Sox,Philadelphia Phillies,0.310000,0.690000,2.10,2,0.40,2
+3689,29,21,5.0,3.0,1.0,2017-06-15,Tampa Bay Rays,Detroit Tigers,0.560000,0.440000,0.74,2,1.15,2
+3691,2,3,4.0,6.0,0.0,2017-06-15,Milwaukee Brewers,St. Louis Cardinals,0.510000,0.490000,0.66,2,1.30,2
+3692,22,24,10.0,9.0,0.0,2017-06-15,San Francisco Giants,Colorado Rockies,0.600000,0.400000,0.62,2,1.40,2
+3694,27,20,2.0,7.0,0.0,2017-06-15,Kansas City Royals,Los Angeles Angels,0.590000,0.410000,0.76,2,1.10,2
+3693,23,10,8.0,7.0,1.0,2017-06-15,New York Yankees,Oakland Athletics,0.420000,0.580000,1.10,2,0.76,2
+3697,26,8,4.0,5.0,0.0,2017-06-16,Arizona Diamondbacks,Philadelphia Phillies,0.480000,0.520000,0.80,2,1.05,2
+3698,30,1,5.0,9.0,0.0,2017-06-16,Chicago Cubs,Pittsburgh Pirates,0.510000,0.490000,1.00,2,0.83,2
+3699,14,5,4.0,11.0,1.0,2017-06-16,Chicago White Sox,Toronto Blue Jays,0.550000,0.450000,0.58,2,1.50,2
+3696,19,2,2.0,11.0,1.0,2017-06-16,St. Louis Cardinals,Baltimore Orioles,0.470000,0.530000,1.10,2,0.76,2
+3700,6,16,1.0,3.0,0.0,2017-06-16,Los Angeles Dodgers,Cincinnati Reds,0.400000,0.600000,1.50,2,0.58,2
+3701,29,21,13.0,4.0,0.0,2017-06-16,Tampa Bay Rays,Detroit Tigers,0.510000,0.490000,0.71,2,1.20,2
+3695,9,15,2.0,7.0,0.0,2017-06-16,Washington Nationals,New York Mets,0.440000,0.560000,1.30,2,0.66,2
+3702,25,11,0.0,5.0,0.0,2017-06-16,Miami Marlins,Atlanta Braves,0.480000,0.520000,0.86,2,0.95,2
+3703,13,12,10.0,4.0,0.0,2017-06-16,Seattle Mariners,Texas Rangers,0.500000,0.500000,1.20,2,0.71,2
+3704,4,18,1.0,2.0,0.0,2017-06-16,Boston Red Sox,Houston Astros,0.580000,0.420000,0.83,2,1.00,2
+3706,28,7,1.0,8.0,0.0,2017-06-16,Cleveland Indians,Minnesota Twins,0.420000,0.580000,1.35,2,0.64,2
+3705,3,17,6.0,5.0,1.0,2017-06-16,San Diego Padres,Milwaukee Brewers,0.650000,0.350000,0.62,2,1.40,2
+3707,22,24,10.0,8.0,0.0,2017-06-16,San Francisco Giants,Colorado Rockies,0.570000,0.430000,0.83,2,1.00,2
+3708,23,10,7.0,6.0,1.0,2017-06-16,New York Yankees,Oakland Athletics,0.460000,0.540000,1.10,2,0.76,2
+3709,27,20,1.0,3.0,0.0,2017-06-16,Kansas City Royals,Los Angeles Angels,0.550000,0.450000,0.86,2,0.95,2
+3710,14,5,2.0,5.0,0.0,2017-06-17,Chicago White Sox,Toronto Blue Jays,0.610000,0.390000,0.42,2,1.95,2
+3712,22,24,5.0,1.0,1.0,2017-06-17,San Francisco Giants,Colorado Rockies,0.630000,0.370000,0.57,2,1.55,2
+3715,26,8,1.0,5.0,0.0,2017-06-17,Arizona Diamondbacks,Philadelphia Phillies,0.430000,0.570000,1.10,2,0.76,2
+3714,23,10,5.0,2.0,1.0,2017-06-17,New York Yankees,Oakland Athletics,0.430000,0.570000,1.10,2,0.76,2
+3713,19,2,15.0,7.0,0.0,2017-06-17,St. Louis Cardinals,Baltimore Orioles,0.530000,0.470000,0.90,2,0.90,2
+3717,6,16,2.0,10.0,1.0,2017-06-17,Los Angeles Dodgers,Cincinnati Reds,0.440000,0.560000,1.40,2,0.62,2
+3716,25,11,8.0,7.0,1.0,2017-06-17,Miami Marlins,Atlanta Braves,0.520000,0.480000,0.86,2,0.95,2
+3719,3,17,5.0,7.0,0.0,2017-06-17,San Diego Padres,Milwaukee Brewers,0.660000,0.340000,0.60,2,1.45,2
+3718,29,21,2.0,3.0,0.0,2017-06-17,Tampa Bay Rays,Detroit Tigers,0.540000,0.460000,0.90,2,0.90,2
+3720,9,15,4.0,7.0,0.0,2017-06-17,Washington Nationals,New York Mets,0.450000,0.550000,1.45,2,0.60,2
+3721,13,12,10.0,4.0,0.0,2017-06-17,Seattle Mariners,Texas Rangers,0.550000,0.450000,0.80,2,1.05,2
+3724,4,18,7.0,1.0,1.0,2017-06-17,Boston Red Sox,Houston Astros,0.550000,0.450000,0.86,2,0.95,2
+3725,30,1,4.0,3.0,1.0,2017-06-17,Chicago Cubs,Pittsburgh Pirates,0.480000,0.520000,1.10,2,0.76,2
+3723,27,20,9.0,0.0,1.0,2017-06-17,Kansas City Royals,Los Angeles Angels,0.590000,0.410000,0.76,2,1.10,2
+3726,14,5,7.0,3.0,1.0,2017-06-18,Chicago White Sox,Toronto Blue Jays,0.610000,0.390000,0.50,2,1.70,2
+3727,6,16,7.0,8.0,0.0,2017-06-18,Los Angeles Dodgers,Cincinnati Reds,0.380000,0.620000,1.65,2,0.54,2
+3728,29,21,1.0,9.0,0.0,2017-06-18,Tampa Bay Rays,Detroit Tigers,0.490000,0.510000,0.86,2,0.95,2
+3729,9,15,5.0,1.0,1.0,2017-06-18,Washington Nationals,New York Mets,0.520000,0.480000,0.80,2,1.05,2
+3732,26,8,4.0,5.0,0.0,2017-06-18,Arizona Diamondbacks,Philadelphia Phillies,0.370000,0.630000,1.45,2,0.60,2
+3733,30,1,1.0,7.0,0.0,2017-06-18,Chicago Cubs,Pittsburgh Pirates,0.510000,0.490000,0.80,2,1.05,2
+3730,25,11,5.0,4.0,1.0,2017-06-18,Miami Marlins,Atlanta Braves,0.500000,0.500000,0.86,2,0.95,2
+3731,19,2,8.0,5.0,1.0,2017-06-18,St. Louis Cardinals,Baltimore Orioles,0.500000,0.500000,1.00,2,0.83,2
+3735,28,7,2.0,5.0,0.0,2017-06-18,Cleveland Indians,Minnesota Twins,0.430000,0.570000,1.40,2,0.62,2
+3734,3,17,2.0,1.0,1.0,2017-06-18,San Diego Padres,Milwaukee Brewers,0.610000,0.390000,0.66,2,1.30,2
+3736,13,12,3.0,7.0,0.0,2017-06-18,Seattle Mariners,Texas Rangers,0.630000,0.370000,0.47,2,1.75,2
+3737,22,24,7.0,5.0,1.0,2017-06-18,San Francisco Giants,Colorado Rockies,0.620000,0.380000,0.60,2,1.45,2
+3738,27,20,3.0,7.0,0.0,2017-06-18,Kansas City Royals,Los Angeles Angels,0.530000,0.470000,0.90,2,0.90,2
+3739,23,10,4.0,3.0,1.0,2017-06-18,New York Yankees,Oakland Athletics,0.430000,0.570000,0.86,2,0.95,2
+3740,4,18,5.0,6.0,0.0,2017-06-18,Boston Red Sox,Houston Astros,0.550000,0.450000,0.83,2,1.00,2
+3741,19,7,0.0,12.0,0.0,2017-06-19,Cleveland Indians,Baltimore Orioles,0.440000,0.560000,1.55,2,0.57,2
+3743,21,6,3.0,7.0,0.0,2017-06-19,Cincinnati Reds,Tampa Bay Rays,0.580000,0.420000,0.64,2,1.35,2
+3742,11,15,8.0,7.0,1.0,2017-06-19,Washington Nationals,Miami Marlins,0.460000,0.540000,0.95,2,0.86,2
+3744,25,24,9.0,0.0,1.0,2017-06-19,San Francisco Giants,Atlanta Braves,0.490000,0.510000,1.10,2,0.76,2
+3745,3,30,1.0,8.0,0.0,2017-06-19,Pittsburgh Pirates,Milwaukee Brewers,0.520000,0.480000,1.10,2,0.76,2
+3746,1,17,3.0,2.0,1.0,2017-06-19,San Diego Padres,Chicago Cubs,0.700000,0.300000,0.44,2,1.85,2
+3747,13,14,6.0,7.0,0.0,2017-06-19,Toronto Blue Jays,Texas Rangers,0.520000,0.480000,1.05,2,0.80,2
+3748,20,18,4.0,2.0,1.0,2017-06-19,Boston Red Sox,Kansas City Royals,0.500000,0.500000,0.90,2,0.90,2
+3750,23,4,1.0,4.0,0.0,2017-06-19,Houston Astros,Oakland Athletics,0.400000,0.600000,1.30,2,0.66,2
+3749,12,29,6.0,2.0,1.0,2017-06-19,Detroit Tigers,Seattle Mariners,0.580000,0.420000,0.71,2,1.20,2
+3751,16,9,10.0,6.0,0.0,2017-06-19,New York Mets,Los Angeles Dodgers,0.700000,0.300000,0.31,2,2.55,2
+3752,19,7,6.0,5.0,1.0,2017-06-20,Cleveland Indians,Baltimore Orioles,0.460000,0.540000,1.25,2,0.68,2
+3753,10,27,3.0,8.0,0.0,2017-06-20,Los Angeles Angels,New York Yankees,0.610000,0.390000,0.38,2,2.15,2
+3754,26,2,1.0,8.0,0.0,2017-06-20,St. Louis Cardinals,Philadelphia Phillies,0.440000,0.560000,1.40,2,0.62,2
+3756,21,6,6.0,5.0,1.0,2017-06-20,Cincinnati Reds,Tampa Bay Rays,0.630000,0.370000,0.66,2,1.30,2
+3755,11,15,3.0,12.0,1.0,2017-06-20,Washington Nationals,Miami Marlins,0.480000,0.520000,1.00,2,0.83,2
+3757,25,24,3.0,6.0,0.0,2017-06-20,San Francisco Giants,Atlanta Braves,0.560000,0.440000,0.83,2,1.00,2
+3758,3,30,3.0,7.0,0.0,2017-06-20,Pittsburgh Pirates,Milwaukee Brewers,0.540000,0.460000,0.83,2,1.00,2
+3759,1,17,4.0,0.0,1.0,2017-06-20,San Diego Padres,Chicago Cubs,0.650000,0.350000,0.47,2,1.75,2
+3760,13,14,6.0,1.0,1.0,2017-06-20,Toronto Blue Jays,Texas Rangers,0.520000,0.480000,1.15,2,0.74,2
+3761,28,5,9.0,7.0,1.0,2017-06-20,Chicago White Sox,Minnesota Twins,0.590000,0.410000,0.57,2,1.55,2
+3762,20,18,3.0,8.0,0.0,2017-06-20,Boston Red Sox,Kansas City Royals,0.390000,0.610000,1.70,2,0.50,2
+3763,22,8,4.0,3.0,1.0,2017-06-20,Arizona Diamondbacks,Colorado Rockies,0.500000,0.500000,0.90,2,0.90,2
+3765,23,4,4.0,8.0,0.0,2017-06-20,Houston Astros,Oakland Athletics,0.420000,0.580000,0.86,2,0.95,2
+3766,12,29,5.0,4.0,1.0,2017-06-20,Detroit Tigers,Seattle Mariners,0.600000,0.400000,0.71,2,1.20,2
+3764,16,9,12.0,0.0,1.0,2017-06-20,New York Mets,Los Angeles Dodgers,0.660000,0.340000,0.47,2,1.75,2
+3769,20,18,6.0,4.0,1.0,2017-06-21,Boston Red Sox,Kansas City Royals,0.470000,0.530000,1.20,2,0.71,2
+3770,1,17,2.0,3.0,0.0,2017-06-21,San Diego Padres,Chicago Cubs,0.640000,0.360000,0.47,2,1.75,2
+3771,19,7,1.0,5.0,0.0,2017-06-21,Cleveland Indians,Baltimore Orioles,0.410000,0.590000,1.35,2,0.64,2
+3772,10,27,8.0,4.0,1.0,2017-06-21,Los Angeles Angels,New York Yankees,0.580000,0.420000,0.50,2,1.70,2
+3773,26,2,6.0,7.0,0.0,2017-06-21,St. Louis Cardinals,Philadelphia Phillies,0.460000,0.540000,1.15,2,0.74,2
+3774,25,24,5.0,3.0,1.0,2017-06-21,San Francisco Giants,Atlanta Braves,0.520000,0.480000,1.00,2,0.83,2
+3775,13,14,5.0,7.0,0.0,2017-06-21,Toronto Blue Jays,Texas Rangers,0.590000,0.410000,0.95,2,0.86,2
+3777,28,5,4.0,2.0,1.0,2017-06-21,Chicago White Sox,Minnesota Twins,0.520000,0.480000,0.50,2,1.70,2
+3776,3,30,4.0,3.0,1.0,2017-06-21,Pittsburgh Pirates,Milwaukee Brewers,0.570000,0.430000,0.80,2,1.05,2
+3778,22,8,5.0,16.0,1.0,2017-06-21,Arizona Diamondbacks,Colorado Rockies,0.540000,0.460000,0.66,2,1.30,2
+3780,23,4,1.0,5.0,0.0,2017-06-21,Houston Astros,Oakland Athletics,0.440000,0.560000,1.05,2,0.80,2
+3781,12,29,7.0,5.0,1.0,2017-06-21,Detroit Tigers,Seattle Mariners,0.560000,0.440000,0.66,2,1.30,2
+3779,16,9,8.0,2.0,1.0,2017-06-21,New York Mets,Los Angeles Dodgers,0.660000,0.340000,0.43,2,1.90,2
+3782,26,2,5.0,1.0,1.0,2017-06-22,St. Louis Cardinals,Philadelphia Phillies,0.380000,0.620000,1.25,2,0.68,2
+3783,28,5,0.0,9.0,0.0,2017-06-22,Chicago White Sox,Minnesota Twins,0.470000,0.530000,0.95,2,0.86,2
+3784,13,14,11.0,4.0,0.0,2017-06-22,Toronto Blue Jays,Texas Rangers,0.510000,0.490000,1.10,2,0.76,2
+3785,3,30,4.0,2.0,1.0,2017-06-22,Pittsburgh Pirates,Milwaukee Brewers,0.520000,0.480000,0.76,2,1.10,2
+3786,22,8,3.0,10.0,1.0,2017-06-22,Arizona Diamondbacks,Colorado Rockies,0.540000,0.460000,0.80,2,1.05,2
+3787,23,4,9.0,12.0,1.0,2017-06-22,Houston Astros,Oakland Athletics,0.420000,0.580000,1.10,2,0.76,2
+3788,19,7,3.0,6.0,0.0,2017-06-22,Cleveland Indians,Baltimore Orioles,0.460000,0.540000,1.00,2,0.83,2
+3789,10,27,5.0,10.0,1.0,2017-06-22,Los Angeles Angels,New York Yankees,0.600000,0.400000,0.42,2,1.95,2
+3790,11,1,1.0,11.0,0.0,2017-06-22,Chicago Cubs,Miami Marlins,0.450000,0.550000,1.15,2,0.74,2
+3791,25,24,12.0,11.0,1.0,2017-06-22,San Francisco Giants,Atlanta Braves,0.590000,0.410000,0.62,2,1.40,2
+3793,12,29,9.0,6.0,1.0,2017-06-22,Detroit Tigers,Seattle Mariners,0.570000,0.430000,0.76,2,1.10,2
+3792,16,9,6.0,3.0,1.0,2017-06-22,New York Mets,Los Angeles Dodgers,0.580000,0.420000,0.64,2,1.35,2
+3796,10,13,1.0,8.0,0.0,2017-06-24,Texas Rangers,New York Yankees,0.560000,0.440000,0.68,2,1.25,2
+3797,5,23,2.0,10.0,1.0,2017-06-24,Oakland Athletics,Chicago White Sox,0.550000,0.450000,0.95,2,0.86,2
+3798,20,14,3.0,2.0,1.0,2017-06-24,Toronto Blue Jays,Kansas City Royals,0.530000,0.470000,0.95,2,0.86,2
+3799,15,6,18.0,3.0,0.0,2017-06-24,Cincinnati Reds,Washington Nationals,0.590000,0.410000,0.66,2,1.30,2
+3803,21,19,3.0,8.0,0.0,2017-06-24,Baltimore Orioles,Tampa Bay Rays,0.560000,0.440000,0.64,2,1.35,2
+3802,11,1,3.0,5.0,0.0,2017-06-24,Chicago Cubs,Miami Marlins,0.400000,0.600000,1.60,2,0.55,2
+3800,25,3,3.0,1.0,1.0,2017-06-24,Milwaukee Brewers,Atlanta Braves,0.530000,0.470000,0.90,2,0.90,2
+3801,7,28,2.0,4.0,0.0,2017-06-24,Minnesota Twins,Cleveland Indians,0.700000,0.300000,0.41,2,2.00,2
+3804,18,27,3.0,6.0,0.0,2017-06-24,Los Angeles Angels,Boston Red Sox,0.590000,0.410000,0.57,2,1.55,2
+3805,24,9,2.0,5.0,0.0,2017-06-24,New York Mets,San Francisco Giants,0.490000,0.510000,0.90,2,0.90,2
+3806,2,30,3.0,7.0,0.0,2017-06-24,Pittsburgh Pirates,St. Louis Cardinals,0.530000,0.470000,0.74,2,1.15,2
+3808,16,22,4.0,0.0,1.0,2017-06-24,Colorado Rockies,Los Angeles Dodgers,0.660000,0.340000,0.40,2,2.05,2
+3809,17,29,7.0,3.0,1.0,2017-06-24,Detroit Tigers,San Diego Padres,0.470000,0.530000,1.00,2,0.83,2
+3810,12,4,2.0,5.0,0.0,2017-06-24,Houston Astros,Seattle Mariners,0.430000,0.570000,1.50,2,0.58,2
+3826,8,26,6.0,1.0,1.0,2017-06-26,Philadelphia Phillies,Arizona Diamondbacks,0.700000,0.300000,0.44,2,1.85,2
+3827,2,6,8.0,2.0,1.0,2017-06-26,Cincinnati Reds,St. Louis Cardinals,0.520000,0.480000,0.71,2,1.20,2
+3828,15,1,4.0,5.0,0.0,2017-06-26,Chicago Cubs,Washington Nationals,0.590000,0.410000,0.64,2,1.35,2
+3829,18,28,4.0,1.0,1.0,2017-06-26,Minnesota Twins,Boston Red Sox,0.660000,0.340000,0.47,2,1.75,2
+3830,7,13,15.0,9.0,0.0,2017-06-26,Texas Rangers,Cleveland Indians,0.570000,0.430000,0.60,2,1.45,2
+3831,5,10,5.0,6.0,0.0,2017-06-26,New York Yankees,Chicago White Sox,0.460000,0.540000,1.40,2,0.62,2
+3832,24,22,9.0,2.0,1.0,2017-06-26,Colorado Rockies,San Francisco Giants,0.480000,0.520000,0.74,2,1.15,2
+3833,16,27,0.0,4.0,0.0,2017-06-26,Los Angeles Angels,Los Angeles Dodgers,0.660000,0.340000,0.41,2,2.00,2
+3836,14,19,1.0,3.0,0.0,2017-06-27,Baltimore Orioles,Toronto Blue Jays,0.540000,0.460000,0.58,2,1.50,2
+3835,15,1,6.0,1.0,1.0,2017-06-27,Chicago Cubs,Washington Nationals,0.600000,0.400000,0.57,2,1.55,2
+3834,30,21,2.0,4.0,0.0,2017-06-27,Tampa Bay Rays,Pittsburgh Pirates,0.510000,0.490000,0.90,2,0.90,2
+3840,29,20,5.0,3.0,1.0,2017-06-27,Kansas City Royals,Detroit Tigers,0.600000,0.400000,0.58,2,1.50,2
+3838,6,3,8.0,6.0,1.0,2017-06-27,Milwaukee Brewers,Cincinnati Reds,0.470000,0.530000,0.74,2,1.15,2
+3837,18,28,9.0,2.0,1.0,2017-06-27,Minnesota Twins,Boston Red Sox,0.610000,0.390000,0.47,2,1.75,2
+3841,11,9,6.0,3.0,1.0,2017-06-27,New York Mets,Miami Marlins,0.610000,0.390000,0.62,2,1.40,2
+3839,7,13,1.0,2.0,0.0,2017-06-27,Texas Rangers,Cleveland Indians,0.540000,0.460000,0.60,2,1.45,2
+3842,5,10,4.0,3.0,1.0,2017-06-27,New York Yankees,Chicago White Sox,0.490000,0.510000,1.15,2,0.74,2
+3843,4,23,4.0,6.0,0.0,2017-06-27,Oakland Athletics,Houston Astros,0.630000,0.370000,0.64,2,1.35,2
+3844,8,2,6.0,5.0,1.0,2017-06-27,St. Louis Cardinals,Arizona Diamondbacks,0.540000,0.460000,1.05,2,0.80,2
+3846,17,25,0.0,3.0,0.0,2017-06-27,Atlanta Braves,San Diego Padres,0.480000,0.520000,0.80,2,1.05,2
+3845,16,27,4.0,0.0,1.0,2017-06-27,Los Angeles Angels,Los Angeles Dodgers,0.630000,0.370000,0.44,2,1.85,2
+3847,12,26,2.0,8.0,0.0,2017-06-27,Philadelphia Phillies,Seattle Mariners,0.690000,0.310000,0.47,2,1.75,2
+3848,24,22,4.0,3.0,1.0,2017-06-27,Colorado Rockies,San Francisco Giants,0.430000,0.570000,1.15,2,0.74,2
+3849,12,26,4.0,5.0,0.0,2017-06-28,Philadelphia Phillies,Seattle Mariners,0.650000,0.350000,0.43,2,1.90,2
+3850,24,22,5.0,3.0,1.0,2017-06-28,Colorado Rockies,San Francisco Giants,0.470000,0.530000,1.00,2,0.83,2
+3853,14,19,4.0,0.0,1.0,2017-06-28,Baltimore Orioles,Toronto Blue Jays,0.570000,0.430000,0.50,2,1.70,2
+3852,15,1,8.0,4.0,1.0,2017-06-28,Chicago Cubs,Washington Nationals,0.570000,0.430000,0.60,2,1.45,2
+3851,30,21,6.0,2.0,1.0,2017-06-28,Tampa Bay Rays,Pittsburgh Pirates,0.550000,0.450000,0.76,2,1.10,2
+3857,29,20,2.0,8.0,0.0,2017-06-28,Kansas City Royals,Detroit Tigers,0.530000,0.470000,0.68,2,1.25,2
+3854,18,28,1.0,4.0,0.0,2017-06-28,Minnesota Twins,Boston Red Sox,0.610000,0.390000,0.55,2,1.60,2
+3858,11,9,0.0,8.0,0.0,2017-06-28,New York Mets,Miami Marlins,0.480000,0.520000,0.90,2,0.90,2
+3856,7,13,5.0,3.0,1.0,2017-06-28,Texas Rangers,Cleveland Indians,0.490000,0.510000,0.83,2,1.00,2
+3855,6,3,4.0,3.0,1.0,2017-06-28,Milwaukee Brewers,Cincinnati Reds,0.470000,0.530000,0.95,2,0.86,2
+3859,5,10,3.0,12.0,1.0,2017-06-28,New York Yankees,Chicago White Sox,0.490000,0.510000,1.20,2,0.71,2
+3860,4,23,11.0,8.0,0.0,2017-06-28,Oakland Athletics,Houston Astros,0.650000,0.350000,0.55,2,1.60,2
+3861,8,2,3.0,4.0,0.0,2017-06-28,St. Louis Cardinals,Arizona Diamondbacks,0.610000,0.390000,0.71,2,1.20,2
+3862,27,16,3.0,2.0,1.0,2017-06-28,Los Angeles Dodgers,Los Angeles Angels,0.480000,0.520000,1.00,2,0.83,2
+3863,17,25,7.0,4.0,1.0,2017-06-28,Atlanta Braves,San Diego Padres,0.520000,0.480000,0.76,2,1.10,2
+3866,4,23,6.0,1.0,1.0,2017-06-29,Oakland Athletics,Houston Astros,0.670000,0.330000,0.45,2,1.80,2
+3867,8,2,4.0,10.0,1.0,2017-06-29,St. Louis Cardinals,Arizona Diamondbacks,0.540000,0.460000,0.74,2,1.15,2
+3868,15,1,4.0,5.0,0.0,2017-06-29,Chicago Cubs,Washington Nationals,0.480000,0.520000,0.86,2,0.95,2
+3871,14,19,0.0,2.0,0.0,2017-06-29,Baltimore Orioles,Toronto Blue Jays,0.610000,0.390000,0.50,2,1.70,2
+3870,30,21,4.0,0.0,1.0,2017-06-29,Tampa Bay Rays,Pittsburgh Pirates,0.510000,0.490000,1.05,2,0.80,2
+3872,6,3,3.0,11.0,1.0,2017-06-29,Milwaukee Brewers,Cincinnati Reds,0.510000,0.490000,0.86,2,0.95,2
+3869,18,28,6.0,3.0,1.0,2017-06-29,Minnesota Twins,Boston Red Sox,0.630000,0.370000,0.50,2,1.70,2
+3873,11,9,3.0,6.0,0.0,2017-06-29,New York Mets,Miami Marlins,0.520000,0.480000,0.74,2,1.15,2
+3874,5,10,4.0,3.0,1.0,2017-06-29,New York Yankees,Chicago White Sox,0.430000,0.570000,1.25,2,0.68,2
+3875,17,25,6.0,0.0,1.0,2017-06-29,Atlanta Braves,San Diego Padres,0.480000,0.520000,0.83,2,1.00,2
+3876,27,16,2.0,6.0,0.0,2017-06-29,Los Angeles Dodgers,Los Angeles Angels,0.370000,0.630000,1.90,2,0.43,2
+3892,14,18,1.0,7.0,0.0,2017-07-01,Boston Red Sox,Toronto Blue Jays,0.400000,0.600000,1.50,2,0.58,2
+3894,5,13,4.0,10.0,1.0,2017-07-01,Texas Rangers,Chicago White Sox,0.450000,0.550000,0.95,2,0.86,2
+3898,30,24,1.0,2.0,0.0,2017-07-01,San Francisco Giants,Pittsburgh Pirates,0.550000,0.450000,0.80,2,1.05,2
+3896,19,21,3.0,10.0,1.0,2017-07-01,Tampa Bay Rays,Baltimore Orioles,0.540000,0.460000,0.80,2,1.05,2
+3899,6,1,5.0,3.0,1.0,2017-07-01,Chicago Cubs,Cincinnati Reds,0.480000,0.520000,1.05,2,0.80,2
+3901,9,26,7.0,6.0,1.0,2017-07-01,Philadelphia Phillies,New York Mets,0.610000,0.390000,0.58,2,1.50,2
+3903,4,10,7.0,6.0,1.0,2017-07-01,New York Yankees,Houston Astros,0.550000,0.450000,0.76,2,1.10,2
+3904,2,15,2.0,1.0,1.0,2017-07-01,Washington Nationals,St. Louis Cardinals,0.440000,0.560000,0.86,2,0.95,2
+3906,27,12,4.0,0.0,1.0,2017-07-01,Seattle Mariners,Los Angeles Angels,0.510000,0.490000,0.86,2,0.95,2
+3907,8,22,6.0,2.0,1.0,2017-07-01,Colorado Rockies,Arizona Diamondbacks,0.580000,0.420000,0.66,2,1.30,2
+3909,14,18,1.0,15.0,0.0,2017-07-02,Boston Red Sox,Toronto Blue Jays,0.450000,0.550000,0.83,2,1.00,2
+3910,6,1,2.0,6.0,0.0,2017-07-02,Chicago Cubs,Cincinnati Reds,0.440000,0.560000,1.35,2,0.64,2
+3911,29,7,8.0,11.0,1.0,2017-07-02,Cleveland Indians,Detroit Tigers,0.510000,0.490000,1.05,2,0.80,2
+3912,9,26,1.0,7.0,0.0,2017-07-02,Philadelphia Phillies,New York Mets,0.620000,0.380000,0.66,2,1.30,2
+3914,30,24,3.0,5.0,0.0,2017-07-02,San Francisco Giants,Pittsburgh Pirates,0.530000,0.470000,1.35,2,0.64,2
+3913,19,21,7.0,1.0,1.0,2017-07-02,Tampa Bay Rays,Baltimore Orioles,0.490000,0.510000,0.83,2,1.00,2
+3917,3,11,3.0,10.0,1.0,2017-07-02,Miami Marlins,Milwaukee Brewers,0.520000,0.480000,1.10,2,0.76,2
+3916,4,10,8.0,1.0,1.0,2017-07-02,New York Yankees,Houston Astros,0.570000,0.430000,0.90,2,0.90,2
+3915,5,13,6.0,5.0,1.0,2017-07-02,Texas Rangers,Chicago White Sox,0.500000,0.500000,0.86,2,0.95,2
+3918,20,28,6.0,2.0,1.0,2017-07-02,Minnesota Twins,Kansas City Royals,0.540000,0.460000,0.80,2,1.05,2
+3919,27,12,3.0,5.0,0.0,2017-07-02,Seattle Mariners,Los Angeles Angels,0.480000,0.520000,1.40,2,0.62,2
+3920,23,25,3.0,4.0,0.0,2017-07-02,Atlanta Braves,Oakland Athletics,0.570000,0.430000,0.57,2,1.55,2
+3921,8,22,4.0,3.0,1.0,2017-07-02,Colorado Rockies,Arizona Diamondbacks,0.560000,0.440000,0.74,2,1.15,2
+3922,17,16,5.0,3.0,1.0,2017-07-02,Los Angeles Dodgers,San Diego Padres,0.350000,0.650000,1.70,2,0.50,2
+3923,2,15,2.0,7.0,0.0,2017-07-02,Washington Nationals,St. Louis Cardinals,0.450000,0.550000,1.10,2,0.76,2
+3924,3,19,8.0,1.0,1.0,2017-07-03,Baltimore Orioles,Milwaukee Brewers,0.530000,0.470000,0.80,2,1.05,2
+3925,15,9,3.0,2.0,1.0,2017-07-03,New York Mets,Washington Nationals,0.580000,0.420000,0.54,2,1.65,2
+3927,26,30,4.0,0.0,1.0,2017-07-03,Pittsburgh Pirates,Philadelphia Phillies,0.450000,0.550000,0.83,2,1.00,2
+3926,10,14,6.0,3.0,1.0,2017-07-03,Toronto Blue Jays,New York Yankees,0.570000,0.430000,0.76,2,1.10,2
+3928,2,11,14.0,6.0,0.0,2017-07-03,Miami Marlins,St. Louis Cardinals,0.550000,0.450000,0.68,2,1.25,2
+3929,13,18,5.0,7.0,0.0,2017-07-03,Boston Red Sox,Texas Rangers,0.510000,0.490000,1.00,2,0.83,2
+3930,22,6,5.0,3.0,1.0,2017-07-03,Cincinnati Reds,Colorado Rockies,0.590000,0.410000,0.60,2,1.45,2
+3931,28,27,9.0,5.0,1.0,2017-07-03,Los Angeles Angels,Minnesota Twins,0.480000,0.520000,0.83,2,1.00,2
+3932,23,5,2.0,7.0,0.0,2017-07-03,Chicago White Sox,Oakland Athletics,0.490000,0.510000,0.76,2,1.10,2
+3933,12,20,1.0,3.0,0.0,2017-07-03,Kansas City Royals,Seattle Mariners,0.560000,0.440000,0.68,2,1.25,2
+3935,1,21,7.0,3.0,1.0,2017-07-05,Tampa Bay Rays,Chicago Cubs,0.580000,0.420000,0.60,2,1.45,2
+3936,23,5,7.0,4.0,1.0,2017-07-05,Chicago White Sox,Oakland Athletics,0.550000,0.450000,0.50,2,1.70,2
+3937,15,9,,,,2017-07-05,New York Mets,Washington Nationals,0.530000,0.470000,0.90,2,0.90,2
+3938,26,30,2.0,5.0,0.0,2017-07-05,Pittsburgh Pirates,Philadelphia Phillies,0.460000,0.540000,1.35,2,0.64,2
+3941,3,19,4.0,0.0,1.0,2017-07-05,Baltimore Orioles,Milwaukee Brewers,0.530000,0.470000,0.71,2,1.20,2
+3939,7,17,2.0,6.0,0.0,2017-07-05,San Diego Padres,Cleveland Indians,0.660000,0.340000,0.38,2,2.15,2
+3940,29,24,4.0,5.0,0.0,2017-07-05,San Francisco Giants,Detroit Tigers,0.550000,0.450000,0.57,2,1.55,2
+3942,25,4,4.0,10.0,1.0,2017-07-05,Houston Astros,Atlanta Braves,0.420000,0.580000,1.20,2,0.71,2
+3943,13,18,8.0,2.0,1.0,2017-07-05,Boston Red Sox,Texas Rangers,0.510000,0.490000,0.95,2,0.86,2
+3944,28,27,1.0,2.0,0.0,2017-07-05,Los Angeles Angels,Minnesota Twins,0.560000,0.440000,0.57,2,1.55,2
+3945,2,11,6.0,9.0,0.0,2017-07-05,Miami Marlins,St. Louis Cardinals,0.560000,0.440000,0.68,2,1.25,2
+3946,22,6,5.0,3.0,1.0,2017-07-05,Cincinnati Reds,Colorado Rockies,0.580000,0.420000,0.66,2,1.30,2
+3947,16,8,1.0,0.0,1.0,2017-07-05,Arizona Diamondbacks,Los Angeles Dodgers,0.630000,0.370000,0.50,2,1.70,2
+3948,12,20,6.0,9.0,0.0,2017-07-05,Kansas City Royals,Seattle Mariners,0.540000,0.460000,0.80,2,1.05,2
+3949,29,24,6.0,2.0,1.0,2017-07-06,San Francisco Giants,Detroit Tigers,0.510000,0.490000,0.90,2,0.90,2
+3950,2,11,4.0,3.0,1.0,2017-07-06,Miami Marlins,St. Louis Cardinals,0.560000,0.440000,0.66,2,1.30,2
+3951,1,3,2.0,11.0,1.0,2017-07-06,Milwaukee Brewers,Chicago Cubs,0.580000,0.420000,0.62,2,1.40,2
+3952,22,6,3.0,6.0,0.0,2017-07-06,Cincinnati Reds,Colorado Rockies,0.600000,0.400000,0.60,2,1.45,2
+3953,26,30,3.0,6.0,0.0,2017-07-06,Pittsburgh Pirates,Philadelphia Phillies,0.470000,0.530000,1.25,2,0.68,2
+3954,15,25,2.0,5.0,0.0,2017-07-06,Atlanta Braves,Washington Nationals,0.640000,0.360000,0.60,2,1.45,2
+3955,14,4,7.0,4.0,1.0,2017-07-06,Houston Astros,Toronto Blue Jays,0.360000,0.640000,1.50,2,0.58,2
+3957,21,18,4.0,1.0,1.0,2017-07-06,Boston Red Sox,Tampa Bay Rays,0.420000,0.580000,1.50,2,0.58,2
+3956,7,17,11.0,2.0,0.0,2017-07-06,San Diego Padres,Cleveland Indians,0.610000,0.390000,0.55,2,1.60,2
+3958,28,19,6.0,4.0,1.0,2017-07-06,Baltimore Orioles,Minnesota Twins,0.520000,0.480000,0.66,2,1.30,2
+3959,16,8,5.0,4.0,1.0,2017-07-06,Arizona Diamondbacks,Los Angeles Dodgers,0.610000,0.390000,0.64,2,1.35,2
+3960,12,23,4.0,7.0,0.0,2017-07-06,Oakland Athletics,Seattle Mariners,0.600000,0.400000,0.68,2,1.25,2
+3961,1,30,6.0,1.0,1.0,2017-07-07,Pittsburgh Pirates,Chicago Cubs,0.550000,0.450000,0.68,2,1.25,2
+3962,26,17,3.0,4.0,0.0,2017-07-07,San Diego Padres,Philadelphia Phillies,0.530000,0.470000,0.80,2,1.05,2
+3964,15,25,5.0,4.0,1.0,2017-07-07,Atlanta Braves,Washington Nationals,0.710000,0.290000,0.35,2,2.30,2
+3965,14,4,2.0,12.0,1.0,2017-07-07,Houston Astros,Toronto Blue Jays,0.460000,0.540000,1.15,2,0.74,2
+3963,10,3,4.0,9.0,0.0,2017-07-07,Milwaukee Brewers,New York Yankees,0.580000,0.420000,0.50,2,1.70,2
+3967,21,18,3.0,8.0,0.0,2017-07-07,Boston Red Sox,Tampa Bay Rays,0.480000,0.520000,1.25,2,0.68,2
+3966,7,29,11.0,2.0,0.0,2017-07-07,Detroit Tigers,Cleveland Indians,0.650000,0.350000,0.50,2,1.70,2
+3968,13,27,10.0,0.0,1.0,2017-07-07,Los Angeles Angels,Texas Rangers,0.570000,0.430000,0.64,2,1.35,2
+3970,2,9,5.0,6.0,0.0,2017-07-07,New York Mets,St. Louis Cardinals,0.540000,0.460000,0.86,2,0.95,2
+3969,28,19,9.0,6.0,1.0,2017-07-07,Baltimore Orioles,Minnesota Twins,0.520000,0.480000,1.05,2,0.80,2
+3971,22,5,12.0,4.0,0.0,2017-07-07,Chicago White Sox,Colorado Rockies,0.580000,0.420000,0.62,2,1.40,2
+3972,8,6,6.0,3.0,1.0,2017-07-07,Cincinnati Reds,Arizona Diamondbacks,0.640000,0.360000,0.54,2,1.65,2
+3973,16,20,4.0,1.0,1.0,2017-07-07,Kansas City Royals,Los Angeles Dodgers,0.640000,0.360000,0.50,2,1.70,2
+3974,12,23,7.0,2.0,1.0,2017-07-07,Oakland Athletics,Seattle Mariners,0.580000,0.420000,0.64,2,1.35,2
+3975,24,11,1.0,6.0,0.0,2017-07-07,Miami Marlins,San Francisco Giants,0.460000,0.540000,1.00,2,0.83,2
+3977,14,4,7.0,2.0,1.0,2017-07-08,Houston Astros,Toronto Blue Jays,0.430000,0.570000,0.95,2,0.86,2
+3976,10,3,5.0,3.0,1.0,2017-07-08,Milwaukee Brewers,New York Yankees,0.580000,0.420000,0.47,2,1.75,2
+3980,15,25,0.0,13.0,0.0,2017-07-08,Atlanta Braves,Washington Nationals,0.660000,0.340000,0.47,2,1.75,2
+3979,26,17,1.0,2.0,0.0,2017-07-08,San Diego Padres,Philadelphia Phillies,0.520000,0.480000,0.68,2,1.25,2
+3982,21,18,1.0,0.0,1.0,2017-07-08,Boston Red Sox,Tampa Bay Rays,0.500000,0.500000,0.90,2,0.90,2
+3981,2,9,4.0,1.0,1.0,2017-07-08,New York Mets,St. Louis Cardinals,0.530000,0.470000,0.76,2,1.10,2
+3984,7,29,4.0,0.0,1.0,2017-07-08,Detroit Tigers,Cleveland Indians,0.580000,0.420000,0.64,2,1.35,2
+3985,16,20,5.0,4.0,1.0,2017-07-08,Kansas City Royals,Los Angeles Dodgers,0.630000,0.370000,0.55,2,1.60,2
+3983,1,30,2.0,4.0,0.0,2017-07-08,Pittsburgh Pirates,Chicago Cubs,0.600000,0.400000,0.55,2,1.60,2
+3986,13,27,5.0,2.0,1.0,2017-07-08,Los Angeles Angels,Texas Rangers,0.580000,0.420000,0.64,2,1.35,2
+3987,22,5,4.0,5.0,0.0,2017-07-08,Chicago White Sox,Colorado Rockies,0.540000,0.460000,0.74,2,1.15,2
+3989,8,6,0.0,7.0,0.0,2017-07-08,Cincinnati Reds,Arizona Diamondbacks,0.610000,0.390000,0.58,2,1.50,2
+3990,12,23,3.0,4.0,0.0,2017-07-08,Oakland Athletics,Seattle Mariners,0.610000,0.390000,0.66,2,1.30,2
+4006,18,10,1.0,4.0,0.0,2017-07-15,New York Yankees,Boston Red Sox,0.620000,0.380000,0.58,2,1.50,2
+4007,29,14,11.0,1.0,1.0,2017-07-15,Toronto Blue Jays,Detroit Tigers,0.580000,0.420000,0.71,2,1.20,2
+4008,19,1,3.0,10.0,1.0,2017-07-15,Chicago Cubs,Baltimore Orioles,0.430000,0.570000,1.25,2,0.68,2
+4009,30,2,0.0,4.0,0.0,2017-07-15,St. Louis Cardinals,Pittsburgh Pirates,0.560000,0.440000,0.80,2,1.05,2
+4010,25,8,8.0,5.0,1.0,2017-07-15,Arizona Diamondbacks,Atlanta Braves,0.530000,0.470000,0.90,2,0.90,2
+4016,9,22,9.0,3.0,1.0,2017-07-15,Colorado Rockies,New York Mets,0.520000,0.480000,0.90,2,0.90,2
+4013,11,16,1.0,7.0,0.0,2017-07-15,Los Angeles Dodgers,Miami Marlins,0.380000,0.620000,1.55,2,0.57,2
+4014,4,28,2.0,4.0,0.0,2017-07-15,Minnesota Twins,Houston Astros,0.610000,0.390000,0.64,2,1.35,2
+4015,3,26,3.0,2.0,1.0,2017-07-15,Philadelphia Phillies,Milwaukee Brewers,0.630000,0.370000,0.60,2,1.45,2
+4011,5,12,3.0,4.0,0.0,2017-07-15,Seattle Mariners,Chicago White Sox,0.450000,0.550000,1.30,2,0.66,2
+4012,6,15,7.0,10.0,1.0,2017-07-15,Washington Nationals,Cincinnati Reds,0.370000,0.630000,1.60,2,0.55,2
+4017,20,13,0.0,1.0,0.0,2017-07-15,Texas Rangers,Kansas City Royals,0.490000,0.510000,0.80,2,1.05,2
+4018,17,24,5.0,3.0,1.0,2017-07-15,San Francisco Giants,San Diego Padres,0.440000,0.560000,1.35,2,0.64,2
+4019,23,7,5.0,3.0,1.0,2017-07-15,Cleveland Indians,Oakland Athletics,0.370000,0.630000,1.75,2,0.47,2
+4020,27,21,3.0,6.0,0.0,2017-07-15,Tampa Bay Rays,Los Angeles Angels,0.500000,0.500000,0.90,2,0.90,2
+4021,18,10,3.0,0.0,1.0,2017-07-16,New York Yankees,Boston Red Sox,0.530000,0.470000,0.74,2,1.20,2
+4025,9,22,4.0,13.0,1.0,2017-07-16,Colorado Rockies,New York Mets,0.560000,0.440000,0.80,2,1.05,2
+4024,11,16,2.0,3.0,0.0,2017-07-16,Los Angeles Dodgers,Miami Marlins,0.380000,0.620000,1.70,2,0.50,2
+4023,29,14,6.0,5.0,1.0,2017-07-16,Toronto Blue Jays,Detroit Tigers,0.510000,0.490000,0.83,2,1.00,2
+4022,6,15,4.0,14.0,1.0,2017-07-16,Washington Nationals,Cincinnati Reds,0.470000,0.530000,0.86,2,0.95,2
+4026,25,8,7.0,1.0,1.0,2017-07-16,Arizona Diamondbacks,Atlanta Braves,0.470000,0.530000,0.90,2,0.90,2
+4027,19,1,0.0,8.0,0.0,2017-07-16,Chicago Cubs,Baltimore Orioles,0.430000,0.570000,1.35,2,0.64,2
+4028,30,2,4.0,3.0,1.0,2017-07-16,St. Louis Cardinals,Pittsburgh Pirates,0.490000,0.510000,0.95,2,0.86,2
+4030,4,28,5.0,3.0,1.0,2017-07-16,Minnesota Twins,Houston Astros,0.700000,0.300000,0.50,2,1.70,2
+4031,3,26,2.0,5.0,0.0,2017-07-16,Philadelphia Phillies,Milwaukee Brewers,0.630000,0.370000,0.64,2,1.35,2
+4029,5,12,6.0,7.0,0.0,2017-07-16,Seattle Mariners,Chicago White Sox,0.450000,0.550000,1.10,2,0.76,2
+4032,20,13,4.0,3.0,1.0,2017-07-16,Texas Rangers,Kansas City Royals,0.460000,0.540000,1.25,2,0.68,2
+4033,27,21,4.0,3.0,1.0,2017-07-16,Tampa Bay Rays,Los Angeles Angels,0.480000,0.520000,1.35,2,0.64,2
+4034,23,7,7.0,3.0,1.0,2017-07-16,Cleveland Indians,Oakland Athletics,0.500000,0.500000,0.90,2,0.90,2
+4035,17,24,7.0,1.0,1.0,2017-07-16,San Francisco Giants,San Diego Padres,0.480000,0.520000,1.00,2,0.83,2
+4037,6,15,1.0,6.0,0.0,2017-07-17,Washington Nationals,Cincinnati Reds,0.420000,0.580000,1.30,2,0.66,2
+4040,30,3,4.0,2.0,1.0,2017-07-17,Milwaukee Brewers,Pittsburgh Pirates,0.520000,0.480000,0.83,2,1.00,2
+4039,19,13,3.0,1.0,1.0,2017-07-17,Texas Rangers,Baltimore Orioles,0.480000,0.520000,0.86,2,0.95,2
+4042,9,2,3.0,6.0,0.0,2017-07-17,St. Louis Cardinals,New York Mets,0.530000,0.470000,0.86,2,0.95,2
+4038,18,14,3.0,4.0,0.0,2017-07-17,Toronto Blue Jays,Boston Red Sox,0.580000,0.420000,0.90,2,0.90,2
+4041,11,26,6.0,5.0,1.0,2017-07-17,Philadelphia Phillies,Miami Marlins,0.580000,0.420000,0.64,2,1.35,2
+4043,25,1,3.0,4.0,0.0,2017-07-17,Chicago Cubs,Atlanta Braves,0.460000,0.540000,1.40,2,0.62,2
+4045,28,10,4.0,2.0,1.0,2017-07-17,New York Yankees,Minnesota Twins,0.470000,0.530000,0.95,2,0.86,2
+4044,4,12,7.0,9.0,0.0,2017-07-17,Seattle Mariners,Houston Astros,0.660000,0.340000,0.42,2,1.95,2
+4046,20,29,2.0,10.0,1.0,2017-07-17,Detroit Tigers,Kansas City Royals,0.600000,0.400000,0.83,2,1.00,2
+4047,22,17,9.0,6.0,1.0,2017-07-17,San Diego Padres,Colorado Rockies,0.620000,0.380000,0.58,2,1.50,2
+4048,23,21,2.0,3.0,0.0,2017-07-17,Tampa Bay Rays,Oakland Athletics,0.480000,0.520000,0.90,2,0.90,2
+4049,24,7,3.0,5.0,0.0,2017-07-17,Cleveland Indians,San Francisco Giants,0.450000,0.550000,1.10,2,0.76,2
+4051,30,3,4.0,3.0,1.0,2017-07-18,Milwaukee Brewers,Pittsburgh Pirates,0.540000,0.460000,0.66,2,1.30,2
+4050,19,13,12.0,1.0,1.0,2017-07-18,Texas Rangers,Baltimore Orioles,0.490000,0.510000,0.83,2,1.00,2
+4053,6,8,2.0,11.0,1.0,2017-07-18,Arizona Diamondbacks,Cincinnati Reds,0.450000,0.550000,1.25,2,0.68,2
+4054,11,26,2.0,5.0,0.0,2017-07-18,Philadelphia Phillies,Miami Marlins,0.620000,0.380000,0.71,2,1.20,2
+4055,9,2,0.0,5.0,0.0,2017-07-18,St. Louis Cardinals,New York Mets,0.500000,0.500000,1.05,2,0.80,2
+4056,25,1,1.0,5.0,0.0,2017-07-18,Chicago Cubs,Atlanta Braves,0.460000,0.540000,1.00,2,0.83,2
+4058,5,16,0.0,1.0,0.0,2017-07-18,Los Angeles Dodgers,Chicago White Sox,0.300000,0.700000,2.70,2,0.29,2
+4057,28,10,3.0,6.0,0.0,2017-07-18,New York Yankees,Minnesota Twins,0.440000,0.560000,1.15,2,0.74,2
+4059,4,12,6.0,2.0,1.0,2017-07-18,Seattle Mariners,Houston Astros,0.640000,0.360000,0.50,2,1.70,2
+4060,20,29,3.0,9.0,0.0,2017-07-18,Detroit Tigers,Kansas City Royals,0.550000,0.450000,0.90,2,0.90,2
+4061,22,17,9.0,7.0,1.0,2017-07-18,San Diego Padres,Colorado Rockies,0.610000,0.390000,0.68,2,1.25,2
+4062,23,21,3.0,4.0,0.0,2017-07-18,Tampa Bay Rays,Oakland Athletics,0.490000,0.510000,1.05,2,0.80,2
+4063,27,15,3.0,4.0,0.0,2017-07-18,Washington Nationals,Los Angeles Angels,0.490000,0.510000,0.80,2,1.05,2
+4064,24,7,2.0,1.0,1.0,2017-07-18,Cleveland Indians,San Francisco Giants,0.430000,0.570000,1.20,2,0.71,2
+4071,30,3,3.0,2.0,1.0,2017-07-19,Milwaukee Brewers,Pittsburgh Pirates,0.540000,0.460000,0.62,2,1.40,2
+4070,19,13,10.0,2.0,0.0,2017-07-19,Texas Rangers,Baltimore Orioles,0.500000,0.500000,0.71,2,1.20,2
+4073,6,8,4.0,3.0,1.0,2017-07-19,Arizona Diamondbacks,Cincinnati Reds,0.410000,0.590000,1.45,2,0.60,2
+4069,9,2,7.0,3.0,1.0,2017-07-19,St. Louis Cardinals,New York Mets,0.560000,0.440000,0.64,2,1.35,2
+4072,18,14,5.0,1.0,1.0,2017-07-19,Toronto Blue Jays,Boston Red Sox,0.580000,0.420000,0.74,2,1.15,2
+4074,5,16,1.0,9.0,0.0,2017-07-19,Los Angeles Dodgers,Chicago White Sox,0.410000,0.590000,1.40,2,0.62,2
+4075,20,29,4.0,3.0,1.0,2017-07-19,Detroit Tigers,Kansas City Royals,0.490000,0.510000,0.90,2,0.90,2
+4076,27,15,7.0,0.0,1.0,2017-07-19,Washington Nationals,Los Angeles Angels,0.440000,0.560000,0.90,2,0.90,2
+4077,9,2,3.0,2.0,1.0,2017-07-20,St. Louis Cardinals,New York Mets,0.510000,0.490000,0.95,2,0.86,2
+4078,6,8,2.0,12.0,1.0,2017-07-20,Arizona Diamondbacks,Cincinnati Reds,0.490000,0.510000,0.90,2,0.90,2
+4079,30,3,4.0,2.0,1.0,2017-07-20,Milwaukee Brewers,Pittsburgh Pirates,0.540000,0.460000,0.76,2,1.10,2
+4080,18,14,6.0,8.0,0.0,2017-07-20,Toronto Blue Jays,Boston Red Sox,0.580000,0.420000,0.83,2,1.00,2
+4084,12,10,1.0,4.0,0.0,2017-07-20,New York Yankees,Seattle Mariners,0.510000,0.490000,1.05,2,0.80,2
+4085,24,17,2.0,5.0,0.0,2017-07-20,San Diego Padres,San Francisco Giants,0.620000,0.380000,0.50,3,1.75,2
+4081,19,13,9.0,7.0,1.0,2017-07-20,Texas Rangers,Baltimore Orioles,0.440000,0.560000,0.90,2,0.95,3
+4082,20,29,16.0,4.0,0.0,2017-07-20,Detroit Tigers,Kansas City Royals,0.500000,0.500000,1.10,2,0.87,3
+4083,16,25,3.0,6.0,0.0,2017-07-20,Atlanta Braves,Los Angeles Dodgers,0.670000,0.330000,0.47,2,2.00,3
+4086,1,2,4.0,11.0,1.0,2017-07-21,St. Louis Cardinals,Chicago Cubs,0.570000,0.430000,0.67,3,1.30,2
+4087,19,4,7.0,8.0,0.0,2017-07-21,Houston Astros,Baltimore Orioles,0.380000,0.620000,1.25,2,0.68,2
+4088,26,3,6.0,1.0,1.0,2017-07-21,Milwaukee Brewers,Philadelphia Phillies,0.490000,0.510000,0.71,2,1.20,2
+4091,9,23,7.0,5.0,1.0,2017-07-21,Oakland Athletics,New York Mets,0.580000,0.420000,0.58,2,1.50,2
+4092,21,13,3.0,4.0,0.0,2017-07-21,Texas Rangers,Tampa Bay Rays,0.500000,0.500000,1.10,3,0.76,2
+4090,7,14,13.0,3.0,0.0,2017-07-21,Toronto Blue Jays,Cleveland Indians,0.570000,0.430000,0.68,2,1.25,2
+4094,20,5,7.0,6.0,1.0,2017-07-21,Chicago White Sox,Kansas City Royals,0.620000,0.380000,0.55,2,1.60,2
+4095,22,30,5.0,13.0,1.0,2017-07-21,Pittsburgh Pirates,Colorado Rockies,0.560000,0.440000,0.70,3,1.25,2
+4096,8,15,6.0,5.0,1.0,2017-07-21,Washington Nationals,Arizona Diamondbacks,0.400000,0.600000,1.25,3,0.68,2
+4097,27,18,2.0,6.0,0.0,2017-07-21,Boston Red Sox,Los Angeles Angels,0.410000,0.590000,1.65,2,0.54,2
+4099,12,10,1.0,5.0,0.0,2017-07-21,New York Yankees,Seattle Mariners,0.480000,0.520000,1.05,2,0.80,2
+4100,24,17,9.0,12.0,1.0,2017-07-21,San Diego Padres,San Francisco Giants,0.570000,0.430000,0.60,3,1.45,2
+4089,6,11,1.0,3.0,0.0,2017-07-21,Miami Marlins,Cincinnati Reds,0.500000,0.500000,0.86,2,1.00,3
+4093,28,29,3.0,6.0,0.0,2017-07-21,Detroit Tigers,Minnesota Twins,0.580000,0.420000,0.74,2,1.15,3
+4098,16,25,3.0,12.0,1.0,2017-07-21,Atlanta Braves,Los Angeles Dodgers,0.720000,0.280000,0.40,3,2.00,3
+4101,1,2,3.0,2.0,1.0,2017-07-22,St. Louis Cardinals,Chicago Cubs,0.610000,0.390000,0.60,2,1.45,2
+4103,19,4,4.0,8.0,0.0,2017-07-22,Houston Astros,Baltimore Orioles,0.370000,0.630000,1.20,2,0.71,2
+4109,21,13,3.0,4.0,0.0,2017-07-22,Texas Rangers,Tampa Bay Rays,0.570000,0.430000,0.52,2,1.67,2
+4110,20,5,7.0,2.0,1.0,2017-07-22,Chicago White Sox,Kansas City Royals,0.610000,0.390000,0.55,2,1.60,2
+4115,12,10,6.0,5.0,1.0,2017-07-22,New York Yankees,Seattle Mariners,0.510000,0.490000,1.20,2,0.71,2
+4102,24,17,5.0,4.0,1.0,2017-07-22,San Diego Padres,San Francisco Giants,0.540000,0.460000,0.71,2,1.20,3
+4104,26,3,8.0,9.0,0.0,2017-07-22,Milwaukee Brewers,Philadelphia Phillies,0.470000,0.530000,1.05,2,0.83,3
+4108,9,23,6.0,5.0,1.0,2017-07-22,Oakland Athletics,New York Mets,0.510000,0.490000,0.95,2,0.90,3
+4107,28,29,6.0,5.0,1.0,2017-07-22,Detroit Tigers,Minnesota Twins,0.520000,0.480000,0.90,2,0.95,3
+4106,7,14,2.0,1.0,1.0,2017-07-22,Toronto Blue Jays,Cleveland Indians,0.550000,0.450000,0.74,2,1.15,3
+4105,6,11,4.0,5.0,0.0,2017-07-22,Miami Marlins,Cincinnati Reds,0.480000,0.520000,0.95,2,0.90,3
+4112,22,30,7.0,3.0,1.0,2017-07-22,Pittsburgh Pirates,Colorado Rockies,0.550000,0.450000,0.76,2,1.10,3
+4113,27,18,7.0,3.0,1.0,2017-07-22,Boston Red Sox,Los Angeles Angels,0.450000,0.550000,1.25,2,0.70,3
+4114,16,25,6.0,2.0,1.0,2017-07-22,Atlanta Braves,Los Angeles Dodgers,0.680000,0.320000,0.42,2,2.00,3
+4119,21,13,5.0,6.0,0.0,2017-07-23,Texas Rangers,Tampa Bay Rays,0.520000,0.480000,0.77,4,1.20,2
+4123,20,5,5.0,4.0,1.0,2017-07-23,Chicago White Sox,Kansas City Royals,0.580000,0.420000,0.77,4,1.20,2
+4125,27,18,3.0,2.0,1.0,2017-07-23,Boston Red Sox,Los Angeles Angels,0.490000,0.510000,1.20,4,0.74,2
+4117,7,14,8.0,1.0,1.0,2017-07-23,Toronto Blue Jays,Cleveland Indians,0.650000,0.350000,0.50,4,1.80,3
+4121,26,3,6.0,3.0,1.0,2017-07-23,Milwaukee Brewers,Philadelphia Phillies,0.450000,0.550000,0.87,4,1.00,3
+4118,9,23,2.0,3.0,0.0,2017-07-23,Oakland Athletics,New York Mets,0.560000,0.440000,0.74,2,1.25,4
+4116,6,11,6.0,3.0,1.0,2017-07-23,Miami Marlins,Cincinnati Reds,0.510000,0.490000,0.90,2,1.20,4
+4120,19,4,9.0,7.0,1.0,2017-07-23,Houston Astros,Baltimore Orioles,0.390000,0.610000,1.40,2,0.71,4
+4122,28,29,6.0,9.0,0.0,2017-07-23,Detroit Tigers,Minnesota Twins,0.550000,0.450000,0.95,2,0.95,4
+4124,22,30,13.0,3.0,0.0,2017-07-23,Pittsburgh Pirates,Colorado Rockies,0.520000,0.480000,0.90,2,0.95,4
+4126,24,17,2.0,5.0,0.0,2017-07-23,San Diego Padres,San Francisco Giants,0.560000,0.440000,0.80,3,1.10,4
+4127,8,15,2.0,6.0,0.0,2017-07-23,Washington Nationals,Arizona Diamondbacks,0.490000,0.510000,1.05,2,0.91,4
+4128,16,25,5.0,4.0,1.0,2017-07-23,Atlanta Braves,Los Angeles Dodgers,0.750000,0.250000,0.26,2,3.25,4
+4129,12,10,4.0,6.0,0.0,2017-07-23,New York Yankees,Seattle Mariners,0.520000,0.480000,0.91,4,0.91,4
+4130,1,2,5.0,3.0,1.0,2017-07-23,St. Louis Cardinals,Chicago Cubs,0.610000,0.390000,0.59,4,1.50,4
+4133,14,23,4.0,2.0,1.0,2017-07-24,Oakland Athletics,Toronto Blue Jays,0.530000,0.470000,0.63,4,1.40,4
+4132,26,4,4.0,13.0,1.0,2017-07-24,Houston Astros,Philadelphia Phillies,0.340000,0.660000,1.45,4,0.61,4
+4134,7,6,6.0,2.0,1.0,2017-07-24,Cincinnati Reds,Cleveland Indians,0.620000,0.380000,0.53,3,1.70,4
+4135,29,20,3.0,5.0,0.0,2017-07-24,Kansas City Royals,Detroit Tigers,0.560000,0.440000,0.67,4,1.30,4
+4136,21,19,0.0,5.0,0.0,2017-07-24,Baltimore Orioles,Tampa Bay Rays,0.540000,0.460000,0.77,4,1.10,4
+4137,2,22,8.0,2.0,1.0,2017-07-24,Colorado Rockies,St. Louis Cardinals,0.520000,0.480000,0.65,3,1.40,4
+4138,13,11,0.0,4.0,0.0,2017-07-24,Miami Marlins,Texas Rangers,0.560000,0.440000,0.69,4,1.25,4
+4139,8,25,10.0,2.0,0.0,2017-07-24,Atlanta Braves,Arizona Diamondbacks,0.610000,0.390000,0.50,4,1.70,4
+4140,16,28,6.0,4.0,1.0,2017-07-24,Minnesota Twins,Los Angeles Dodgers,0.700000,0.300000,0.40,3,2.20,4
+4142,12,18,4.0,0.0,1.0,2017-07-24,Boston Red Sox,Seattle Mariners,0.550000,0.450000,0.67,4,1.30,4
+4141,17,9,3.0,5.0,0.0,2017-07-24,New York Mets,San Diego Padres,0.400000,0.600000,1.50,4,0.60,3
+4143,24,30,3.0,10.0,1.0,2017-07-24,Pittsburgh Pirates,San Francisco Giants,0.440000,0.560000,1.40,4,0.65,3
+4144,1,5,7.0,2.0,1.0,2017-07-25,Chicago White Sox,Chicago Cubs,0.610000,0.390000,0.47,2,1.90,4
+4147,15,3,0.0,8.0,0.0,2017-07-25,Milwaukee Brewers,Washington Nationals,0.540000,0.460000,0.80,3,1.10,4
+4148,14,23,4.0,1.0,1.0,2017-07-25,Oakland Athletics,Toronto Blue Jays,0.510000,0.490000,1.00,2,0.87,4
+4145,10,6,4.0,2.0,1.0,2017-07-25,Cincinnati Reds,New York Yankees,0.610000,0.390000,0.60,2,1.50,4
+4149,7,27,11.0,7.0,0.0,2017-07-25,Los Angeles Angels,Cleveland Indians,0.600000,0.400000,0.62,2,1.50,4
+4151,21,19,5.0,4.0,1.0,2017-07-25,Baltimore Orioles,Tampa Bay Rays,0.590000,0.410000,0.74,4,1.15,4
+4150,29,20,1.0,3.0,0.0,2017-07-25,Kansas City Royals,Detroit Tigers,0.540000,0.460000,0.74,2,1.20,4
+4152,13,11,10.0,4.0,0.0,2017-07-25,Miami Marlins,Texas Rangers,0.560000,0.440000,0.76,2,1.20,4
+4153,2,22,3.0,2.0,1.0,2017-07-25,Colorado Rockies,St. Louis Cardinals,0.540000,0.460000,0.71,2,1.25,4
+4154,8,25,3.0,8.0,0.0,2017-07-25,Atlanta Braves,Arizona Diamondbacks,0.580000,0.420000,0.67,4,1.30,4
+4156,17,9,5.0,6.0,0.0,2017-07-25,New York Mets,San Diego Padres,0.480000,0.520000,0.95,2,0.91,4
+4157,12,18,6.0,5.0,1.0,2017-07-25,Boston Red Sox,Seattle Mariners,0.510000,0.490000,1.00,2,0.87,4
+4155,16,28,6.0,2.0,1.0,2017-07-25,Minnesota Twins,Los Angeles Dodgers,0.670000,0.330000,0.57,2,1.65,4
+4158,24,30,11.0,3.0,0.0,2017-07-25,Pittsburgh Pirates,San Francisco Giants,0.500000,0.500000,0.80,3,1.10,4
+4146,26,4,0.0,5.0,0.0,2017-07-25,Houston Astros,Philadelphia Phillies,0.330000,0.670000,1.50,4,0.60,3
+4169,5,1,3.0,8.0,0.0,2017-07-26,Chicago Cubs,Chicago White Sox,0.370000,0.630000,2.10,4,0.41,2
+4162,12,18,0.0,4.0,0.0,2017-07-26,Boston Red Sox,Seattle Mariners,0.410000,0.590000,2.00,4,0.44,3
+4159,21,19,5.0,1.0,1.0,2017-07-26,Baltimore Orioles,Tampa Bay Rays,0.590000,0.410000,0.71,4,1.20,4
+4160,10,6,9.0,5.0,1.0,2017-07-26,Cincinnati Reds,New York Yankees,0.660000,0.340000,0.43,2,2.10,4
+4161,8,25,10.0,3.0,0.0,2017-07-26,Atlanta Braves,Arizona Diamondbacks,0.590000,0.410000,0.54,2,1.70,4
+4163,24,30,2.0,1.0,1.0,2017-07-26,Pittsburgh Pirates,San Francisco Giants,0.500000,0.500000,0.74,2,1.20,4
+4165,15,3,8.0,5.0,1.0,2017-07-26,Milwaukee Brewers,Washington Nationals,0.590000,0.410000,0.80,2,1.10,4
+4164,26,4,9.0,0.0,1.0,2017-07-26,Houston Astros,Philadelphia Phillies,0.350000,0.650000,1.20,2,0.74,4
+4166,14,23,3.0,2.0,1.0,2017-07-26,Oakland Athletics,Toronto Blue Jays,0.560000,0.440000,0.62,2,1.50,4
+4168,29,20,2.0,16.0,1.0,2017-07-26,Kansas City Royals,Detroit Tigers,0.500000,0.500000,0.86,2,1.00,4
+4170,13,11,10.0,22.0,0.0,2017-07-26,Miami Marlins,Texas Rangers,0.620000,0.380000,0.55,2,1.65,4
+4171,2,22,10.0,5.0,0.0,2017-07-26,Colorado Rockies,St. Louis Cardinals,0.570000,0.430000,0.64,2,1.40,4
+4175,7,27,2.0,1.0,1.0,2017-07-27,Los Angeles Angels,Cleveland Indians,0.580000,0.420000,0.68,2,1.30,4
+4176,14,23,8.0,4.0,1.0,2017-07-27,Oakland Athletics,Toronto Blue Jays,0.560000,0.440000,0.62,2,1.45,4
+4177,10,21,6.0,5.0,1.0,2017-07-27,Tampa Bay Rays,New York Yankees,0.570000,0.430000,0.86,2,1.00,4
+4178,11,6,4.0,1.0,1.0,2017-07-27,Cincinnati Reds,Miami Marlins,0.610000,0.390000,0.74,2,1.20,4
+4181,17,9,7.0,5.0,1.0,2017-07-27,New York Mets,San Diego Padres,0.460000,0.540000,0.90,3,0.95,4
+4180,5,1,3.0,6.0,0.0,2017-07-27,Chicago Cubs,Chicago White Sox,0.380000,0.620000,2.20,4,0.40,3
+4187,29,4,5.0,6.0,0.0,2017-07-28,Houston Astros,Detroit Tigers,0.320000,0.680000,1.65,4,0.55,2
+4184,15,22,,,,2017-07-28,Colorado Rockies,Washington Nationals,0.560000,0.440000,0.67,4,1.30,4
+4182,10,21,6.0,1.0,1.0,2017-07-28,Tampa Bay Rays,New York Yankees,0.590000,0.410000,0.57,2,1.60,4
+4188,11,6,7.0,4.0,1.0,2017-07-28,Cincinnati Reds,Miami Marlins,0.590000,0.410000,0.83,2,1.05,4
+4186,18,20,2.0,4.0,0.0,2017-07-28,Kansas City Royals,Boston Red Sox,0.580000,0.420000,0.57,2,1.65,4
+4189,13,19,8.0,2.0,1.0,2017-07-28,Baltimore Orioles,Texas Rangers,0.570000,0.430000,0.74,2,1.20,4
+4191,3,1,2.0,1.0,1.0,2017-07-28,Chicago Cubs,Milwaukee Brewers,0.440000,0.560000,1.40,4,0.63,4
+4192,2,8,1.0,0.0,1.0,2017-07-28,Arizona Diamondbacks,St. Louis Cardinals,0.500000,0.500000,0.86,2,1.00,4
+4193,23,28,3.0,6.0,0.0,2017-07-28,Minnesota Twins,Oakland Athletics,0.500000,0.500000,1.00,2,0.87,4
+4194,16,24,6.0,4.0,1.0,2017-07-28,San Francisco Giants,Los Angeles Dodgers,0.730000,0.270000,0.33,3,2.60,4
+4196,12,9,5.0,7.0,0.0,2017-07-28,New York Mets,Seattle Mariners,0.610000,0.390000,0.68,2,1.30,4
+4183,26,25,10.0,3.0,0.0,2017-07-28,Atlanta Braves,Philadelphia Phillies,0.480000,0.520000,1.10,4,0.80,3
+4190,5,7,3.0,9.0,0.0,2017-07-28,Cleveland Indians,Chicago White Sox,0.400000,0.600000,2.00,4,0.44,3
+4195,17,30,3.0,2.0,1.0,2017-07-28,Pittsburgh Pirates,San Diego Padres,0.470000,0.530000,0.90,3,0.91,3
+4205,5,7,4.0,5.0,0.0,2017-07-29,Cleveland Indians,Chicago White Sox,0.340000,0.660000,2.60,4,0.33,3
+4198,14,27,5.0,6.0,0.0,2017-07-29,Los Angeles Angels,Toronto Blue Jays,0.510000,0.490000,0.83,2,1.05,4
+4197,10,21,5.0,4.0,1.0,2017-07-29,Tampa Bay Rays,New York Yankees,0.570000,0.430000,0.67,4,1.30,4
+4199,16,24,2.0,1.0,1.0,2017-07-29,San Francisco Giants,Los Angeles Dodgers,0.730000,0.270000,0.37,2,2.50,4
+4200,12,9,3.0,2.0,1.0,2017-07-29,New York Mets,Seattle Mariners,0.470000,0.530000,1.25,2,0.71,4
+4201,29,4,5.0,3.0,1.0,2017-07-29,Houston Astros,Detroit Tigers,0.360000,0.640000,1.15,2,0.77,4
+4202,26,25,4.0,3.0,1.0,2017-07-29,Atlanta Braves,Philadelphia Phillies,0.510000,0.490000,0.90,2,0.95,4
+4204,18,20,9.0,8.0,1.0,2017-07-29,Kansas City Royals,Boston Red Sox,0.590000,0.410000,0.71,2,1.25,4
+4206,11,6,7.0,3.0,1.0,2017-07-29,Cincinnati Reds,Miami Marlins,0.610000,0.390000,0.69,4,1.25,4
+4207,3,1,1.0,2.0,0.0,2017-07-29,Chicago Cubs,Milwaukee Brewers,0.440000,0.560000,1.50,4,0.59,4
+4208,2,8,1.0,7.0,0.0,2017-07-29,Arizona Diamondbacks,St. Louis Cardinals,0.480000,0.520000,1.20,2,0.74,4
+4209,13,19,0.0,4.0,0.0,2017-07-29,Baltimore Orioles,Texas Rangers,0.550000,0.450000,1.15,2,0.77,4
+4210,17,30,4.0,2.0,1.0,2017-07-29,Pittsburgh Pirates,San Diego Padres,0.460000,0.540000,1.15,2,0.77,4
+4211,23,28,5.0,4.0,1.0,2017-07-29,Minnesota Twins,Oakland Athletics,0.510000,0.490000,1.00,2,0.87,4
+4225,17,30,1.0,7.0,0.0,2017-07-30,Pittsburgh Pirates,San Diego Padres,0.440000,0.560000,1.60,4,0.57,2
+4213,14,27,11.0,10.0,1.0,2017-07-30,Los Angeles Angels,Toronto Blue Jays,0.530000,0.470000,0.74,2,1.20,4
+4212,10,21,3.0,5.0,0.0,2017-07-30,Tampa Bay Rays,New York Yankees,0.580000,0.420000,0.62,2,1.45,4
+4215,11,6,4.0,6.0,0.0,2017-07-30,Cincinnati Reds,Miami Marlins,0.610000,0.390000,0.80,2,1.10,4
+4214,29,4,13.0,1.0,1.0,2017-07-30,Houston Astros,Detroit Tigers,0.410000,0.590000,1.20,4,0.71,4
+4216,18,20,3.0,5.0,0.0,2017-07-30,Kansas City Royals,Boston Red Sox,0.570000,0.430000,0.62,2,1.50,4
+4217,26,25,2.0,1.0,1.0,2017-07-30,Atlanta Braves,Philadelphia Phillies,0.480000,0.520000,0.90,2,0.95,4
+4219,5,7,3.0,1.0,1.0,2017-07-30,Cleveland Indians,Chicago White Sox,0.450000,0.550000,1.70,4,0.50,4
+4220,3,1,2.0,4.0,0.0,2017-07-30,Chicago Cubs,Milwaukee Brewers,0.480000,0.520000,1.10,2,0.80,4
+4221,2,8,3.0,2.0,1.0,2017-07-30,Arizona Diamondbacks,St. Louis Cardinals,0.530000,0.470000,0.83,3,1.05,4
+4222,13,19,6.0,10.0,1.0,2017-07-30,Baltimore Orioles,Texas Rangers,0.580000,0.420000,0.80,2,1.10,4
+4224,12,9,9.0,1.0,1.0,2017-07-30,New York Mets,Seattle Mariners,0.610000,0.390000,0.47,2,1.90,4
+4228,26,25,7.0,6.0,1.0,2017-07-31,Atlanta Braves,Philadelphia Phillies,0.470000,0.530000,0.95,2,0.91,4
+4230,19,20,2.0,1.0,1.0,2017-07-31,Kansas City Royals,Baltimore Orioles,0.460000,0.540000,1.25,2,0.71,4
+4231,10,29,7.0,3.0,1.0,2017-07-31,Detroit Tigers,New York Yankees,0.580000,0.420000,0.57,2,1.65,4
+4229,18,7,6.0,2.0,1.0,2017-07-31,Cleveland Indians,Boston Red Sox,0.470000,0.530000,1.20,4,0.71,4
+4232,11,15,0.0,1.0,0.0,2017-07-31,Washington Nationals,Miami Marlins,0.450000,0.550000,1.20,2,0.74,4
+4233,13,12,4.0,6.0,0.0,2017-07-31,Seattle Mariners,Texas Rangers,0.550000,0.450000,0.86,2,1.00,4
+4234,5,14,7.0,6.0,1.0,2017-07-31,Toronto Blue Jays,Chicago White Sox,0.450000,0.550000,1.50,4,0.59,4
+4235,4,21,14.0,7.0,0.0,2017-07-31,Tampa Bay Rays,Houston Astros,0.610000,0.390000,0.64,2,1.40,4
+4236,23,24,8.0,5.0,1.0,2017-07-31,San Francisco Giants,Oakland Athletics,0.620000,0.380000,0.66,2,1.40,4
+4239,30,6,1.0,9.0,0.0,2017-08-01,Cincinnati Reds,Pittsburgh Pirates,0.620000,0.380000,0.60,2,1.60,4
+4237,19,20,7.0,2.0,1.0,2017-08-01,Kansas City Royals,Baltimore Orioles,0.510000,0.490000,0.83,2,1.05,4
+4238,10,29,3.0,4.0,0.0,2017-08-01,Detroit Tigers,New York Yankees,0.630000,0.370000,0.55,2,1.65,4
+4240,18,7,12.0,10.0,1.0,2017-08-01,Cleveland Indians,Boston Red Sox,0.590000,0.410000,0.64,2,1.45,4
+4242,25,16,2.0,3.0,0.0,2017-08-01,Los Angeles Dodgers,Atlanta Braves,0.380000,0.620000,1.70,4,0.50,4
+4243,3,2,3.0,2.0,1.0,2017-08-01,St. Louis Cardinals,Milwaukee Brewers,0.510000,0.490000,0.83,3,1.05,4
+4244,1,8,16.0,4.0,0.0,2017-08-01,Arizona Diamondbacks,Chicago Cubs,0.620000,0.380000,0.57,2,1.65,4
+4246,5,14,4.0,8.0,0.0,2017-08-01,Toronto Blue Jays,Chicago White Sox,0.440000,0.560000,2.10,4,0.40,4
+4247,4,21,4.0,6.0,0.0,2017-08-01,Tampa Bay Rays,Houston Astros,0.620000,0.380000,0.90,3,0.95,4
+4248,22,9,5.0,4.0,1.0,2017-08-01,New York Mets,Colorado Rockies,0.530000,0.470000,0.74,2,1.20,4
+4249,23,24,4.0,10.0,1.0,2017-08-01,San Francisco Giants,Oakland Athletics,0.570000,0.430000,0.90,3,0.95,4
+4250,27,26,7.0,1.0,1.0,2017-08-01,Philadelphia Phillies,Los Angeles Angels,0.560000,0.440000,0.95,2,0.91,4
+4251,17,28,3.0,0.0,1.0,2017-08-01,Minnesota Twins,San Diego Padres,0.540000,0.460000,1.00,2,0.87,4
+4241,11,15,7.0,6.0,1.0,2017-08-01,Washington Nationals,Miami Marlins,0.400000,0.600000,1.90,4,0.44,3
+4252,10,29,0.0,2.0,0.0,2017-08-02,Detroit Tigers,New York Yankees,0.640000,0.360000,0.45,2,2.00,4
+4253,5,14,1.0,5.0,0.0,2017-08-02,Toronto Blue Jays,Chicago White Sox,0.440000,0.560000,1.75,2,0.50,4
+4256,19,20,6.0,0.0,1.0,2017-08-02,Kansas City Royals,Baltimore Orioles,0.520000,0.480000,0.95,2,0.91,4
+4257,30,6,2.0,5.0,0.0,2017-08-02,Cincinnati Reds,Pittsburgh Pirates,0.620000,0.380000,0.66,2,1.40,4
+4255,18,7,,,,2017-08-02,Cleveland Indians,Boston Red Sox,0.530000,0.470000,0.83,2,1.05,4
+4258,11,15,7.0,0.0,1.0,2017-08-02,Washington Nationals,Miami Marlins,0.500000,0.500000,1.05,2,0.83,4
+4260,1,8,0.0,3.0,0.0,2017-08-02,Arizona Diamondbacks,Chicago Cubs,0.580000,0.420000,0.69,4,1.25,4
+4261,13,12,5.0,1.0,1.0,2017-08-02,Seattle Mariners,Texas Rangers,0.500000,0.500000,0.95,2,0.91,4
+4262,4,21,0.0,3.0,0.0,2017-08-02,Tampa Bay Rays,Houston Astros,0.690000,0.310000,0.50,2,1.75,4
+4264,22,9,5.0,10.0,1.0,2017-08-02,New York Mets,Colorado Rockies,0.580000,0.420000,0.66,2,1.40,4
+4265,27,26,7.0,0.0,1.0,2017-08-02,Philadelphia Phillies,Los Angeles Angels,0.620000,0.380000,0.52,2,1.70,4
+4266,24,23,1.0,6.0,0.0,2017-08-02,Oakland Athletics,San Francisco Giants,0.540000,0.460000,0.76,2,1.15,4
+4254,17,28,2.0,5.0,0.0,2017-08-02,Minnesota Twins,San Diego Padres,0.470000,0.530000,1.00,4,0.85,3
+4267,3,2,2.0,1.0,1.0,2017-08-03,St. Louis Cardinals,Milwaukee Brewers,0.500000,0.500000,1.15,2,0.77,4
+4268,1,8,8.0,10.0,1.0,2017-08-03,Arizona Diamondbacks,Chicago Cubs,0.550000,0.450000,0.76,2,1.15,4
+4269,22,9,5.0,4.0,1.0,2017-08-03,New York Mets,Colorado Rockies,0.600000,0.400000,0.64,2,1.40,4
+4271,30,6,6.0,0.0,1.0,2017-08-03,Cincinnati Reds,Pittsburgh Pirates,0.580000,0.420000,0.64,2,1.45,4
+4270,19,29,5.0,7.0,0.0,2017-08-03,Detroit Tigers,Baltimore Orioles,0.540000,0.460000,0.80,3,1.10,4
+4274,25,16,4.0,7.0,0.0,2017-08-03,Los Angeles Dodgers,Atlanta Braves,0.360000,0.640000,2.30,4,0.37,4
+4275,4,21,3.0,5.0,0.0,2017-08-03,Tampa Bay Rays,Houston Astros,0.660000,0.340000,0.64,2,1.40,4
+4277,20,12,6.0,4.0,1.0,2017-08-03,Seattle Mariners,Kansas City Royals,0.510000,0.490000,0.76,2,1.15,4
+4278,27,26,5.0,4.0,1.0,2017-08-03,Philadelphia Phillies,Los Angeles Angels,0.620000,0.380000,0.67,4,1.30,4
+4279,24,23,11.0,2.0,0.0,2017-08-03,Oakland Athletics,San Francisco Giants,0.500000,0.500000,0.80,2,1.10,4
+4272,18,5,9.0,5.0,1.0,2017-08-03,Chicago White Sox,Boston Red Sox,0.630000,0.370000,0.40,3,2.00,3
+4332,1,15,2.0,4.0,0.0,2017-08-04,Washington Nationals,Chicago Cubs,0.590000,0.410000,0.68,2,1.30,4
+4334,19,29,2.0,5.0,0.0,2017-08-04,Detroit Tigers,Baltimore Orioles,0.510000,0.490000,0.80,2,1.10,3
+4340,25,11,5.0,3.0,1.0,2017-08-04,Miami Marlins,Atlanta Braves,0.500000,0.500000,1.05,2,0.83,3
+4342,28,13,8.0,4.0,1.0,2017-08-04,Texas Rangers,Minnesota Twins,0.460000,0.540000,1.05,2,0.83,3
+4343,20,12,2.0,5.0,0.0,2017-08-04,Seattle Mariners,Kansas City Royals,0.460000,0.540000,1.40,2,0.62,3
+4345,27,23,8.0,6.0,1.0,2017-08-04,Oakland Athletics,Los Angeles Angels,0.600000,0.400000,0.80,2,1.10,3
+4333,6,2,3.0,2.0,1.0,2017-08-04,St. Louis Cardinals,Cincinnati Reds,0.450000,0.550000,1.20,2,0.71,2
+4335,30,17,10.0,6.0,0.0,2017-08-04,San Diego Padres,Pittsburgh Pirates,0.600000,0.400000,0.57,2,1.55,2
+4336,18,5,3.0,2.0,1.0,2017-08-04,Chicago White Sox,Boston Red Sox,0.620000,0.380000,0.53,3,1.75,2
+4338,9,16,0.0,6.0,0.0,2017-08-04,Los Angeles Dodgers,New York Mets,0.430000,0.570000,1.10,3,0.76,2
+4337,7,10,7.0,2.0,1.0,2017-08-04,New York Yankees,Cleveland Indians,0.560000,0.440000,0.76,2,1.10,2
+4341,4,14,16.0,7.0,0.0,2017-08-04,Toronto Blue Jays,Houston Astros,0.670000,0.330000,0.60,2,1.45,2
+4344,22,26,4.0,3.0,1.0,2017-08-04,Philadelphia Phillies,Colorado Rockies,0.620000,0.380000,0.64,2,1.35,2
+4332,1,15,2.0,4.0,0.0,2017-08-04,Washington Nationals,Chicago Cubs,0.590000,0.410000,0.68,2,1.30,4
+4347,30,29,3.0,0.0,1.0,2017-08-07,Detroit Tigers,Pittsburgh Pirates,0.560000,0.440000,0.62,2,1.50,4
+4349,6,17,11.0,3.0,0.0,2017-08-07,San Diego Padres,Cincinnati Reds,0.490000,0.510000,0.80,2,1.10,4
+4350,28,3,5.0,4.0,1.0,2017-08-07,Milwaukee Brewers,Minnesota Twins,0.540000,0.460000,0.80,3,1.10,4
+4351,20,2,3.0,11.0,1.0,2017-08-07,St. Louis Cardinals,Kansas City Royals,0.510000,0.490000,1.05,2,0.80,3
+4353,27,19,2.0,6.0,0.0,2017-08-07,Baltimore Orioles,Los Angeles Angels,0.530000,0.470000,0.83,2,1.05,3
+4352,24,1,3.0,5.0,0.0,2017-08-07,Chicago Cubs,San Francisco Giants,0.400000,0.600000,1.75,2,0.50,3
+4354,6,17,10.0,3.0,0.0,2017-08-10,San Diego Padres,Cincinnati Reds,0.550000,0.450000,0.74,2,1.25,4
+4355,29,30,5.0,7.0,0.0,2017-08-10,Pittsburgh Pirates,Detroit Tigers,0.510000,0.490000,1.35,2,0.67,4
+4358,14,10,4.0,0.0,1.0,2017-08-10,New York Yankees,Toronto Blue Jays,0.470000,0.530000,1.30,4,0.67,4
+4357,15,11,3.0,2.0,1.0,2017-08-10,Miami Marlins,Washington Nationals,0.560000,0.440000,0.62,2,1.45,4
+4359,21,7,4.0,1.0,1.0,2017-08-10,Cleveland Indians,Tampa Bay Rays,0.460000,0.540000,1.35,2,0.67,4
+4360,2,20,8.0,6.0,1.0,2017-08-10,Kansas City Royals,St. Louis Cardinals,0.580000,0.420000,0.71,2,1.25,4
+4361,5,4,3.0,2.0,1.0,2017-08-10,Houston Astros,Chicago White Sox,0.410000,0.590000,1.75,2,0.50,4
+4363,8,16,6.0,8.0,0.0,2017-08-10,Los Angeles Dodgers,Arizona Diamondbacks,0.380000,0.620000,1.50,4,0.59,4
+4364,23,19,2.0,7.0,0.0,2017-08-10,Baltimore Orioles,Oakland Athletics,0.520000,0.480000,0.95,4,0.87,4
+4365,12,27,3.0,6.0,0.0,2017-08-10,Los Angeles Angels,Seattle Mariners,0.600000,0.400000,0.47,2,1.80,4
+4356,26,9,0.0,10.0,0.0,2017-08-10,New York Mets,Philadelphia Phillies,0.430000,0.570000,1.45,4,0.62,3
+4362,3,28,2.0,7.0,0.0,2017-08-10,Minnesota Twins,Milwaukee Brewers,0.570000,0.430000,0.62,3,1.30,3
+4366,18,7,3.0,7.0,0.0,2017-08-14,Cleveland Indians,Boston Red Sox,0.510000,0.490000,0.95,2,0.91,4
+4368,14,21,2.0,1.0,1.0,2017-08-14,Tampa Bay Rays,Toronto Blue Jays,0.520000,0.480000,0.95,2,0.91,4
+4369,11,24,8.0,3.0,1.0,2017-08-14,San Francisco Giants,Miami Marlins,0.580000,0.420000,0.76,2,1.15,4
+4371,13,29,6.0,2.0,1.0,2017-08-14,Detroit Tigers,Texas Rangers,0.500000,0.500000,0.90,2,0.95,4
+4374,23,20,2.0,6.0,0.0,2017-08-14,Kansas City Royals,Oakland Athletics,0.500000,0.500000,0.90,3,0.91,3
+4376,12,19,3.0,11.0,1.0,2017-08-14,Baltimore Orioles,Seattle Mariners,0.510000,0.490000,1.05,2,0.83,3
+4375,17,26,7.0,4.0,1.0,2017-08-14,Philadelphia Phillies,San Diego Padres,0.520000,0.480000,0.86,2,1.00,3
+4370,1,6,15.0,5.0,0.0,2017-08-14,Cincinnati Reds,Chicago Cubs,0.660000,0.340000,0.50,3,1.70,2
+4372,22,25,3.0,0.0,1.0,2017-08-14,Atlanta Braves,Colorado Rockies,0.590000,0.410000,0.66,2,1.30,2
+4373,8,4,2.0,0.0,1.0,2017-08-14,Houston Astros,Arizona Diamondbacks,0.500000,0.500000,0.66,2,1.30,2
+4386,28,7,1.0,8.0,0.0,2017-08-15,Cleveland Indians,Minnesota Twins,0.430000,0.570000,1.60,4,0.57,2
+4385,13,29,10.0,4.0,0.0,2017-08-15,Detroit Tigers,Texas Rangers,0.500000,0.500000,1.05,4,0.83,3
+4377,8,4,4.0,9.0,0.0,2017-08-15,Houston Astros,Arizona Diamondbacks,0.460000,0.540000,1.00,3,0.87,4
+4380,14,21,4.0,6.0,0.0,2017-08-15,Tampa Bay Rays,Toronto Blue Jays,0.560000,0.440000,0.86,2,1.00,4
+4379,15,27,3.0,1.0,1.0,2017-08-15,Los Angeles Angels,Washington Nationals,0.620000,0.380000,0.86,2,1.00,4
+4378,10,9,5.0,4.0,1.0,2017-08-15,New York Mets,New York Yankees,0.540000,0.460000,0.71,2,1.25,4
+4382,11,24,4.0,9.0,0.0,2017-08-15,San Francisco Giants,Miami Marlins,0.540000,0.460000,1.00,2,0.87,4
+4381,18,2,10.0,4.0,0.0,2017-08-15,St. Louis Cardinals,Boston Red Sox,0.570000,0.430000,0.74,2,1.20,4
+4383,3,30,3.0,1.0,1.0,2017-08-15,Pittsburgh Pirates,Milwaukee Brewers,0.550000,0.450000,0.83,2,1.05,4
+4384,1,6,1.0,2.0,0.0,2017-08-15,Cincinnati Reds,Chicago Cubs,0.650000,0.350000,0.57,2,1.65,4
+4387,22,25,3.0,4.0,0.0,2017-08-15,Atlanta Braves,Colorado Rockies,0.580000,0.420000,0.71,2,1.25,4
+4388,23,20,10.0,8.0,0.0,2017-08-15,Kansas City Royals,Oakland Athletics,0.470000,0.530000,1.05,4,0.80,4
+4389,16,5,6.0,1.0,1.0,2017-08-15,Chicago White Sox,Los Angeles Dodgers,0.730000,0.270000,0.29,3,2.90,4
+4404,28,7,,,,2017-08-16,Cleveland Indians,Minnesota Twins,0.420000,0.580000,1.60,4,0.57,2
+4392,15,27,2.0,3.0,0.0,2017-08-16,Los Angeles Angels,Washington Nationals,0.580000,0.420000,0.83,2,1.05,4
+4393,11,24,8.0,1.0,1.0,2017-08-16,San Francisco Giants,Miami Marlins,0.630000,0.370000,0.60,2,1.50,4
+4394,3,30,7.0,6.0,1.0,2017-08-16,Pittsburgh Pirates,Milwaukee Brewers,0.540000,0.460000,0.80,4,1.05,4
+4395,23,20,6.0,7.0,0.0,2017-08-16,Kansas City Royals,Oakland Athletics,0.480000,0.520000,1.20,2,0.74,4
+4396,17,26,3.0,0.0,1.0,2017-08-16,Philadelphia Phillies,San Diego Padres,0.540000,0.460000,0.76,2,1.15,4
+4397,12,19,7.0,6.0,1.0,2017-08-16,Baltimore Orioles,Seattle Mariners,0.530000,0.470000,0.95,2,0.91,4
+4399,14,21,3.0,2.0,1.0,2017-08-16,Tampa Bay Rays,Toronto Blue Jays,0.550000,0.450000,0.71,2,1.25,4
+4400,18,2,5.0,4.0,1.0,2017-08-16,St. Louis Cardinals,Boston Red Sox,0.560000,0.440000,0.71,2,1.25,4
+4401,1,6,7.0,6.0,1.0,2017-08-16,Cincinnati Reds,Chicago Cubs,0.650000,0.350000,0.50,2,1.75,4
+4402,13,29,12.0,6.0,0.0,2017-08-16,Detroit Tigers,Texas Rangers,0.640000,0.360000,0.57,2,1.65,4
+4403,4,8,9.0,5.0,1.0,2017-08-16,Arizona Diamondbacks,Houston Astros,0.600000,0.400000,0.67,4,1.30,4
+4405,22,25,17.0,2.0,0.0,2017-08-16,Atlanta Braves,Colorado Rockies,0.590000,0.410000,0.64,2,1.45,4
+4406,16,5,5.0,4.0,1.0,2017-08-16,Chicago White Sox,Los Angeles Dodgers,0.720000,0.280000,0.31,2,2.75,4
+4407,28,7,,,,2017-08-17,Cleveland Indians,Minnesota Twins,0.420000,0.580000,1.00,3,0.83,3
+4408,4,8,,,,2017-08-17,Arizona Diamondbacks,Houston Astros,0.630000,0.370000,0.76,2,1.15,4
+4409,1,6,,,,2017-08-17,Cincinnati Reds,Chicago Cubs,0.660000,0.340000,0.47,2,1.90,4
+4410,22,25,,,,2017-08-17,Atlanta Braves,Colorado Rockies,0.590000,0.410000,0.55,2,1.65,4
+4411,14,21,,,,2017-08-17,Tampa Bay Rays,Toronto Blue Jays,0.500000,0.500000,1.45,4,0.61,4
+4412,30,2,,,,2017-08-17,St. Louis Cardinals,Pittsburgh Pirates,0.500000,0.500000,0.74,2,1.20,4
+4414,9,10,,,,2017-08-17,New York Yankees,New York Mets,0.460000,0.540000,1.75,2,0.50,4
+4415,13,5,,,,2017-08-17,Chicago White Sox,Texas Rangers,0.620000,0.380000,0.64,2,1.45,4
+4416,17,15,,,,2017-08-17,Washington Nationals,San Diego Padres,0.490000,0.510000,0.86,2,1.00,4
+4417,24,26,,,,2017-08-17,Philadelphia Phillies,San Francisco Giants,0.540000,0.460000,0.86,2,1.00,4
+4459,20,7,,,,2017-08-18,Cleveland Indians,Kansas City Royals,0.390000,0.610000,1.80,4,0.47,2
+4448,1,14,,,,2017-08-18,Toronto Blue Jays,Chicago Cubs,0.590000,0.410000,0.57,3,1.65,4
+4450,30,2,,,,2017-08-18,St. Louis Cardinals,Pittsburgh Pirates,0.460000,0.540000,1.05,4,0.80,4
+4449,19,27,,,,2017-08-18,Los Angeles Angels,Baltimore Orioles,0.520000,0.480000,0.76,2,1.15,4
+4454,21,12,,,,2017-08-18,Seattle Mariners,Tampa Bay Rays,0.510000,0.490000,0.77,4,1.10,4
+4451,18,10,,,,2017-08-18,New York Yankees,Boston Red Sox,0.560000,0.440000,0.80,4,1.05,4
+4455,25,6,,,,2017-08-18,Cincinnati Reds,Atlanta Braves,0.580000,0.420000,0.83,4,1.00,4
+4456,13,5,,,,2017-08-18,Chicago White Sox,Texas Rangers,0.660000,0.340000,0.45,4,1.80,4
+4457,4,23,,,,2017-08-18,Oakland Athletics,Houston Astros,0.680000,0.320000,0.45,3,1.90,4
+4458,28,8,,,,2017-08-18,Arizona Diamondbacks,Minnesota Twins,0.510000,0.490000,0.95,4,0.87,4
+4460,22,3,,,,2017-08-18,Milwaukee Brewers,Colorado Rockies,0.600000,0.400000,0.57,2,1.60,4
+4461,17,15,,,,2017-08-18,Washington Nationals,San Diego Padres,0.320000,0.680000,1.80,4,0.45,4
+4462,24,26,,,,2017-08-18,Philadelphia Phillies,San Francisco Giants,0.590000,0.410000,0.62,2,1.45,4
+4452,29,16,,,,2017-08-18,Los Angeles Dodgers,Detroit Tigers,0.330000,0.670000,1.75,4,0.50,3
+4453,9,11,,,,2017-08-18,Miami Marlins,New York Mets,0.510000,0.490000,0.91,4,0.95,
